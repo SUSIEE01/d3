@@ -1,0 +1,6469 @@
+Index,Chemical,Count
+Oct-98,AOX,0
+Oct-98,Ammonium,1
+Oct-98,Arsenic,0
+Oct-98,Atrazine,0
+Oct-98,Biochemical Oxygen,0
+Oct-98,Cadmium,0
+Oct-98,Calcium,0
+Oct-98,Cesium,0
+Oct-98,Chemical Oxygen Demand (Cr),0
+Oct-98,Chemical Oxygen Demand (Mn),0
+Oct-98,Chlorides,0
+Oct-98,Chromium,0
+Oct-98,Copper,1
+Oct-98,Dissolved oxygen,0
+Oct-98,Fecal coliforms,0
+Oct-98,Iron,0
+Oct-98,Lead,1
+Oct-98,Macrozoobenthos,0
+Oct-98,Magnesium,0
+Oct-98,Manganese,0
+Oct-98,Mercury,0
+Oct-98,Nickel,0
+Oct-98,Nitrates,0
+Oct-98,Nitrites,0
+Oct-98,Orthophosphate-phosphorus,1
+Oct-98,Potassium,0
+Oct-98,Sodium,0
+Oct-98,Sulphates,0
+Oct-98,Total coliforms,0
+Oct-98,Total phosphorus,1
+Oct-98,Water temperature,0
+Oct-98,Zinc,0
+Nov-98,AOX,0
+Nov-98,Ammonium,1
+Nov-98,Arsenic,0
+Nov-98,Atrazine,0
+Nov-98,Biochemical Oxygen,0
+Nov-98,Cadmium,0
+Nov-98,Calcium,0
+Nov-98,Cesium,0
+Nov-98,Chemical Oxygen Demand (Cr),1
+Nov-98,Chemical Oxygen Demand (Mn),0
+Nov-98,Chlorides,0
+Nov-98,Chromium,0
+Nov-98,Copper,1
+Nov-98,Dissolved oxygen,0
+Nov-98,Fecal coliforms,0
+Nov-98,Iron,0
+Nov-98,Lead,1
+Nov-98,Macrozoobenthos,0
+Nov-98,Magnesium,0
+Nov-98,Manganese,1
+Nov-98,Mercury,0
+Nov-98,Nickel,0
+Nov-98,Nitrates,0
+Nov-98,Nitrites,0
+Nov-98,Orthophosphate-phosphorus,1
+Nov-98,Potassium,0
+Nov-98,Sodium,0
+Nov-98,Sulphates,0
+Nov-98,Total coliforms,0
+Nov-98,Total phosphorus,1
+Nov-98,Water temperature,0
+Nov-98,Zinc,0
+Dec-98,AOX,0
+Dec-98,Ammonium,1
+Dec-98,Arsenic,0
+Dec-98,Atrazine,0
+Dec-98,Biochemical Oxygen,0
+Dec-98,Cadmium,0
+Dec-98,Calcium,0
+Dec-98,Cesium,0
+Dec-98,Chemical Oxygen Demand (Cr),0
+Dec-98,Chemical Oxygen Demand (Mn),0
+Dec-98,Chlorides,0
+Dec-98,Chromium,1
+Dec-98,Copper,1
+Dec-98,Dissolved oxygen,0
+Dec-98,Fecal coliforms,0
+Dec-98,Iron,0
+Dec-98,Lead,1
+Dec-98,Macrozoobenthos,0
+Dec-98,Magnesium,0
+Dec-98,Manganese,1
+Dec-98,Mercury,0
+Dec-98,Nickel,0
+Dec-98,Nitrates,0
+Dec-98,Nitrites,0
+Dec-98,Orthophosphate-phosphorus,1
+Dec-98,Potassium,0
+Dec-98,Sodium,0
+Dec-98,Sulphates,0
+Dec-98,Total coliforms,0
+Dec-98,Total phosphorus,1
+Dec-98,Water temperature,0
+Dec-98,Zinc,0
+Jan-99,Ammonium,1
+Jan-99,Anionic active surfactants,0
+Jan-99,Bicarbonates,0
+Jan-99,Biochemical Oxygen,0
+Jan-99,Cadmium,1
+Jan-99,Calcium,0
+Jan-99,Chemical Oxygen Demand (Cr),1
+Jan-99,Chemical Oxygen Demand (Mn),0
+Jan-99,Chlorides,0
+Jan-99,Chromium,1
+Jan-99,Copper,1
+Jan-99,Dissolved oxygen,0
+Jan-99,Fecal coliforms,0
+Jan-99,Iron,1
+Jan-99,Lead,1
+Jan-99,Macrozoobenthos,0
+Jan-99,Magnesium,0
+Jan-99,Manganese,0
+Jan-99,Nitrates,0
+Jan-99,Nitrites,0
+Jan-99,Orthophosphate-phosphorus,1
+Jan-99,Potassium,0
+Jan-99,Sodium,0
+Jan-99,Sulphates,0
+Jan-99,Total coliforms,0
+Jan-99,Total extractable matter,0
+Jan-99,Total phosphorus,1
+Jan-99,Water temperature,0
+Jan-99,Zinc,1
+Jan-99,gamma-Hexachlorocyclohexane,0
+Jan-99,"p,p-DDT",0
+Feb-99,Ammonium,1
+Feb-99,Anionic active surfactants,0
+Feb-99,Bicarbonates,0
+Feb-99,Biochemical Oxygen,0
+Feb-99,Cadmium,1
+Feb-99,Calcium,0
+Feb-99,Chemical Oxygen Demand (Cr),1
+Feb-99,Chemical Oxygen Demand (Mn),0
+Feb-99,Chlorides,0
+Feb-99,Chromium,1
+Feb-99,Copper,1
+Feb-99,Dissolved oxygen,0
+Feb-99,Fecal coliforms,0
+Feb-99,Fecal streptococci,0
+Feb-99,Iron,1
+Feb-99,Macrozoobenthos,0
+Feb-99,Magnesium,0
+Feb-99,Manganese,0
+Feb-99,Nitrates,0
+Feb-99,Nitrites,0
+Feb-99,Orthophosphate-phosphorus,1
+Feb-99,Potassium,0
+Feb-99,Sodium,0
+Feb-99,Sulphates,0
+Feb-99,Total coliforms,0
+Feb-99,Total phosphorus,1
+Feb-99,Water temperature,0
+Feb-99,Zinc,0
+Feb-99,gamma-Hexachlorocyclohexane,0
+Feb-99,"p,p-DDT",0
+Mar-99,Ammonium,0
+Mar-99,Anionic active surfactants,0
+Mar-99,Bicarbonates,0
+Mar-99,Biochemical Oxygen,0
+Mar-99,Cadmium,0
+Mar-99,Calcium,0
+Mar-99,Chemical Oxygen Demand (Cr),1
+Mar-99,Chemical Oxygen Demand (Mn),0
+Mar-99,Chlorides,0
+Mar-99,Chromium,0
+Mar-99,Copper,1
+Mar-99,Dissolved oxygen,0
+Mar-99,Fecal streptococci,0
+Mar-99,Iron,1
+Mar-99,Lead,1
+Mar-99,Macrozoobenthos,0
+Mar-99,Magnesium,0
+Mar-99,Manganese,0
+Mar-99,Nitrates,0
+Mar-99,Nitrites,0
+Mar-99,Orthophosphate-phosphorus,0
+Mar-99,Potassium,0
+Mar-99,Sodium,0
+Mar-99,Sulphates,0
+Mar-99,Total coliforms,0
+Mar-99,Total phosphorus,1
+Mar-99,Water temperature,0
+Mar-99,Zinc,0
+Mar-99,gamma-Hexachlorocyclohexane,0
+Mar-99,"p,p-DDT",0
+Apr-99,Ammonium,1
+Apr-99,Biochemical Oxygen,0
+Apr-99,Cadmium,0
+Apr-99,Calcium,0
+Apr-99,Chemical Oxygen Demand (Mn),0
+Apr-99,Chlorides,0
+Apr-99,Chromium,1
+Apr-99,Copper,1
+Apr-99,Dissolved oxygen,0
+Apr-99,Fecal coliforms,0
+Apr-99,Iron,0
+Apr-99,Lead,1
+Apr-99,Magnesium,0
+Apr-99,Manganese,0
+Apr-99,Nitrates,0
+Apr-99,Nitrites,0
+Apr-99,Orthophosphate-phosphorus,1
+Apr-99,Potassium,0
+Apr-99,Sodium,1
+Apr-99,Sulphates,0
+Apr-99,Total coliforms,0
+Apr-99,Total phosphorus,1
+Apr-99,Water temperature,0
+Apr-99,Zinc,1
+Apr-99,gamma-Hexachlorocyclohexane,0
+May-99,Ammonium,1
+May-99,Biochemical Oxygen,0
+May-99,Cadmium,0
+May-99,Calcium,0
+May-99,Chemical Oxygen Demand (Cr),1
+May-99,Chemical Oxygen Demand (Mn),0
+May-99,Chlorides,0
+May-99,Chromium,0
+May-99,Copper,1
+May-99,Dissolved oxygen,0
+May-99,Fecal coliforms,0
+May-99,Iron,1
+May-99,Lead,1
+May-99,Macrozoobenthos,0
+May-99,Magnesium,0
+May-99,Manganese,0
+May-99,Nitrates,0
+May-99,Nitrites,0
+May-99,Orthophosphate-phosphorus,1
+May-99,Potassium,0
+May-99,Sodium,0
+May-99,Sulphates,0
+May-99,Total coliforms,0
+May-99,Total phosphorus,1
+May-99,Water temperature,0
+May-99,Zinc,1
+May-99,gamma-Hexachlorocyclohexane,0
+May-99,"p,p-DDT",0
+Jun-99,Ammonium,0
+Jun-99,Biochemical Oxygen,0
+Jun-99,Cadmium,1
+Jun-99,Calcium,0
+Jun-99,Chemical Oxygen Demand (Mn),0
+Jun-99,Chlorides,0
+Jun-99,Chromium,0
+Jun-99,Copper,1
+Jun-99,Dissolved oxygen,0
+Jun-99,Fecal coliforms,0
+Jun-99,Iron,1
+Jun-99,Lead,1
+Jun-99,Magnesium,0
+Jun-99,Manganese,1
+Jun-99,Nitrates,0
+Jun-99,Nitrites,0
+Jun-99,Orthophosphate-phosphorus,1
+Jun-99,Potassium,0
+Jun-99,Sodium,0
+Jun-99,Sulphates,0
+Jun-99,Total coliforms,0
+Jun-99,Total phosphorus,1
+Jun-99,Water temperature,0
+Jun-99,Zinc,0
+Jun-99,gamma-Hexachlorocyclohexane,0
+Jun-99,"p,p-DDT",0
+Jul-99,Ammonium,1
+Jul-99,Biochemical Oxygen,0
+Jul-99,Cadmium,1
+Jul-99,Calcium,0
+Jul-99,Chemical Oxygen Demand (Cr),1
+Jul-99,Chemical Oxygen Demand (Mn),0
+Jul-99,Chlorides,0
+Jul-99,Chromium,2
+Jul-99,Copper,2
+Jul-99,Dissolved oxygen,0
+Jul-99,Iron,1
+Jul-99,Lead,2
+Jul-99,Macrozoobenthos,0
+Jul-99,Magnesium,0
+Jul-99,Manganese,1
+Jul-99,Nickel,1
+Jul-99,Nitrates,0
+Jul-99,Nitrites,0
+Jul-99,Orthophosphate-phosphorus,1
+Jul-99,Potassium,0
+Jul-99,Sodium,0
+Jul-99,Sulphates,0
+Jul-99,Total phosphorus,1
+Jul-99,Water temperature,0
+Jul-99,Zinc,1
+Jul-99,gamma-Hexachlorocyclohexane,0
+Jul-99,"p,p-DDT",0
+Aug-99,Ammonium,1
+Aug-99,Biochemical Oxygen,0
+Aug-99,Cadmium,2
+Aug-99,Calcium,0
+Aug-99,Chemical Oxygen Demand (Cr),1
+Aug-99,Chemical Oxygen Demand (Mn),0
+Aug-99,Chlorides,0
+Aug-99,Chromium,1
+Aug-99,Copper,2
+Aug-99,Dissolved oxygen,0
+Aug-99,Iron,1
+Aug-99,Lead,2
+Aug-99,Magnesium,0
+Aug-99,Manganese,2
+Aug-99,Nickel,1
+Aug-99,Nitrates,0
+Aug-99,Nitrites,0
+Aug-99,Orthophosphate-phosphorus,1
+Aug-99,Potassium,0
+Aug-99,Sodium,0
+Aug-99,Sulphates,0
+Aug-99,Total phosphorus,1
+Aug-99,Water temperature,0
+Aug-99,Zinc,1
+Aug-99,gamma-Hexachlorocyclohexane,0
+Aug-99,"p,p-DDT",0
+Sep-99,Ammonium,1
+Sep-99,Biochemical Oxygen,0
+Sep-99,Cadmium,1
+Sep-99,Calcium,1
+Sep-99,Chemical Oxygen Demand (Cr),1
+Sep-99,Chemical Oxygen Demand (Mn),0
+Sep-99,Chlorides,0
+Sep-99,Chromium,1
+Sep-99,Copper,1
+Sep-99,Dissolved oxygen,0
+Sep-99,Iron,1
+Sep-99,Lead,1
+Sep-99,Macrozoobenthos,0
+Sep-99,Magnesium,0
+Sep-99,Manganese,1
+Sep-99,Nitrates,0
+Sep-99,Nitrites,0
+Sep-99,Orthophosphate-phosphorus,1
+Sep-99,Potassium,0
+Sep-99,Sodium,0
+Sep-99,Sulphates,0
+Sep-99,Total phosphorus,1
+Sep-99,Water temperature,0
+Sep-99,Zinc,0
+Sep-99,gamma-Hexachlorocyclohexane,0
+Sep-99,"p,p-DDT",0
+Oct-99,Ammonium,1
+Oct-99,Biochemical Oxygen,0
+Oct-99,Cadmium,1
+Oct-99,Calcium,0
+Oct-99,Chemical Oxygen Demand (Cr),1
+Oct-99,Chemical Oxygen Demand (Mn),0
+Oct-99,Chlorides,0
+Oct-99,Chromium,1
+Oct-99,Copper,1
+Oct-99,Dissolved oxygen,0
+Oct-99,Fecal coliforms,0
+Oct-99,Fecal streptococci,0
+Oct-99,Iron,1
+Oct-99,Lead,1
+Oct-99,Magnesium,0
+Oct-99,Manganese,1
+Oct-99,Nitrates,0
+Oct-99,Nitrites,0
+Oct-99,Orthophosphate-phosphorus,1
+Oct-99,Potassium,0
+Oct-99,Sodium,0
+Oct-99,Sulphates,0
+Oct-99,Total coliforms,0
+Oct-99,Total phosphorus,1
+Oct-99,Water temperature,0
+Oct-99,Zinc,1
+Oct-99,gamma-Hexachlorocyclohexane,0
+Oct-99,"p,p-DDT",0
+Nov-99,Ammonium,1
+Nov-99,Biochemical Oxygen,0
+Nov-99,Cadmium,1
+Nov-99,Calcium,1
+Nov-99,Chemical Oxygen Demand (Cr),1
+Nov-99,Chemical Oxygen Demand (Mn),0
+Nov-99,Chlorides,0
+Nov-99,Chromium,1
+Nov-99,Copper,1
+Nov-99,Dissolved oxygen,0
+Nov-99,Fecal coliforms,0
+Nov-99,Fecal streptococci,0
+Nov-99,Iron,1
+Nov-99,Lead,1
+Nov-99,Macrozoobenthos,0
+Nov-99,Magnesium,0
+Nov-99,Manganese,1
+Nov-99,Nitrates,0
+Nov-99,Nitrites,0
+Nov-99,Orthophosphate-phosphorus,1
+Nov-99,Potassium,0
+Nov-99,Sodium,0
+Nov-99,Sulphates,0
+Nov-99,Total coliforms,0
+Nov-99,Total phosphorus,1
+Nov-99,Water temperature,0
+Nov-99,Zinc,0
+Nov-99,gamma-Hexachlorocyclohexane,0
+Nov-99,"p,p-DDT",1
+Dec-99,Ammonium,1
+Dec-99,Biochemical Oxygen,0
+Dec-99,Cadmium,1
+Dec-99,Calcium,1
+Dec-99,Chemical Oxygen Demand (Cr),1
+Dec-99,Chemical Oxygen Demand (Mn),0
+Dec-99,Chlorides,0
+Dec-99,Chromium,0
+Dec-99,Copper,1
+Dec-99,Dissolved oxygen,0
+Dec-99,Fecal coliforms,0
+Dec-99,Fecal streptococci,0
+Dec-99,Iron,1
+Dec-99,Lead,1
+Dec-99,Macrozoobenthos,0
+Dec-99,Magnesium,0
+Dec-99,Manganese,1
+Dec-99,Nitrates,0
+Dec-99,Nitrites,0
+Dec-99,Orthophosphate-phosphorus,1
+Dec-99,Potassium,0
+Dec-99,Sodium,1
+Dec-99,Sulphates,0
+Dec-99,Total coliforms,0
+Dec-99,Total phosphorus,1
+Dec-99,Water temperature,0
+Dec-99,Zinc,0
+Dec-99,gamma-Hexachlorocyclohexane,0
+Dec-99,"p,p-DDT",0
+Jan-00,Ammonium,1
+Jan-00,Anionic active surfactants,0
+Jan-00,Bicarbonates,1
+Jan-00,Biochemical Oxygen,0
+Jan-00,Cadmium,0
+Jan-00,Calcium,1
+Jan-00,Chemical Oxygen Demand (Cr),1
+Jan-00,Chemical Oxygen Demand (Mn),0
+Jan-00,Chlorides,0
+Jan-00,Chromium,1
+Jan-00,Copper,1
+Jan-00,Dissolved oxygen,0
+Jan-00,Fecal coliforms,0
+Jan-00,Fecal streptococci,0
+Jan-00,Iron,1
+Jan-00,Lead,1
+Jan-00,Macrozoobenthos,0
+Jan-00,Magnesium,0
+Jan-00,Manganese,1
+Jan-00,Nitrates,0
+Jan-00,Nitrites,0
+Jan-00,Orthophosphate-phosphorus,1
+Jan-00,Potassium,0
+Jan-00,Sodium,1
+Jan-00,Sulphates,0
+Jan-00,Total coliforms,0
+Jan-00,Total phosphorus,1
+Jan-00,Water temperature,0
+Jan-00,Zinc,0
+Jan-00,gamma-Hexachlorocyclohexane,0
+Jan-00,"p,p-DDT",0
+Feb-00,Ammonium,1
+Feb-00,Anionic active surfactants,0
+Feb-00,Bicarbonates,0
+Feb-00,Biochemical Oxygen,0
+Feb-00,Cadmium,1
+Feb-00,Calcium,1
+Feb-00,Chemical Oxygen Demand (Cr),1
+Feb-00,Chemical Oxygen Demand (Mn),0
+Feb-00,Chlorides,0
+Feb-00,Chromium,1
+Feb-00,Copper,1
+Feb-00,Dissolved oxygen,0
+Feb-00,Fecal coliforms,0
+Feb-00,Fecal streptococci,0
+Feb-00,Iron,1
+Feb-00,Lead,1
+Feb-00,Macrozoobenthos,0
+Feb-00,Magnesium,0
+Feb-00,Manganese,1
+Feb-00,Nitrates,0
+Feb-00,Nitrites,0
+Feb-00,Orthophosphate-phosphorus,0
+Feb-00,Potassium,0
+Feb-00,Sodium,1
+Feb-00,Sulphates,0
+Feb-00,Total coliforms,0
+Feb-00,Total phosphorus,0
+Feb-00,Water temperature,0
+Feb-00,Zinc,0
+Feb-00,gamma-Hexachlorocyclohexane,0
+Feb-00,"p,p-DDT",0
+Mar-00,Ammonium,1
+Mar-00,Anionic active surfactants,0
+Mar-00,Atrazine,0
+Mar-00,Bicarbonates,0
+Mar-00,Biochemical Oxygen,0
+Mar-00,Cadmium,1
+Mar-00,Calcium,1
+Mar-00,Chemical Oxygen Demand (Cr),1
+Mar-00,Chemical Oxygen Demand (Mn),0
+Mar-00,Chlorides,0
+Mar-00,Chromium,1
+Mar-00,Copper,1
+Mar-00,Dissolved oxygen,0
+Mar-00,Fecal coliforms,0
+Mar-00,Fecal streptococci,0
+Mar-00,Iron,1
+Mar-00,Lead,1
+Mar-00,Macrozoobenthos,0
+Mar-00,Magnesium,0
+Mar-00,Manganese,0
+Mar-00,Nitrates,0
+Mar-00,Nitrites,0
+Mar-00,Orthophosphate-phosphorus,1
+Mar-00,Potassium,0
+Mar-00,Sodium,0
+Mar-00,Sulphates,0
+Mar-00,Total coliforms,0
+Mar-00,Total phosphorus,1
+Mar-00,Water temperature,0
+Mar-00,Zinc,0
+Mar-00,gamma-Hexachlorocyclohexane,0
+Mar-00,"p,p-DDT",0
+Apr-00,Ammonium,1
+Apr-00,Anionic active surfactants,0
+Apr-00,Atrazine,0
+Apr-00,Bicarbonates,0
+Apr-00,Biochemical Oxygen,0
+Apr-00,Cadmium,1
+Apr-00,Calcium,0
+Apr-00,Chemical Oxygen Demand (Cr),0
+Apr-00,Chemical Oxygen Demand (Mn),0
+Apr-00,Chlorides,0
+Apr-00,Chromium,0
+Apr-00,Copper,0
+Apr-00,Dissolved oxygen,0
+Apr-00,Fecal coliforms,0
+Apr-00,Fecal streptococci,0
+Apr-00,Iron,1
+Apr-00,Lead,1
+Apr-00,Macrozoobenthos,0
+Apr-00,Magnesium,0
+Apr-00,Manganese,0
+Apr-00,Nitrates,0
+Apr-00,Nitrites,0
+Apr-00,Orthophosphate-phosphorus,1
+Apr-00,Potassium,0
+Apr-00,Sodium,0
+Apr-00,Sulphates,0
+Apr-00,Total coliforms,0
+Apr-00,Total extractable matter,0
+Apr-00,Total phosphorus,1
+Apr-00,Water temperature,0
+Apr-00,Zinc,1
+Apr-00,gamma-Hexachlorocyclohexane,0
+Apr-00,"p,p-DDT",0
+May-00,Ammonium,1
+May-00,Anionic active surfactants,0
+May-00,Atrazine,0
+May-00,Bicarbonates,0
+May-00,Biochemical Oxygen,0
+May-00,Cadmium,1
+May-00,Calcium,1
+May-00,Chemical Oxygen Demand (Cr),1
+May-00,Chemical Oxygen Demand (Mn),0
+May-00,Chlorides,0
+May-00,Chromium,1
+May-00,Copper,1
+May-00,Dissolved oxygen,0
+May-00,Fecal coliforms,0
+May-00,Fecal streptococci,0
+May-00,Iron,1
+May-00,Lead,1
+May-00,Macrozoobenthos,0
+May-00,Magnesium,0
+May-00,Manganese,0
+May-00,Nitrates,0
+May-00,Nitrites,0
+May-00,Orthophosphate-phosphorus,1
+May-00,Potassium,0
+May-00,Sodium,0
+May-00,Sulphates,0
+May-00,Total coliforms,0
+May-00,Total phosphorus,1
+May-00,Water temperature,0
+May-00,Zinc,0
+May-00,gamma-Hexachlorocyclohexane,0
+May-00,"p,p-DDT",0
+Jun-00,Ammonium,0
+Jun-00,Anionic active surfactants,0
+Jun-00,Atrazine,0
+Jun-00,Bicarbonates,0
+Jun-00,Biochemical Oxygen,0
+Jun-00,Cadmium,1
+Jun-00,Calcium,0
+Jun-00,Chemical Oxygen Demand (Cr),1
+Jun-00,Chemical Oxygen Demand (Mn),0
+Jun-00,Chlorides,0
+Jun-00,Chromium,1
+Jun-00,Copper,1
+Jun-00,Dissolved oxygen,0
+Jun-00,Iron,1
+Jun-00,Lead,1
+Jun-00,Macrozoobenthos,0
+Jun-00,Magnesium,0
+Jun-00,Manganese,1
+Jun-00,Nitrates,0
+Jun-00,Nitrites,0
+Jun-00,Orthophosphate-phosphorus,1
+Jun-00,Potassium,0
+Jun-00,Sodium,0
+Jun-00,Sulphates,0
+Jun-00,Total extractable matter,0
+Jun-00,Total phosphorus,1
+Jun-00,Water temperature,0
+Jun-00,Zinc,0
+Jun-00,gamma-Hexachlorocyclohexane,0
+Jun-00,"p,p-DDT",0
+Jul-00,Ammonium,1
+Jul-00,Anionic active surfactants,0
+Jul-00,Bicarbonates,0
+Jul-00,Biochemical Oxygen,0
+Jul-00,Cadmium,0
+Jul-00,Calcium,0
+Jul-00,Chemical Oxygen Demand (Cr),1
+Jul-00,Chemical Oxygen Demand (Mn),0
+Jul-00,Chlorides,0
+Jul-00,Chromium,0
+Jul-00,Copper,1
+Jul-00,Dissolved oxygen,0
+Jul-00,Fecal coliforms,0
+Jul-00,Iron,1
+Jul-00,Lead,2
+Jul-00,Macrozoobenthos,0
+Jul-00,Magnesium,0
+Jul-00,Manganese,2
+Jul-00,Nitrates,0
+Jul-00,Nitrites,0
+Jul-00,Orthophosphate-phosphorus,0
+Jul-00,Potassium,0
+Jul-00,Sodium,0
+Jul-00,Sulphates,0
+Jul-00,Total coliforms,0
+Jul-00,Total phosphorus,0
+Jul-00,Water temperature,0
+Jul-00,Zinc,1
+Aug-00,Ammonium,0
+Aug-00,Anionic active surfactants,0
+Aug-00,Bicarbonates,0
+Aug-00,Biochemical Oxygen,0
+Aug-00,Cadmium,2
+Aug-00,Calcium,0
+Aug-00,Chemical Oxygen Demand (Cr),0
+Aug-00,Chemical Oxygen Demand (Mn),0
+Aug-00,Chlorides,0
+Aug-00,Chromium,2
+Aug-00,Copper,2
+Aug-00,Dissolved oxygen,0
+Aug-00,Fecal coliforms,0
+Aug-00,Fecal streptococci,0
+Aug-00,Iron,1
+Aug-00,Lead,2
+Aug-00,Macrozoobenthos,0
+Aug-00,Magnesium,0
+Aug-00,Manganese,2
+Aug-00,Nitrates,0
+Aug-00,Nitrites,0
+Aug-00,Orthophosphate-phosphorus,1
+Aug-00,Potassium,0
+Aug-00,Sodium,0
+Aug-00,Sulphates,0
+Aug-00,Total coliforms,0
+Aug-00,Total extractable matter,0
+Aug-00,Total phosphorus,1
+Aug-00,Water temperature,0
+Aug-00,Zinc,2
+Sep-00,Ammonium,1
+Sep-00,Anionic active surfactants,0
+Sep-00,Bicarbonates,0
+Sep-00,Biochemical Oxygen,0
+Sep-00,Cadmium,0
+Sep-00,Calcium,0
+Sep-00,Chemical Oxygen Demand (Cr),1
+Sep-00,Chemical Oxygen Demand (Mn),0
+Sep-00,Chlorides,0
+Sep-00,Chromium,0
+Sep-00,Copper,1
+Sep-00,Dissolved oxygen,0
+Sep-00,Fecal coliforms,0
+Sep-00,Fecal streptococci,0
+Sep-00,Iron,1
+Sep-00,Lead,1
+Sep-00,Macrozoobenthos,0
+Sep-00,Magnesium,0
+Sep-00,Manganese,1
+Sep-00,Nitrates,0
+Sep-00,Nitrites,0
+Sep-00,Orthophosphate-phosphorus,1
+Sep-00,Potassium,0
+Sep-00,Sodium,0
+Sep-00,Sulphates,0
+Sep-00,Total coliforms,0
+Sep-00,Total phosphorus,1
+Sep-00,Water temperature,0
+Sep-00,Zinc,0
+Oct-00,Ammonium,0
+Oct-00,Anionic active surfactants,0
+Oct-00,Bicarbonates,0
+Oct-00,Biochemical Oxygen,0
+Oct-00,Cadmium,1
+Oct-00,Calcium,0
+Oct-00,Chemical Oxygen Demand (Cr),0
+Oct-00,Chemical Oxygen Demand (Mn),0
+Oct-00,Chlorides,0
+Oct-00,Chromium,1
+Oct-00,Copper,1
+Oct-00,Dissolved oxygen,0
+Oct-00,Iron,1
+Oct-00,Lead,1
+Oct-00,Macrozoobenthos,0
+Oct-00,Magnesium,0
+Oct-00,Manganese,0
+Oct-00,Nitrates,0
+Oct-00,Nitrites,0
+Oct-00,Orthophosphate-phosphorus,1
+Oct-00,Potassium,0
+Oct-00,Sodium,0
+Oct-00,Sulphates,0
+Oct-00,Total coliforms,0
+Oct-00,Total extractable matter,0
+Oct-00,Total phosphorus,1
+Oct-00,Water temperature,0
+Oct-00,Zinc,1
+Nov-00,Ammonium,1
+Nov-00,Anionic active surfactants,0
+Nov-00,Bicarbonates,0
+Nov-00,Biochemical Oxygen,0
+Nov-00,Cadmium,1
+Nov-00,Calcium,1
+Nov-00,Chemical Oxygen Demand (Cr),1
+Nov-00,Chemical Oxygen Demand (Mn),0
+Nov-00,Chlorides,0
+Nov-00,Chromium,0
+Nov-00,Copper,1
+Nov-00,Dissolved oxygen,0
+Nov-00,Iron,1
+Nov-00,Lead,1
+Nov-00,Macrozoobenthos,0
+Nov-00,Magnesium,0
+Nov-00,Manganese,1
+Nov-00,Nitrates,0
+Nov-00,Nitrites,0
+Nov-00,Orthophosphate-phosphorus,1
+Nov-00,Potassium,0
+Nov-00,Sodium,0
+Nov-00,Sulphates,0
+Nov-00,Total coliforms,0
+Nov-00,Total phosphorus,1
+Nov-00,Water temperature,0
+Nov-00,Zinc,0
+Dec-00,Ammonium,1
+Dec-00,Anionic active surfactants,0
+Dec-00,Bicarbonates,0
+Dec-00,Biochemical Oxygen,0
+Dec-00,Cadmium,0
+Dec-00,Calcium,0
+Dec-00,Chemical Oxygen Demand (Cr),1
+Dec-00,Chemical Oxygen Demand (Mn),0
+Dec-00,Chlorides,0
+Dec-00,Chromium,1
+Dec-00,Copper,1
+Dec-00,Dissolved oxygen,0
+Dec-00,Fecal streptococci,0
+Dec-00,Iron,1
+Dec-00,Lead,1
+Dec-00,Macrozoobenthos,0
+Dec-00,Magnesium,0
+Dec-00,Manganese,0
+Dec-00,Nitrates,0
+Dec-00,Nitrites,0
+Dec-00,Orthophosphate-phosphorus,1
+Dec-00,Potassium,0
+Dec-00,Sodium,0
+Dec-00,Sulphates,0
+Dec-00,Total coliforms,0
+Dec-00,Total phosphorus,1
+Dec-00,Water temperature,0
+Dec-00,Zinc,0
+Jan-01,Ammonium,1
+Jan-01,Anionic active surfactants,0
+Jan-01,Bicarbonates,0
+Jan-01,Biochemical Oxygen,0
+Jan-01,Cadmium,1
+Jan-01,Calcium,1
+Jan-01,Chemical Oxygen Demand (Cr),0
+Jan-01,Chemical Oxygen Demand (Mn),0
+Jan-01,Chlorides,0
+Jan-01,Chromium,0
+Jan-01,Copper,1
+Jan-01,Dissolved oxygen,0
+Jan-01,Iron,0
+Jan-01,Lead,1
+Jan-01,Macrozoobenthos,0
+Jan-01,Magnesium,0
+Jan-01,Manganese,0
+Jan-01,Nitrates,0
+Jan-01,Nitrites,0
+Jan-01,Orthophosphate-phosphorus,1
+Jan-01,Potassium,0
+Jan-01,Sodium,0
+Jan-01,Sulphates,0
+Jan-01,Total phosphorus,1
+Jan-01,Water temperature,0
+Jan-01,Zinc,0
+Jan-01,gamma-Hexachlorocyclohexane,0
+Jan-01,"p,p-DDT",0
+Feb-01,Ammonium,1
+Feb-01,Anionic active surfactants,0
+Feb-01,Atrazine,0
+Feb-01,Bicarbonates,0
+Feb-01,Biochemical Oxygen,0
+Feb-01,Cadmium,1
+Feb-01,Calcium,1
+Feb-01,Chemical Oxygen Demand (Cr),1
+Feb-01,Chemical Oxygen Demand (Mn),0
+Feb-01,Chlorides,0
+Feb-01,Chromium,0
+Feb-01,Copper,1
+Feb-01,Dissolved oxygen,0
+Feb-01,Fecal coliforms,0
+Feb-01,Fecal streptococci,0
+Feb-01,Iron,1
+Feb-01,Lead,1
+Feb-01,Macrozoobenthos,0
+Feb-01,Magnesium,0
+Feb-01,Manganese,0
+Feb-01,Nitrates,0
+Feb-01,Nitrites,0
+Feb-01,Orthophosphate-phosphorus,1
+Feb-01,Potassium,0
+Feb-01,Sodium,1
+Feb-01,Sulphates,0
+Feb-01,Total coliforms,0
+Feb-01,Total phosphorus,1
+Feb-01,Water temperature,0
+Feb-01,Zinc,0
+Feb-01,gamma-Hexachlorocyclohexane,0
+Feb-01,"p,p-DDT",0
+Mar-01,Ammonium,1
+Mar-01,Anionic active surfactants,0
+Mar-01,Atrazine,0
+Mar-01,Bicarbonates,0
+Mar-01,Biochemical Oxygen,0
+Mar-01,Cadmium,0
+Mar-01,Calcium,1
+Mar-01,Chemical Oxygen Demand (Cr),1
+Mar-01,Chemical Oxygen Demand (Mn),0
+Mar-01,Chlorides,0
+Mar-01,Chromium,1
+Mar-01,Copper,1
+Mar-01,Dissolved oxygen,0
+Mar-01,Fecal coliforms,0
+Mar-01,Fecal streptococci,0
+Mar-01,Iron,0
+Mar-01,Lead,1
+Mar-01,Macrozoobenthos,0
+Mar-01,Magnesium,0
+Mar-01,Manganese,0
+Mar-01,Nitrates,0
+Mar-01,Nitrites,0
+Mar-01,Orthophosphate-phosphorus,1
+Mar-01,Potassium,0
+Mar-01,Sodium,0
+Mar-01,Sulphates,0
+Mar-01,Total coliforms,0
+Mar-01,Total phosphorus,1
+Mar-01,Water temperature,0
+Mar-01,Zinc,1
+Mar-01,gamma-Hexachlorocyclohexane,0
+Mar-01,"p,p-DDT",0
+Apr-01,Ammonium,1
+Apr-01,Anionic active surfactants,0
+Apr-01,Atrazine,0
+Apr-01,Bicarbonates,0
+Apr-01,Biochemical Oxygen,0
+Apr-01,Calcium,0
+Apr-01,Chemical Oxygen Demand (Cr),0
+Apr-01,Chemical Oxygen Demand (Mn),0
+Apr-01,Chlorides,0
+Apr-01,Chromium,1
+Apr-01,Copper,1
+Apr-01,Dissolved oxygen,0
+Apr-01,Fecal coliforms,0
+Apr-01,Iron,1
+Apr-01,Lead,1
+Apr-01,Magnesium,0
+Apr-01,Manganese,1
+Apr-01,Nitrates,0
+Apr-01,Nitrites,0
+Apr-01,Orthophosphate-phosphorus,1
+Apr-01,Potassium,0
+Apr-01,Sodium,0
+Apr-01,Sulphates,0
+Apr-01,Total coliforms,0
+Apr-01,Total extractable matter,0
+Apr-01,Total phosphorus,1
+Apr-01,Water temperature,0
+Apr-01,Zinc,0
+Apr-01,gamma-Hexachlorocyclohexane,0
+Apr-01,"p,p-DDT",0
+May-01,Ammonium,0
+May-01,Anionic active surfactants,0
+May-01,Atrazine,0
+May-01,Bicarbonates,0
+May-01,Biochemical Oxygen,0
+May-01,Cadmium,1
+May-01,Calcium,0
+May-01,Chemical Oxygen Demand (Cr),0
+May-01,Chemical Oxygen Demand (Mn),0
+May-01,Chlorides,0
+May-01,Chromium,1
+May-01,Copper,1
+May-01,Dissolved oxygen,0
+May-01,Fecal coliforms,0
+May-01,Fecal streptococci,0
+May-01,Iron,1
+May-01,Lead,1
+May-01,Macrozoobenthos,0
+May-01,Magnesium,0
+May-01,Manganese,0
+May-01,Nitrates,0
+May-01,Nitrites,0
+May-01,Orthophosphate-phosphorus,0
+May-01,Potassium,0
+May-01,Sodium,0
+May-01,Sulphates,0
+May-01,Total coliforms,0
+May-01,Total phosphorus,0
+May-01,Water temperature,0
+May-01,Zinc,0
+May-01,gamma-Hexachlorocyclohexane,0
+May-01,"p,p-DDT",0
+Jun-01,Ammonium,1
+Jun-01,Anionic active surfactants,0
+Jun-01,Atrazine,0
+Jun-01,Bicarbonates,0
+Jun-01,Biochemical Oxygen,0
+Jun-01,Cadmium,1
+Jun-01,Calcium,0
+Jun-01,Chemical Oxygen Demand (Cr),1
+Jun-01,Chemical Oxygen Demand (Mn),0
+Jun-01,Chlorides,0
+Jun-01,Chromium,1
+Jun-01,Copper,0
+Jun-01,Dissolved oxygen,0
+Jun-01,Fecal coliforms,0
+Jun-01,Iron,1
+Jun-01,Lead,1
+Jun-01,Macrozoobenthos,0
+Jun-01,Magnesium,0
+Jun-01,Manganese,0
+Jun-01,Nitrates,0
+Jun-01,Nitrites,0
+Jun-01,Orthophosphate-phosphorus,1
+Jun-01,Potassium,0
+Jun-01,Sodium,0
+Jun-01,Sulphates,0
+Jun-01,Total coliforms,0
+Jun-01,Total extractable matter,0
+Jun-01,Total phosphorus,1
+Jun-01,Water temperature,0
+Jun-01,Zinc,0
+Jun-01,gamma-Hexachlorocyclohexane,0
+Jun-01,"p,p-DDT",0
+Jul-01,Ammonium,1
+Jul-01,Anionic active surfactants,0
+Jul-01,Bicarbonates,0
+Jul-01,Biochemical Oxygen,0
+Jul-01,Cadmium,1
+Jul-01,Calcium,0
+Jul-01,Chemical Oxygen Demand (Cr),1
+Jul-01,Chemical Oxygen Demand (Mn),0
+Jul-01,Chlorides,0
+Jul-01,Chromium,1
+Jul-01,Copper,1
+Jul-01,Dissolved oxygen,0
+Jul-01,Iron,1
+Jul-01,Lead,1
+Jul-01,Macrozoobenthos,0
+Jul-01,Magnesium,0
+Jul-01,Manganese,0
+Jul-01,Nitrates,0
+Jul-01,Nitrites,0
+Jul-01,Orthophosphate-phosphorus,1
+Jul-01,Potassium,0
+Jul-01,Sodium,0
+Jul-01,Sulphates,0
+Jul-01,Total phosphorus,1
+Jul-01,Water temperature,0
+Jul-01,Zinc,0
+Aug-01,Ammonium,1
+Aug-01,Anionic active surfactants,0
+Aug-01,Bicarbonates,0
+Aug-01,Biochemical Oxygen,0
+Aug-01,Cadmium,1
+Aug-01,Calcium,0
+Aug-01,Chemical Oxygen Demand (Cr),1
+Aug-01,Chemical Oxygen Demand (Mn),0
+Aug-01,Chlorides,0
+Aug-01,Chromium,0
+Aug-01,Copper,1
+Aug-01,Dissolved oxygen,0
+Aug-01,Fecal coliforms,0
+Aug-01,Fecal streptococci,0
+Aug-01,Iron,1
+Aug-01,Lead,1
+Aug-01,Macrozoobenthos,0
+Aug-01,Magnesium,0
+Aug-01,Manganese,0
+Aug-01,Nitrates,0
+Aug-01,Nitrites,0
+Aug-01,Orthophosphate-phosphorus,1
+Aug-01,Potassium,0
+Aug-01,Sodium,0
+Aug-01,Sulphates,0
+Aug-01,Total coliforms,0
+Aug-01,Total extractable matter,0
+Aug-01,Total phosphorus,1
+Aug-01,Water temperature,0
+Aug-01,Zinc,0
+Aug-01,gamma-Hexachlorocyclohexane,0
+Sep-01,Ammonium,1
+Sep-01,Anionic active surfactants,1
+Sep-01,Bicarbonates,0
+Sep-01,Biochemical Oxygen,0
+Sep-01,Cadmium,0
+Sep-01,Calcium,1
+Sep-01,Chemical Oxygen Demand (Cr),1
+Sep-01,Chemical Oxygen Demand (Mn),0
+Sep-01,Chlorides,0
+Sep-01,Chromium,0
+Sep-01,Copper,1
+Sep-01,Dissolved oxygen,0
+Sep-01,Fecal coliforms,0
+Sep-01,Fecal streptococci,0
+Sep-01,Iron,1
+Sep-01,Lead,1
+Sep-01,Macrozoobenthos,0
+Sep-01,Magnesium,0
+Sep-01,Manganese,1
+Sep-01,Nitrates,0
+Sep-01,Nitrites,0
+Sep-01,Orthophosphate-phosphorus,0
+Sep-01,Potassium,0
+Sep-01,Sodium,0
+Sep-01,Sulphates,0
+Sep-01,Total coliforms,0
+Sep-01,Total phosphorus,1
+Sep-01,Water temperature,0
+Sep-01,Zinc,0
+Nov-01,Ammonium,1
+Nov-01,Anionic active surfactants,1
+Nov-01,Bicarbonates,0
+Nov-01,Biochemical Oxygen,0
+Nov-01,Cadmium,0
+Nov-01,Calcium,0
+Nov-01,Chemical Oxygen Demand (Cr),1
+Nov-01,Chemical Oxygen Demand (Mn),0
+Nov-01,Chlorides,0
+Nov-01,Chromium,0
+Nov-01,Copper,1
+Nov-01,Dissolved oxygen,0
+Nov-01,Fecal coliforms,0
+Nov-01,Fecal streptococci,0
+Nov-01,Iron,1
+Nov-01,Magnesium,0
+Nov-01,Manganese,0
+Nov-01,Nitrates,0
+Nov-01,Nitrites,0
+Nov-01,Orthophosphate-phosphorus,0
+Nov-01,Potassium,0
+Nov-01,Sodium,0
+Nov-01,Sulphates,0
+Nov-01,Total coliforms,0
+Nov-01,Water temperature,0
+Nov-01,Zinc,0
+Nov-01,gamma-Hexachlorocyclohexane,0
+Nov-01,"p,p-DDT",0
+Jan-02,Ammonium,3
+Jan-02,Bicarbonates,3
+Jan-02,Calcium,3
+Jan-02,Chemical Oxygen Demand (Mn),0
+Jan-02,Chlorides,0
+Jan-02,Magnesium,0
+Jan-02,Nitrates,0
+Jan-02,Nitrites,0
+Jan-02,Orthophosphate-phosphorus,3
+Jan-02,Potassium,0
+Jan-02,Sodium,0
+Jan-02,Sulphates,0
+Jan-02,Total phosphorus,3
+Jan-02,Water temperature,0
+Feb-02,Ammonium,1
+Feb-02,Bicarbonates,0
+Feb-02,Biochemical Oxygen,0
+Feb-02,Calcium,0
+Feb-02,Chemical Oxygen Demand (Cr),1
+Feb-02,Chemical Oxygen Demand (Mn),0
+Feb-02,Chlorides,0
+Feb-02,Magnesium,0
+Feb-02,Nitrates,0
+Feb-02,Nitrites,0
+Feb-02,Orthophosphate-phosphorus,0
+Feb-02,Sulphates,0
+Feb-02,Total phosphorus,1
+Feb-02,Water temperature,0
+Mar-02,Ammonium,1
+Mar-02,Atrazine,0
+Mar-02,Bicarbonates,0
+Mar-02,Biochemical Oxygen,0
+Mar-02,Cadmium,1
+Mar-02,Calcium,0
+Mar-02,Chemical Oxygen Demand (Cr),1
+Mar-02,Chemical Oxygen Demand (Mn),0
+Mar-02,Chlorides,0
+Mar-02,Chromium,0
+Mar-02,Copper,1
+Mar-02,Dissolved oxygen,0
+Mar-02,Iron,0
+Mar-02,Lead,1
+Mar-02,Magnesium,0
+Mar-02,Manganese,0
+Mar-02,Nickel,0
+Mar-02,Nitrates,0
+Mar-02,Nitrites,0
+Mar-02,Orthophosphate-phosphorus,0
+Mar-02,Sulphates,0
+Mar-02,Total phosphorus,1
+Mar-02,Water temperature,0
+Mar-02,Zinc,0
+Mar-02,gamma-Hexachlorocyclohexane,0
+Mar-02,"p,p-DDT",0
+Apr-02,Ammonium,0
+Apr-02,Bicarbonates,0
+Apr-02,Biochemical Oxygen,0
+Apr-02,Cadmium,1
+Apr-02,Calcium,0
+Apr-02,Chemical Oxygen Demand (Cr),1
+Apr-02,Chemical Oxygen Demand (Mn),0
+Apr-02,Chlorides,0
+Apr-02,Chromium,0
+Apr-02,Copper,1
+Apr-02,Dissolved oxygen,0
+Apr-02,Iron,1
+Apr-02,Lead,1
+Apr-02,Magnesium,0
+Apr-02,Manganese,0
+Apr-02,Nickel,0
+Apr-02,Nitrates,0
+Apr-02,Nitrites,0
+Apr-02,Orthophosphate-phosphorus,0
+Apr-02,Sulphates,0
+Apr-02,Total phosphorus,0
+Apr-02,Water temperature,0
+Apr-02,Zinc,0
+Apr-02,gamma-Hexachlorocyclohexane,0
+May-02,Ammonium,1
+May-02,Atrazine,0
+May-02,Bicarbonates,0
+May-02,Biochemical Oxygen,0
+May-02,Calcium,0
+May-02,Chemical Oxygen Demand (Cr),1
+May-02,Chemical Oxygen Demand (Mn),0
+May-02,Chlorides,0
+May-02,Dissolved oxygen,0
+May-02,Magnesium,0
+May-02,Nitrates,0
+May-02,Nitrites,0
+May-02,Orthophosphate-phosphorus,0
+May-02,Sulphates,0
+May-02,Total phosphorus,0
+May-02,Water temperature,0
+May-02,gamma-Hexachlorocyclohexane,0
+May-02,"p,p-DDT",0
+Jun-02,Ammonium,1
+Jun-02,Bicarbonates,0
+Jun-02,Biochemical Oxygen,0
+Jun-02,Cadmium,1
+Jun-02,Calcium,0
+Jun-02,Chemical Oxygen Demand (Cr),1
+Jun-02,Chemical Oxygen Demand (Mn),0
+Jun-02,Chlorides,0
+Jun-02,Chromium,0
+Jun-02,Copper,0
+Jun-02,Dissolved oxygen,0
+Jun-02,Iron,1
+Jun-02,Lead,1
+Jun-02,Magnesium,0
+Jun-02,Manganese,1
+Jun-02,Nickel,0
+Jun-02,Nitrates,0
+Jun-02,Nitrites,0
+Jun-02,Orthophosphate-phosphorus,0
+Jun-02,Sulphates,0
+Jun-02,Total phosphorus,0
+Jun-02,Water temperature,0
+Jun-02,Zinc,0
+Jun-02,gamma-Hexachlorocyclohexane,0
+Jun-02,"p,p-DDT",0
+Jul-02,Ammonium,1
+Jul-02,Bicarbonates,0
+Jul-02,Biochemical Oxygen,0
+Jul-02,Calcium,0
+Jul-02,Chemical Oxygen Demand (Cr),1
+Jul-02,Chemical Oxygen Demand (Mn),0
+Jul-02,Chlorides,0
+Jul-02,Dissolved oxygen,0
+Jul-02,Iron,1
+Jul-02,Magnesium,0
+Jul-02,Manganese,1
+Jul-02,Nitrates,0
+Jul-02,Nitrites,0
+Jul-02,Orthophosphate-phosphorus,0
+Jul-02,Sulphates,0
+Jul-02,Total phosphorus,1
+Jul-02,Water temperature,0
+Jul-02,Zinc,0
+Aug-02,Ammonium,1
+Aug-02,Atrazine,0
+Aug-02,Bicarbonates,0
+Aug-02,Biochemical Oxygen,0
+Aug-02,Cadmium,0
+Aug-02,Calcium,0
+Aug-02,Chemical Oxygen Demand (Cr),1
+Aug-02,Chemical Oxygen Demand (Mn),0
+Aug-02,Chlorides,0
+Aug-02,Chromium,0
+Aug-02,Copper,1
+Aug-02,Dissolved oxygen,0
+Aug-02,Iron,0
+Aug-02,Lead,1
+Aug-02,Magnesium,0
+Aug-02,Manganese,0
+Aug-02,Nickel,0
+Aug-02,Nitrates,0
+Aug-02,Nitrites,0
+Aug-02,Orthophosphate-phosphorus,0
+Aug-02,Sulphates,0
+Aug-02,Total phosphorus,1
+Aug-02,Water temperature,0
+Aug-02,Zinc,0
+Sep-02,Ammonium,1
+Sep-02,Atrazine,0
+Sep-02,Bicarbonates,0
+Sep-02,Biochemical Oxygen,0
+Sep-02,Cadmium,0
+Sep-02,Calcium,0
+Sep-02,Chemical Oxygen Demand (Cr),1
+Sep-02,Chemical Oxygen Demand (Mn),0
+Sep-02,Chlorides,0
+Sep-02,Chromium,0
+Sep-02,Copper,0
+Sep-02,Dissolved oxygen,0
+Sep-02,Iron,0
+Sep-02,Lead,1
+Sep-02,Magnesium,0
+Sep-02,Manganese,0
+Sep-02,Nitrates,0
+Sep-02,Nitrites,0
+Sep-02,Orthophosphate-phosphorus,0
+Sep-02,Sulphates,0
+Sep-02,Total phosphorus,1
+Sep-02,Water temperature,0
+Sep-02,Zinc,0
+Oct-02,Ammonium,2
+Oct-02,Atrazine,0
+Oct-02,Bicarbonates,0
+Oct-02,Biochemical Oxygen,0
+Oct-02,Cadmium,0
+Oct-02,Calcium,0
+Oct-02,Chemical Oxygen Demand (Cr),1
+Oct-02,Chemical Oxygen Demand (Mn),0
+Oct-02,Chlorides,0
+Oct-02,Chromium,1
+Oct-02,Copper,1
+Oct-02,Dissolved oxygen,0
+Oct-02,Fecal coliforms,0
+Oct-02,Fecal streptococci,0
+Oct-02,Iron,2
+Oct-02,Lead,3
+Oct-02,Magnesium,0
+Oct-02,Manganese,1
+Oct-02,Nickel,0
+Oct-02,Nitrates,0
+Oct-02,Nitrites,0
+Oct-02,Orthophosphate-phosphorus,2
+Oct-02,PAHs,0
+Oct-02,Petroleum hydrocarbons,1
+Oct-02,Sulphates,0
+Oct-02,Total coliforms,0
+Oct-02,Total phosphorus,2
+Oct-02,Water temperature,0
+Oct-02,Zinc,1
+Oct-02,gamma-Hexachlorocyclohexane,0
+Oct-02,"p,p-DDT",0
+Dec-02,Ammonium,1
+Dec-02,Atrazine,0
+Dec-02,Bicarbonates,0
+Dec-02,Biochemical Oxygen,0
+Dec-02,Cadmium,0
+Dec-02,Calcium,0
+Dec-02,Chemical Oxygen Demand (Cr),1
+Dec-02,Chemical Oxygen Demand (Mn),0
+Dec-02,Chlorides,0
+Dec-02,Chromium,0
+Dec-02,Copper,0
+Dec-02,Dissolved oxygen,0
+Dec-02,Iron,0
+Dec-02,Magnesium,0
+Dec-02,Manganese,0
+Dec-02,Nitrates,0
+Dec-02,Nitrites,0
+Dec-02,Orthophosphate-phosphorus,0
+Dec-02,Sulphates,0
+Dec-02,Total phosphorus,1
+Dec-02,Water temperature,0
+Dec-02,Zinc,0
+Jan-03,Ammonium,1
+Jan-03,Anionic active surfactants,0
+Jan-03,Atrazine,0
+Jan-03,Bicarbonates,0
+Jan-03,Cadmium,0
+Jan-03,Calcium,0
+Jan-03,Chlorides,0
+Jan-03,Chromium,0
+Jan-03,Copper,1
+Jan-03,Dissolved oxygen,0
+Jan-03,Fecal coliforms,0
+Jan-03,Fecal streptococci,0
+Jan-03,Iron,0
+Jan-03,Lead,1
+Jan-03,Macrozoobenthos,0
+Jan-03,Magnesium,0
+Jan-03,Manganese,0
+Jan-03,Nickel,0
+Jan-03,Nitrates,0
+Jan-03,Nitrites,0
+Jan-03,Orthophosphate-phosphorus,0
+Jan-03,Sulphates,0
+Jan-03,Total coliforms,0
+Jan-03,Total extractable matter,0
+Jan-03,Water temperature,0
+Jan-03,Zinc,0
+Jan-03,gamma-Hexachlorocyclohexane,0
+Feb-03,Ammonium,1
+Feb-03,Anionic active surfactants,0
+Feb-03,Bicarbonates,0
+Feb-03,Biochemical Oxygen,0
+Feb-03,Cadmium,0
+Feb-03,Calcium,0
+Feb-03,Chemical Oxygen Demand (Cr),1
+Feb-03,Chemical Oxygen Demand (Mn),0
+Feb-03,Chlorides,0
+Feb-03,Chromium,0
+Feb-03,Copper,0
+Feb-03,Dissolved oxygen,1
+Feb-03,Fecal coliforms,0
+Feb-03,Fecal streptococci,0
+Feb-03,Iron,1
+Feb-03,Lead,1
+Feb-03,Macrozoobenthos,0
+Feb-03,Magnesium,0
+Feb-03,Manganese,0
+Feb-03,Nickel,0
+Feb-03,Nitrates,0
+Feb-03,Nitrites,0
+Feb-03,Orthophosphate-phosphorus,0
+Feb-03,Sulphates,0
+Feb-03,Total coliforms,0
+Feb-03,Total phosphorus,1
+Feb-03,Water temperature,0
+Feb-03,Zinc,0
+Feb-03,gamma-Hexachlorocyclohexane,0
+Mar-03,Ammonium,1
+Mar-03,Bicarbonates,0
+Mar-03,Biochemical Oxygen,0
+Mar-03,Cadmium,0
+Mar-03,Calcium,0
+Mar-03,Chemical Oxygen Demand (Cr),1
+Mar-03,Chemical Oxygen Demand (Mn),0
+Mar-03,Chlorides,0
+Mar-03,Chromium,0
+Mar-03,Copper,0
+Mar-03,Dissolved oxygen,0
+Mar-03,Fecal coliforms,0
+Mar-03,Fecal streptococci,0
+Mar-03,Iron,1
+Mar-03,Lead,1
+Mar-03,Magnesium,0
+Mar-03,Manganese,0
+Mar-03,Nickel,0
+Mar-03,Nitrates,0
+Mar-03,Nitrites,0
+Mar-03,Orthophosphate-phosphorus,0
+Mar-03,Sulphates,0
+Mar-03,Total coliforms,0
+Mar-03,Total phosphorus,1
+Mar-03,Water temperature,0
+Mar-03,Zinc,0
+Mar-03,gamma-Hexachlorocyclohexane,0
+Mar-03,"p,p-DDT",0
+Apr-03,Ammonium,1
+Apr-03,Bicarbonates,0
+Apr-03,Biochemical Oxygen,0
+Apr-03,Cadmium,0
+Apr-03,Calcium,0
+Apr-03,Chemical Oxygen Demand (Cr),1
+Apr-03,Chemical Oxygen Demand (Mn),0
+Apr-03,Chlorides,0
+Apr-03,Chromium,0
+Apr-03,Copper,1
+Apr-03,Dissolved oxygen,0
+Apr-03,Fecal streptococci,0
+Apr-03,Iron,1
+Apr-03,Lead,1
+Apr-03,Magnesium,0
+Apr-03,Manganese,1
+Apr-03,Nickel,0
+Apr-03,Nitrates,0
+Apr-03,Nitrites,0
+Apr-03,Orthophosphate-phosphorus,1
+Apr-03,Sulphates,0
+Apr-03,Total coliforms,0
+Apr-03,Total phosphorus,1
+Apr-03,Water temperature,0
+Apr-03,Zinc,1
+May-03,Ammonium,1
+May-03,Bicarbonates,0
+May-03,Biochemical Oxygen,0
+May-03,Cadmium,0
+May-03,Calcium,0
+May-03,Chemical Oxygen Demand (Cr),1
+May-03,Chemical Oxygen Demand (Mn),0
+May-03,Chlorides,0
+May-03,Chromium,0
+May-03,Copper,1
+May-03,Dissolved oxygen,0
+May-03,Iron,1
+May-03,Lead,1
+May-03,Magnesium,0
+May-03,Manganese,0
+May-03,Nickel,0
+May-03,Nitrates,0
+May-03,Nitrites,0
+May-03,Orthophosphate-phosphorus,0
+May-03,Sulphates,0
+May-03,Total phosphorus,1
+May-03,Water temperature,0
+May-03,Zinc,0
+Jun-03,Ammonium,1
+Jun-03,Bicarbonates,0
+Jun-03,Biochemical Oxygen,0
+Jun-03,Cadmium,0
+Jun-03,Calcium,0
+Jun-03,Chemical Oxygen Demand (Cr),1
+Jun-03,Chemical Oxygen Demand (Mn),0
+Jun-03,Chlorides,0
+Jun-03,Chromium,0
+Jun-03,Copper,0
+Jun-03,Dissolved oxygen,0
+Jun-03,Iron,1
+Jun-03,Lead,1
+Jun-03,Macrozoobenthos,0
+Jun-03,Magnesium,0
+Jun-03,Manganese,0
+Jun-03,Nickel,0
+Jun-03,Nitrates,0
+Jun-03,Nitrites,0
+Jun-03,Orthophosphate-phosphorus,0
+Jun-03,Sulphates,0
+Jun-03,Total phosphorus,0
+Jun-03,Water temperature,0
+Jun-03,Zinc,0
+Jul-03,Ammonium,1
+Jul-03,Bicarbonates,0
+Jul-03,Biochemical Oxygen,0
+Jul-03,Cadmium,1
+Jul-03,Calcium,0
+Jul-03,Chemical Oxygen Demand (Cr),1
+Jul-03,Chemical Oxygen Demand (Mn),0
+Jul-03,Chlorides,0
+Jul-03,Chromium,0
+Jul-03,Copper,0
+Jul-03,Dissolved oxygen,0
+Jul-03,Lead,1
+Jul-03,Macrozoobenthos,0
+Jul-03,Magnesium,0
+Jul-03,Manganese,0
+Jul-03,Nickel,0
+Jul-03,Nitrates,0
+Jul-03,Nitrites,0
+Jul-03,Orthophosphate-phosphorus,1
+Jul-03,Sulphates,0
+Jul-03,Total phosphorus,1
+Jul-03,Water temperature,0
+Jul-03,Zinc,0
+Aug-03,Ammonium,1
+Aug-03,Benzo(a)pyrene,0
+Aug-03,Benzo(b)fluoranthene,0
+Aug-03,"Benzo(g,h,i)perylene",0
+Aug-03,Benzo(k)fluoranthene,0
+Aug-03,Bicarbonates,0
+Aug-03,Biochemical Oxygen,0
+Aug-03,Cadmium,0
+Aug-03,Calcium,0
+Aug-03,Chemical Oxygen Demand (Cr),1
+Aug-03,Chemical Oxygen Demand (Mn),0
+Aug-03,Chlorides,0
+Aug-03,Chromium,1
+Aug-03,Copper,1
+Aug-03,Dissolved oxygen,0
+Aug-03,Fluoranthene,0
+Aug-03,"Indeno(1,2,3-c,d)pyrene",0
+Aug-03,Iron,2
+Aug-03,Lead,1
+Aug-03,Macrozoobenthos,0
+Aug-03,Magnesium,0
+Aug-03,Manganese,2
+Aug-03,Nickel,1
+Aug-03,Nitrates,0
+Aug-03,Nitrites,0
+Aug-03,Orthophosphate-phosphorus,0
+Aug-03,PCB 101,0
+Aug-03,PCB 138,0
+Aug-03,PCB 153,0
+Aug-03,PCB 180,0
+Aug-03,PCB 28,0
+Aug-03,PCB 52,0
+Aug-03,Sulphates,0
+Aug-03,Total phosphorus,1
+Aug-03,Water temperature,0
+Aug-03,Zinc,0
+Aug-03,gamma-Hexachlorocyclohexane,0
+Aug-03,"p,p-DDT",0
+Sep-03,Ammonium,1
+Sep-03,Bicarbonates,0
+Sep-03,Biochemical Oxygen,0
+Sep-03,Cadmium,0
+Sep-03,Calcium,0
+Sep-03,Chemical Oxygen Demand (Cr),1
+Sep-03,Chemical Oxygen Demand (Mn),0
+Sep-03,Chlorides,0
+Sep-03,Chromium,0
+Sep-03,Copper,0
+Sep-03,Dissolved oxygen,0
+Sep-03,Iron,1
+Sep-03,Lead,1
+Sep-03,Macrozoobenthos,0
+Sep-03,Magnesium,0
+Sep-03,Manganese,1
+Sep-03,Nickel,0
+Sep-03,Nitrates,0
+Sep-03,Nitrites,0
+Sep-03,Orthophosphate-phosphorus,1
+Sep-03,Sulphates,0
+Sep-03,Total phosphorus,1
+Sep-03,Water temperature,0
+Sep-03,Zinc,0
+Oct-03,Ammonium,1
+Oct-03,Bicarbonates,0
+Oct-03,Biochemical Oxygen,0
+Oct-03,Cadmium,0
+Oct-03,Calcium,0
+Oct-03,Chemical Oxygen Demand (Cr),1
+Oct-03,Chemical Oxygen Demand (Mn),1
+Oct-03,Chlorides,0
+Oct-03,Chromium,0
+Oct-03,Copper,0
+Oct-03,Dissolved oxygen,0
+Oct-03,Fecal coliforms,0
+Oct-03,Fecal streptococci,0
+Oct-03,Iron,1
+Oct-03,Lead,1
+Oct-03,Magnesium,0
+Oct-03,Manganese,1
+Oct-03,Nickel,0
+Oct-03,Nitrates,0
+Oct-03,Nitrites,0
+Oct-03,Orthophosphate-phosphorus,1
+Oct-03,Silica (SiO2),0
+Oct-03,Sulphates,0
+Oct-03,Total coliforms,0
+Oct-03,Total phosphorus,1
+Oct-03,Water temperature,0
+Oct-03,Zinc,0
+Nov-03,Ammonium,1
+Nov-03,Bicarbonates,0
+Nov-03,Biochemical Oxygen,0
+Nov-03,Cadmium,0
+Nov-03,Calcium,0
+Nov-03,Chemical Oxygen Demand (Cr),1
+Nov-03,Chemical Oxygen Demand (Mn),0
+Nov-03,Chlorides,0
+Nov-03,Chromium,0
+Nov-03,Copper,0
+Nov-03,Dissolved oxygen,0
+Nov-03,Iron,1
+Nov-03,Lead,1
+Nov-03,Magnesium,0
+Nov-03,Manganese,1
+Nov-03,Nickel,0
+Nov-03,Nitrates,0
+Nov-03,Nitrites,0
+Nov-03,Orthophosphate-phosphorus,0
+Nov-03,Sulphates,0
+Nov-03,Total extractable matter,0
+Nov-03,Total phosphorus,1
+Nov-03,Water temperature,0
+Nov-03,Zinc,0
+Dec-03,Ammonium,1
+Dec-03,Bicarbonates,1
+Dec-03,Biochemical Oxygen,0
+Dec-03,Calcium,0
+Dec-03,Chemical Oxygen Demand (Cr),1
+Dec-03,Chemical Oxygen Demand (Mn),0
+Dec-03,Chlorides,0
+Dec-03,Dissolved oxygen,0
+Dec-03,Magnesium,0
+Dec-03,Nitrates,0
+Dec-03,Nitrites,0
+Dec-03,Orthophosphate-phosphorus,1
+Dec-03,Silica (SiO2),0
+Dec-03,Sulphates,0
+Dec-03,Total phosphorus,1
+Dec-03,Water temperature,0
+Jan-04,Ammonium,1
+Jan-04,Bicarbonates,0
+Jan-04,Biochemical Oxygen,0
+Jan-04,Cadmium,0
+Jan-04,Calcium,1
+Jan-04,Chemical Oxygen Demand (Cr),1
+Jan-04,Chemical Oxygen Demand (Mn),0
+Jan-04,Chlorides,0
+Jan-04,Chromium,0
+Jan-04,Copper,1
+Jan-04,Dissolved oxygen,0
+Jan-04,Iron,1
+Jan-04,Lead,1
+Jan-04,Magnesium,0
+Jan-04,Manganese,1
+Jan-04,Nickel,0
+Jan-04,Nitrates,0
+Jan-04,Nitrites,0
+Jan-04,Orthophosphate-phosphorus,1
+Jan-04,Petroleum hydrocarbons,1
+Jan-04,Silica (SiO2),0
+Jan-04,Sulphates,0
+Jan-04,Total phosphorus,1
+Jan-04,Water temperature,0
+Jan-04,Zinc,1
+Jan-04,gamma-Hexachlorocyclohexane,0
+Feb-04,Ammonium,1
+Feb-04,Bicarbonates,0
+Feb-04,Biochemical Oxygen,0
+Feb-04,Cadmium,0
+Feb-04,Calcium,0
+Feb-04,Chemical Oxygen Demand (Cr),1
+Feb-04,Chemical Oxygen Demand (Mn),0
+Feb-04,Chlorides,0
+Feb-04,Chromium,0
+Feb-04,Copper,1
+Feb-04,Dissolved oxygen,0
+Feb-04,Fecal coliforms,0
+Feb-04,Fecal streptococci,0
+Feb-04,Iron,1
+Feb-04,Lead,1
+Feb-04,Macrozoobenthos,0
+Feb-04,Magnesium,0
+Feb-04,Manganese,1
+Feb-04,Nickel,0
+Feb-04,Nitrates,0
+Feb-04,Nitrites,0
+Feb-04,Orthophosphate-phosphorus,1
+Feb-04,Petroleum hydrocarbons,0
+Feb-04,Silica (SiO2),0
+Feb-04,Sulphates,0
+Feb-04,Total coliforms,0
+Feb-04,Water temperature,0
+Feb-04,Zinc,0
+Mar-04,Ammonium,0
+Mar-04,Arsenic,0
+Mar-04,Bicarbonates,0
+Mar-04,Biochemical Oxygen,0
+Mar-04,Cadmium,0
+Mar-04,Calcium,0
+Mar-04,Chemical Oxygen Demand (Cr),1
+Mar-04,Chemical Oxygen Demand (Mn),0
+Mar-04,Chlorides,0
+Mar-04,Chromium,0
+Mar-04,Copper,1
+Mar-04,Dissolved oxygen,0
+Mar-04,Iron,1
+Mar-04,Lead,1
+Mar-04,Magnesium,0
+Mar-04,Manganese,0
+Mar-04,Nickel,0
+Mar-04,Nitrates,0
+Mar-04,Nitrites,0
+Mar-04,Orthophosphate-phosphorus,0
+Mar-04,Petroleum hydrocarbons,1
+Mar-04,Silica (SiO2),0
+Mar-04,Sulphates,0
+Mar-04,Water temperature,0
+Mar-04,Zinc,0
+Apr-04,Ammonium,1
+Apr-04,Bicarbonates,0
+Apr-04,Biochemical Oxygen,0
+Apr-04,Cadmium,1
+Apr-04,Calcium,0
+Apr-04,Chemical Oxygen Demand (Cr),1
+Apr-04,Chemical Oxygen Demand (Mn),0
+Apr-04,Chlorides,0
+Apr-04,Chromium,0
+Apr-04,Copper,1
+Apr-04,Dissolved oxygen,0
+Apr-04,Iron,1
+Apr-04,Lead,1
+Apr-04,Magnesium,0
+Apr-04,Manganese,1
+Apr-04,Nickel,0
+Apr-04,Nitrates,0
+Apr-04,Nitrites,0
+Apr-04,Orthophosphate-phosphorus,0
+Apr-04,Petroleum hydrocarbons,1
+Apr-04,Silica (SiO2),0
+Apr-04,Sulphates,0
+Apr-04,Water temperature,0
+Apr-04,Zinc,1
+May-04,Ammonium,1
+May-04,Bicarbonates,0
+May-04,Biochemical Oxygen,0
+May-04,Cadmium,0
+May-04,Calcium,0
+May-04,Chemical Oxygen Demand (Cr),1
+May-04,Chemical Oxygen Demand (Mn),0
+May-04,Chlorides,0
+May-04,Chromium,0
+May-04,Copper,1
+May-04,Dissolved oxygen,0
+May-04,Iron,1
+May-04,Lead,1
+May-04,Macrozoobenthos,0
+May-04,Magnesium,0
+May-04,Manganese,1
+May-04,Nickel,0
+May-04,Nitrates,0
+May-04,Nitrites,0
+May-04,Orthophosphate-phosphorus,1
+May-04,Silica (SiO2),0
+May-04,Sulphates,0
+May-04,Zinc,1
+May-04,gamma-Hexachlorocyclohexane,0
+May-04,"p,p-DDT",0
+Jun-04,Ammonium,1
+Jun-04,Bicarbonates,0
+Jun-04,Biochemical Oxygen,0
+Jun-04,Cadmium,0
+Jun-04,Calcium,0
+Jun-04,Chemical Oxygen Demand (Cr),1
+Jun-04,Chemical Oxygen Demand (Mn),0
+Jun-04,Chlorides,0
+Jun-04,Chromium,0
+Jun-04,Copper,0
+Jun-04,Dissolved oxygen,0
+Jun-04,Iron,1
+Jun-04,Lead,1
+Jun-04,Magnesium,0
+Jun-04,Manganese,0
+Jun-04,Nickel,0
+Jun-04,Nitrates,0
+Jun-04,Nitrites,0
+Jun-04,Orthophosphate-phosphorus,0
+Jun-04,Silica (SiO2),0
+Jun-04,Sulphates,0
+Jun-04,Water temperature,0
+Jun-04,Zinc,1
+Jun-04,gamma-Hexachlorocyclohexane,0
+Jul-04,Ammonium,1
+Jul-04,Bicarbonates,0
+Jul-04,Biochemical Oxygen,0
+Jul-04,Cadmium,0
+Jul-04,Calcium,0
+Jul-04,Chemical Oxygen Demand (Cr),1
+Jul-04,Chemical Oxygen Demand (Mn),0
+Jul-04,Chlorides,0
+Jul-04,Chromium,0
+Jul-04,Copper,0
+Jul-04,Dissolved oxygen,0
+Jul-04,Iron,1
+Jul-04,Lead,1
+Jul-04,Magnesium,0
+Jul-04,Manganese,1
+Jul-04,Nickel,0
+Jul-04,Nitrates,0
+Jul-04,Nitrites,0
+Jul-04,Orthophosphate-phosphorus,0
+Jul-04,Petroleum hydrocarbons,0
+Jul-04,Silica (SiO2),0
+Jul-04,Sulphates,0
+Jul-04,Water temperature,0
+Jul-04,Zinc,1
+Jul-04,gamma-Hexachlorocyclohexane,0
+Aug-04,Ammonium,1
+Aug-04,Bicarbonates,0
+Aug-04,Biochemical Oxygen,0
+Aug-04,Cadmium,0
+Aug-04,Calcium,0
+Aug-04,Chemical Oxygen Demand (Cr),1
+Aug-04,Chemical Oxygen Demand (Mn),0
+Aug-04,Chlorides,0
+Aug-04,Chromium,0
+Aug-04,Copper,0
+Aug-04,Dissolved oxygen,0
+Aug-04,Iron,1
+Aug-04,Lead,1
+Aug-04,Magnesium,0
+Aug-04,Manganese,2
+Aug-04,Nickel,0
+Aug-04,Nitrates,0
+Aug-04,Nitrites,0
+Aug-04,Orthophosphate-phosphorus,1
+Aug-04,Petroleum hydrocarbons,0
+Aug-04,Silica (SiO2),0
+Aug-04,Sulphates,0
+Aug-04,Water temperature,0
+Aug-04,Zinc,0
+Aug-04,gamma-Hexachlorocyclohexane,0
+Sep-04,Ammonium,1
+Sep-04,Bicarbonates,0
+Sep-04,Biochemical Oxygen,0
+Sep-04,Cadmium,0
+Sep-04,Calcium,0
+Sep-04,Chemical Oxygen Demand (Cr),1
+Sep-04,Chemical Oxygen Demand (Mn),0
+Sep-04,Chlorides,0
+Sep-04,Chromium,0
+Sep-04,Copper,1
+Sep-04,Dissolved oxygen,0
+Sep-04,Iron,1
+Sep-04,Lead,1
+Sep-04,Magnesium,0
+Sep-04,Manganese,1
+Sep-04,Nickel,0
+Sep-04,Nitrates,0
+Sep-04,Nitrites,0
+Sep-04,Orthophosphate-phosphorus,1
+Sep-04,Petroleum hydrocarbons,0
+Sep-04,Silica (SiO2),0
+Sep-04,Sulphates,0
+Sep-04,Total phosphorus,1
+Sep-04,Water temperature,0
+Sep-04,Zinc,0
+Sep-04,gamma-Hexachlorocyclohexane,0
+Oct-04,Ammonium,1
+Oct-04,Bicarbonates,0
+Oct-04,Biochemical Oxygen,0
+Oct-04,Cadmium,0
+Oct-04,Calcium,0
+Oct-04,Chemical Oxygen Demand (Cr),1
+Oct-04,Chemical Oxygen Demand (Mn),0
+Oct-04,Chlorides,0
+Oct-04,Chromium,0
+Oct-04,Copper,0
+Oct-04,Dissolved oxygen,0
+Oct-04,Iron,1
+Oct-04,Lead,1
+Oct-04,Magnesium,0
+Oct-04,Manganese,0
+Oct-04,Nitrates,0
+Oct-04,Nitrites,0
+Oct-04,Orthophosphate-phosphorus,0
+Oct-04,Petroleum hydrocarbons,0
+Oct-04,Silica (SiO2),0
+Oct-04,Sulphates,0
+Oct-04,Total phosphorus,1
+Oct-04,Zinc,0
+Oct-04,gamma-Hexachlorocyclohexane,0
+Nov-04,Cadmium,0
+Nov-04,Chromium,0
+Nov-04,Copper,0
+Nov-04,Iron,0
+Nov-04,Lead,1
+Nov-04,Manganese,0
+Nov-04,Nickel,0
+Nov-04,Petroleum hydrocarbons,1
+Nov-04,Silica (SiO2),0
+Nov-04,Zinc,0
+Nov-04,gamma-Hexachlorocyclohexane,0
+Dec-04,Ammonium,1
+Dec-04,Bicarbonates,0
+Dec-04,Biochemical Oxygen,0
+Dec-04,Cadmium,0
+Dec-04,Calcium,0
+Dec-04,Chemical Oxygen Demand (Cr),1
+Dec-04,Chemical Oxygen Demand (Mn),0
+Dec-04,Chlorides,0
+Dec-04,Chromium,0
+Dec-04,Copper,0
+Dec-04,Dissolved oxygen,0
+Dec-04,Iron,1
+Dec-04,Lead,1
+Dec-04,Magnesium,0
+Dec-04,Manganese,0
+Dec-04,Nickel,0
+Dec-04,Nitrates,0
+Dec-04,Nitrites,0
+Dec-04,Orthophosphate-phosphorus,1
+Dec-04,Silica (SiO2),0
+Dec-04,Sulphates,0
+Dec-04,Total phosphorus,1
+Dec-04,Water temperature,0
+Dec-04,Zinc,0
+Jan-05,Aldrin,0
+Jan-05,Ammonium,1
+Jan-05,Atrazine,0
+Jan-05,Bicarbonates,0
+Jan-05,Biochemical Oxygen,0
+Jan-05,Cadmium,0
+Jan-05,Calcium,0
+Jan-05,Chemical Oxygen Demand (Mn),0
+Jan-05,Chlorides,0
+Jan-05,Chromium,0
+Jan-05,Copper,1
+Jan-05,Dieldrin,0
+Jan-05,Dissolved oxygen,0
+Jan-05,Endosulfan (alpha),0
+Jan-05,Endosulfan (beta),0
+Jan-05,Endrin,0
+Jan-05,Heptachlor,0
+Jan-05,Heptachloroepoxide,0
+Jan-05,Iron,0
+Jan-05,Lead,1
+Jan-05,Macrozoobenthos,0
+Jan-05,Magnesium,0
+Jan-05,Manganese,0
+Jan-05,Mercury,0
+Jan-05,Nickel,0
+Jan-05,Nitrates,0
+Jan-05,Nitrites,0
+Jan-05,Orthophosphate-phosphorus,1
+Jan-05,Petroleum hydrocarbons,1
+Jan-05,Sulphates,0
+Jan-05,Total dissolved salts,0
+Jan-05,Total hardness,0
+Jan-05,Total phosphorus,1
+Jan-05,Water temperature,0
+Jan-05,Zinc,0
+Jan-05,alpha-Hexachlorocyclohexane,0
+Jan-05,beta-Hexaxchlorocyclohexane,0
+Jan-05,gamma-Hexachlorocyclohexane,0
+Jan-05,"p,p-DDD",1
+Jan-05,"p,p-DDE",1
+Feb-05,Aldrin,0
+Feb-05,Ammonium,1
+Feb-05,Atrazine,0
+Feb-05,Bicarbonates,0
+Feb-05,Biochemical Oxygen,0
+Feb-05,Cadmium,0
+Feb-05,Calcium,0
+Feb-05,Chemical Oxygen Demand (Mn),0
+Feb-05,Chlorides,0
+Feb-05,Chromium,0
+Feb-05,Copper,0
+Feb-05,Dieldrin,0
+Feb-05,Dissolved oxygen,0
+Feb-05,Endosulfan (alpha),0
+Feb-05,Endosulfan (beta),0
+Feb-05,Endrin,0
+Feb-05,Heptachlor,0
+Feb-05,Heptachloroepoxide,0
+Feb-05,Iron,1
+Feb-05,Lead,1
+Feb-05,Macrozoobenthos,0
+Feb-05,Magnesium,0
+Feb-05,Manganese,0
+Feb-05,Mercury,0
+Feb-05,Nickel,0
+Feb-05,Nitrates,0
+Feb-05,Nitrites,0
+Feb-05,Orthophosphate-phosphorus,1
+Feb-05,Petroleum hydrocarbons,1
+Feb-05,Silica (SiO2),0
+Feb-05,Sulphates,0
+Feb-05,Total dissolved salts,0
+Feb-05,Total hardness,0
+Feb-05,Total phosphorus,1
+Feb-05,Water temperature,0
+Feb-05,Zinc,1
+Feb-05,alpha-Hexachlorocyclohexane,0
+Feb-05,beta-Hexaxchlorocyclohexane,0
+Feb-05,gamma-Hexachlorocyclohexane,0
+Feb-05,"p,p-DDD",0
+Feb-05,"p,p-DDE",0
+Feb-05,"p,p-DDT",0
+Mar-05,Aldrin,0
+Mar-05,Ammonium,1
+Mar-05,Atrazine,0
+Mar-05,Bicarbonates,0
+Mar-05,Biochemical Oxygen,0
+Mar-05,Cadmium,0
+Mar-05,Calcium,0
+Mar-05,Chemical Oxygen Demand (Mn),0
+Mar-05,Chlorides,0
+Mar-05,Chromium,0
+Mar-05,Copper,1
+Mar-05,Dieldrin,0
+Mar-05,Dissolved oxygen,0
+Mar-05,Endosulfan (alpha),0
+Mar-05,Endosulfan (beta),0
+Mar-05,Endrin,0
+Mar-05,Heptachlor,0
+Mar-05,Heptachloroepoxide,0
+Mar-05,Iron,1
+Mar-05,Lead,1
+Mar-05,Macrozoobenthos,0
+Mar-05,Magnesium,0
+Mar-05,Manganese,1
+Mar-05,Mercury,0
+Mar-05,Nickel,0
+Mar-05,Nitrates,0
+Mar-05,Nitrites,0
+Mar-05,Orthophosphate-phosphorus,0
+Mar-05,Petroleum hydrocarbons,1
+Mar-05,Silica (SiO2),0
+Mar-05,Sulphates,0
+Mar-05,Total dissolved salts,0
+Mar-05,Total hardness,0
+Mar-05,Total phosphorus,1
+Mar-05,Water temperature,0
+Mar-05,Zinc,1
+Mar-05,alpha-Hexachlorocyclohexane,0
+Mar-05,beta-Hexaxchlorocyclohexane,0
+Mar-05,gamma-Hexachlorocyclohexane,0
+Mar-05,"p,p-DDD",0
+Mar-05,"p,p-DDE",0
+Mar-05,"p,p-DDT",0
+Apr-05,Aldrin,0
+Apr-05,Ammonium,0
+Apr-05,Atrazine,0
+Apr-05,Bicarbonates,0
+Apr-05,Biochemical Oxygen,0
+Apr-05,Cadmium,1
+Apr-05,Calcium,0
+Apr-05,Chemical Oxygen Demand (Mn),0
+Apr-05,Chlorides,0
+Apr-05,Chromium,0
+Apr-05,Copper,1
+Apr-05,Dieldrin,0
+Apr-05,Dissolved oxygen,0
+Apr-05,Endosulfan (alpha),0
+Apr-05,Endosulfan (beta),0
+Apr-05,Endrin,0
+Apr-05,Heptachlor,0
+Apr-05,Heptachloroepoxide,0
+Apr-05,Iron,1
+Apr-05,Lead,1
+Apr-05,Macrozoobenthos,0
+Apr-05,Magnesium,0
+Apr-05,Manganese,1
+Apr-05,Mercury,0
+Apr-05,Nickel,0
+Apr-05,Nitrates,0
+Apr-05,Nitrites,0
+Apr-05,Orthophosphate-phosphorus,0
+Apr-05,Oxygen saturation,1
+Apr-05,Petroleum hydrocarbons,1
+Apr-05,Silica (SiO2),0
+Apr-05,Sulphates,0
+Apr-05,Total dissolved salts,0
+Apr-05,Total phosphorus,1
+Apr-05,Water temperature,0
+Apr-05,Zinc,1
+Apr-05,alpha-Hexachlorocyclohexane,0
+Apr-05,beta-Hexaxchlorocyclohexane,0
+Apr-05,gamma-Hexachlorocyclohexane,0
+Apr-05,"p,p-DDD",0
+Apr-05,"p,p-DDE",0
+Apr-05,"p,p-DDT",0
+May-05,Alachlor,0
+May-05,Aldrin,0
+May-05,Ammonium,0
+May-05,Atrazine,0
+May-05,Bicarbonates,0
+May-05,Biochemical Oxygen,0
+May-05,Cadmium,0
+May-05,Calcium,0
+May-05,Chemical Oxygen Demand (Mn),0
+May-05,Chlorides,0
+May-05,Chromium,0
+May-05,Copper,1
+May-05,Dieldrin,0
+May-05,Dissolved oxygen,0
+May-05,Endosulfan (alpha),0
+May-05,Endosulfan (beta),0
+May-05,Endrin,0
+May-05,Heptachlor,0
+May-05,Heptachloroepoxide,0
+May-05,Iron,1
+May-05,Lead,1
+May-05,Macrozoobenthos,0
+May-05,Magnesium,0
+May-05,Manganese,1
+May-05,Mercury,0
+May-05,Metolachlor,0
+May-05,Nickel,0
+May-05,Nitrates,0
+May-05,Nitrites,0
+May-05,Orthophosphate-phosphorus,0
+May-05,Oxygen saturation,1
+May-05,Petroleum hydrocarbons,1
+May-05,Silica (SiO2),0
+May-05,Total dissolved salts,0
+May-05,Total hardness,0
+May-05,Total nitrogen,1
+May-05,Total phosphorus,0
+May-05,Water temperature,0
+May-05,Zinc,1
+May-05,alpha-Hexachlorocyclohexane,0
+May-05,beta-Hexaxchlorocyclohexane,0
+May-05,gamma-Hexachlorocyclohexane,0
+May-05,"p,p-DDD",0
+May-05,"p,p-DDE",0
+May-05,"p,p-DDT",0
+Jun-05,Aldrin,0
+Jun-05,Ammonium,1
+Jun-05,Atrazine,0
+Jun-05,Bicarbonates,0
+Jun-05,Biochemical Oxygen,0
+Jun-05,Cadmium,0
+Jun-05,Calcium,0
+Jun-05,Chlorides,0
+Jun-05,Chromium,0
+Jun-05,Copper,0
+Jun-05,Dieldrin,0
+Jun-05,Dissolved oxygen,0
+Jun-05,Endosulfan (alpha),0
+Jun-05,Endosulfan (beta),0
+Jun-05,Endrin,1
+Jun-05,Fecal coliforms,0
+Jun-05,Fecal streptococci,0
+Jun-05,Heptachlor,1
+Jun-05,Heptachloroepoxide,0
+Jun-05,Iron,1
+Jun-05,Lead,1
+Jun-05,Macrozoobenthos,0
+Jun-05,Magnesium,0
+Jun-05,Manganese,1
+Jun-05,Mercury,0
+Jun-05,Metolachlor,0
+Jun-05,Nickel,0
+Jun-05,Nitrates,0
+Jun-05,Nitrites,0
+Jun-05,Orthophosphate-phosphorus,0
+Jun-05,Oxygen saturation,1
+Jun-05,Petroleum hydrocarbons,1
+Jun-05,Silica (SiO2),0
+Jun-05,Total coliforms,0
+Jun-05,Total dissolved salts,0
+Jun-05,Total hardness,0
+Jun-05,Total nitrogen,1
+Jun-05,Water temperature,0
+Jun-05,Zinc,0
+Jun-05,alpha-Hexachlorocyclohexane,0
+Jun-05,beta-Hexaxchlorocyclohexane,0
+Jun-05,gamma-Hexachlorocyclohexane,0
+Jun-05,"p,p-DDD",0
+Jun-05,"p,p-DDE",0
+Jun-05,"p,p-DDT",0
+Jul-05,Alachlor,0
+Jul-05,Aldrin,0
+Jul-05,Ammonium,1
+Jul-05,Atrazine,0
+Jul-05,Bicarbonates,0
+Jul-05,Biochemical Oxygen,0
+Jul-05,Cadmium,1
+Jul-05,Calcium,0
+Jul-05,Chemical Oxygen Demand (Mn),0
+Jul-05,Chlorides,0
+Jul-05,Chromium,0
+Jul-05,Copper,1
+Jul-05,Dieldrin,0
+Jul-05,Dissolved oxygen,0
+Jul-05,Endosulfan (alpha),1
+Jul-05,Endosulfan (beta),0
+Jul-05,Endrin,0
+Jul-05,Fecal streptococci,0
+Jul-05,Heptachlor,0
+Jul-05,Iron,1
+Jul-05,Lead,1
+Jul-05,Macrozoobenthos,0
+Jul-05,Magnesium,0
+Jul-05,Manganese,1
+Jul-05,Mercury,0
+Jul-05,Metolachlor,0
+Jul-05,Nickel,0
+Jul-05,Nitrates,0
+Jul-05,Nitrites,0
+Jul-05,Orthophosphate-phosphorus,1
+Jul-05,Oxygen saturation,1
+Jul-05,Petroleum hydrocarbons,0
+Jul-05,Silica (SiO2),0
+Jul-05,Sulphates,0
+Jul-05,Total dissolved salts,0
+Jul-05,Total hardness,0
+Jul-05,Total nitrogen,1
+Jul-05,Total phosphorus,1
+Jul-05,Water temperature,0
+Jul-05,Zinc,0
+Jul-05,alpha-Hexachlorocyclohexane,0
+Jul-05,beta-Hexaxchlorocyclohexane,0
+Jul-05,gamma-Hexachlorocyclohexane,0
+Jul-05,"p,p-DDD",1
+Jul-05,"p,p-DDE",1
+Jul-05,"p,p-DDT",0
+Aug-05,Alachlor,0
+Aug-05,Aldrin,0
+Aug-05,Ammonium,1
+Aug-05,Atrazine,0
+Aug-05,Bicarbonates,0
+Aug-05,Biochemical Oxygen,0
+Aug-05,Cadmium,0
+Aug-05,Calcium,0
+Aug-05,Chemical Oxygen Demand (Mn),0
+Aug-05,Chlorides,0
+Aug-05,Chromium,0
+Aug-05,Copper,1
+Aug-05,Dieldrin,0
+Aug-05,Dissolved oxygen,0
+Aug-05,Endosulfan (alpha),0
+Aug-05,Endosulfan (beta),0
+Aug-05,Endrin,0
+Aug-05,Fecal coliforms,0
+Aug-05,Fecal streptococci,0
+Aug-05,Heptachlor,0
+Aug-05,Heptachloroepoxide,0
+Aug-05,Iron,1
+Aug-05,Lead,1
+Aug-05,Macrozoobenthos,0
+Aug-05,Magnesium,0
+Aug-05,Manganese,1
+Aug-05,Mercury,0
+Aug-05,Metolachlor,0
+Aug-05,Nickel,0
+Aug-05,Nitrates,0
+Aug-05,Nitrites,0
+Aug-05,Orthophosphate-phosphorus,1
+Aug-05,Oxygen saturation,1
+Aug-05,Petroleum hydrocarbons,0
+Aug-05,Silica (SiO2),0
+Aug-05,Sulphates,0
+Aug-05,Total coliforms,0
+Aug-05,Total dissolved salts,0
+Aug-05,Total hardness,0
+Aug-05,Total nitrogen,1
+Aug-05,Total phosphorus,1
+Aug-05,Water temperature,0
+Aug-05,Zinc,0
+Aug-05,alpha-Hexachlorocyclohexane,0
+Aug-05,beta-Hexaxchlorocyclohexane,0
+Aug-05,gamma-Hexachlorocyclohexane,0
+Aug-05,"p,p-DDD",0
+Aug-05,"p,p-DDE",0
+Aug-05,"p,p-DDT",0
+Sep-05,Alachlor,0
+Sep-05,Aldrin,0
+Sep-05,Ammonium,0
+Sep-05,Atrazine,0
+Sep-05,Bicarbonates,0
+Sep-05,Biochemical Oxygen,0
+Sep-05,Cadmium,1
+Sep-05,Calcium,0
+Sep-05,Chemical Oxygen Demand (Mn),0
+Sep-05,Chlorides,0
+Sep-05,Chromium,0
+Sep-05,Copper,0
+Sep-05,Dieldrin,0
+Sep-05,Dissolved oxygen,0
+Sep-05,Endosulfan (alpha),0
+Sep-05,Endosulfan (beta),0
+Sep-05,Endrin,0
+Sep-05,Heptachlor,0
+Sep-05,Heptachloroepoxide,0
+Sep-05,Iron,0
+Sep-05,Lead,1
+Sep-05,Magnesium,0
+Sep-05,Manganese,0
+Sep-05,Mercury,0
+Sep-05,Metolachlor,0
+Sep-05,Nickel,0
+Sep-05,Nitrates,0
+Sep-05,Nitrites,0
+Sep-05,Orthophosphate-phosphorus,0
+Sep-05,Oxygen saturation,1
+Sep-05,Petroleum hydrocarbons,1
+Sep-05,Silica (SiO2),0
+Sep-05,Simazine,0
+Sep-05,Sulphates,0
+Sep-05,Total dissolved salts,0
+Sep-05,Total hardness,0
+Sep-05,Total phosphorus,1
+Sep-05,Water temperature,0
+Sep-05,Zinc,1
+Sep-05,alpha-Hexachlorocyclohexane,0
+Sep-05,beta-Hexaxchlorocyclohexane,0
+Sep-05,gamma-Hexachlorocyclohexane,0
+Sep-05,"p,p-DDD",0
+Sep-05,"p,p-DDE",0
+Sep-05,"p,p-DDT",0
+Oct-05,Aldrin,0
+Oct-05,Ammonium,1
+Oct-05,Anionic active surfactants,0
+Oct-05,Bicarbonates,0
+Oct-05,Biochemical Oxygen,0
+Oct-05,Cadmium,0
+Oct-05,Calcium,1
+Oct-05,Chemical Oxygen Demand (Mn),0
+Oct-05,Chlorides,0
+Oct-05,Chromium,0
+Oct-05,Copper,0
+Oct-05,Dieldrin,1
+Oct-05,Dissolved oxygen,0
+Oct-05,Endosulfan (alpha),0
+Oct-05,Endosulfan (beta),1
+Oct-05,Endrin,0
+Oct-05,Fecal coliforms,0
+Oct-05,Iron,1
+Oct-05,Lead,1
+Oct-05,Macrozoobenthos,0
+Oct-05,Magnesium,0
+Oct-05,Manganese,0
+Oct-05,Mercury,0
+Oct-05,Nickel,0
+Oct-05,Nitrates,0
+Oct-05,Nitrites,0
+Oct-05,Orthophosphate-phosphorus,1
+Oct-05,Oxygen saturation,1
+Oct-05,Petroleum hydrocarbons,0
+Oct-05,Silica (SiO2),0
+Oct-05,Total coliforms,0
+Oct-05,Total dissolved salts,0
+Oct-05,Total hardness,0
+Oct-05,Total phosphorus,1
+Oct-05,Water temperature,0
+Oct-05,Zinc,0
+Oct-05,alpha-Hexachlorocyclohexane,0
+Oct-05,beta-Hexaxchlorocyclohexane,0
+Oct-05,gamma-Hexachlorocyclohexane,0
+Oct-05,"p,p-DDD",0
+Oct-05,"p,p-DDE",0
+Nov-05,Ammonium,1
+Nov-05,Anionic active surfactants,0
+Nov-05,Bicarbonates,0
+Nov-05,Biochemical Oxygen,0
+Nov-05,Cadmium,1
+Nov-05,Calcium,0
+Nov-05,Chemical Oxygen Demand (Mn),0
+Nov-05,Chlorides,0
+Nov-05,Chromium,0
+Nov-05,Copper,0
+Nov-05,Dissolved oxygen,0
+Nov-05,Fecal coliforms,0
+Nov-05,Fecal streptococci,0
+Nov-05,Heptachlor,0
+Nov-05,Iron,0
+Nov-05,Lead,1
+Nov-05,Macrozoobenthos,0
+Nov-05,Magnesium,0
+Nov-05,Manganese,0
+Nov-05,Mercury,0
+Nov-05,Nickel,0
+Nov-05,Nitrates,0
+Nov-05,Nitrites,0
+Nov-05,Orthophosphate-phosphorus,0
+Nov-05,Oxygen saturation,1
+Nov-05,Petroleum hydrocarbons,0
+Nov-05,Silica (SiO2),0
+Nov-05,Sulphates,0
+Nov-05,Total coliforms,0
+Nov-05,Total dissolved salts,0
+Nov-05,Total hardness,0
+Nov-05,Total nitrogen,1
+Nov-05,Total phosphorus,1
+Nov-05,Water temperature,0
+Nov-05,Zinc,1
+Nov-05,alpha-Hexachlorocyclohexane,0
+Nov-05,beta-Hexaxchlorocyclohexane,0
+Nov-05,gamma-Hexachlorocyclohexane,0
+Nov-05,"p,p-DDD",0
+Nov-05,"p,p-DDE",0
+Nov-05,"p,p-DDT",0
+Dec-05,Ammonium,1
+Dec-05,Anionic active surfactants,0
+Dec-05,Bicarbonates,0
+Dec-05,Biochemical Oxygen,0
+Dec-05,Calcium,1
+Dec-05,Chemical Oxygen Demand (Mn),0
+Dec-05,Chlorides,0
+Dec-05,Chromium,0
+Dec-05,Copper,0
+Dec-05,Dieldrin,0
+Dec-05,Dissolved oxygen,0
+Dec-05,Endrin,0
+Dec-05,Iron,1
+Dec-05,Lead,1
+Dec-05,Magnesium,0
+Dec-05,Manganese,0
+Dec-05,Mercury,0
+Dec-05,Methoxychlor,0
+Dec-05,Nickel,0
+Dec-05,Nitrates,0
+Dec-05,Nitrites,0
+Dec-05,Orthophosphate-phosphorus,1
+Dec-05,Oxygen saturation,1
+Dec-05,Petroleum hydrocarbons,0
+Dec-05,Silica (SiO2),0
+Dec-05,Sulphates,0
+Dec-05,Total dissolved salts,0
+Dec-05,Total hardness,0
+Dec-05,Total phosphorus,1
+Dec-05,Water temperature,0
+Dec-05,Zinc,1
+Dec-05,alpha-Hexachlorocyclohexane,0
+Dec-05,beta-Hexaxchlorocyclohexane,0
+Dec-05,gamma-Hexachlorocyclohexane,0
+Dec-05,"p,p-DDD",0
+Dec-05,"p,p-DDE",0
+Jan-06,Ammonium,0
+Jan-06,Anionic active surfactants,0
+Jan-06,Atrazine,0
+Jan-06,Bicarbonates,0
+Jan-06,Biochemical Oxygen,0
+Jan-06,Cadmium,0
+Jan-06,Calcium,0
+Jan-06,Chemical Oxygen Demand (Mn),0
+Jan-06,Chlorides,0
+Jan-06,Chromium,0
+Jan-06,Copper,1
+Jan-06,Dissolved oxygen,0
+Jan-06,Heptachlor,0
+Jan-06,Iron,1
+Jan-06,Lead,1
+Jan-06,Magnesium,0
+Jan-06,Manganese,0
+Jan-06,Mercury,0
+Jan-06,Metolachlor,0
+Jan-06,Nickel,0
+Jan-06,Nitrates,0
+Jan-06,Nitrites,0
+Jan-06,Orthophosphate-phosphorus,1
+Jan-06,Oxygen saturation,1
+Jan-06,Petroleum hydrocarbons,1
+Jan-06,Silica (SiO2),0
+Jan-06,Sulphates,0
+Jan-06,Total dissolved salts,0
+Jan-06,Total hardness,0
+Jan-06,Total nitrogen,1
+Jan-06,Total phosphorus,1
+Jan-06,Water temperature,0
+Jan-06,Zinc,0
+Jan-06,alpha-Hexachlorocyclohexane,0
+Jan-06,beta-Hexaxchlorocyclohexane,0
+Jan-06,gamma-Hexachlorocyclohexane,0
+Jan-06,"p,p-DDD",0
+Jan-06,"p,p-DDE",0
+Feb-06,Alachlor,0
+Feb-06,Aldrin,0
+Feb-06,Ammonium,1
+Feb-06,Anionic active surfactants,0
+Feb-06,Bicarbonates,0
+Feb-06,Biochemical Oxygen,0
+Feb-06,Calcium,0
+Feb-06,Chemical Oxygen Demand (Mn),0
+Feb-06,Chlorides,0
+Feb-06,Chromium,0
+Feb-06,Copper,0
+Feb-06,Dieldrin,0
+Feb-06,Dissolved oxygen,0
+Feb-06,Endosulfan (alpha),1
+Feb-06,Endrin,0
+Feb-06,Iron,0
+Feb-06,Lead,1
+Feb-06,Macrozoobenthos,0
+Feb-06,Magnesium,0
+Feb-06,Manganese,0
+Feb-06,Mercury,1
+Feb-06,Metolachlor,0
+Feb-06,Nickel,0
+Feb-06,Nitrates,0
+Feb-06,Nitrites,0
+Feb-06,Orthophosphate-phosphorus,1
+Feb-06,Oxygen saturation,1
+Feb-06,Petroleum hydrocarbons,0
+Feb-06,Silica (SiO2),0
+Feb-06,Sulphates,0
+Feb-06,Total dissolved salts,0
+Feb-06,Total hardness,0
+Feb-06,Total nitrogen,1
+Feb-06,Total phosphorus,1
+Feb-06,Water temperature,0
+Feb-06,Zinc,0
+Feb-06,gamma-Hexachlorocyclohexane,0
+Feb-06,"p,p-DDD",0
+Feb-06,"p,p-DDE",0
+Feb-06,"p,p-DDT",0
+Mar-06,Alachlor,0
+Mar-06,Aldrin,0
+Mar-06,Ammonium,1
+Mar-06,Anionic active surfactants,0
+Mar-06,Atrazine,0
+Mar-06,Bicarbonates,0
+Mar-06,Biochemical Oxygen,0
+Mar-06,Calcium,0
+Mar-06,Chemical Oxygen Demand (Mn),0
+Mar-06,Chlorides,0
+Mar-06,Chromium,0
+Mar-06,Copper,0
+Mar-06,Dieldrin,0
+Mar-06,Dissolved oxygen,0
+Mar-06,Iron,0
+Mar-06,Lead,1
+Mar-06,Macrozoobenthos,0
+Mar-06,Magnesium,0
+Mar-06,Manganese,0
+Mar-06,Mercury,0
+Mar-06,Metolachlor,0
+Mar-06,Nickel,0
+Mar-06,Nitrates,0
+Mar-06,Nitrites,0
+Mar-06,Orthophosphate-phosphorus,0
+Mar-06,Oxygen saturation,1
+Mar-06,Silica (SiO2),0
+Mar-06,Simazine,0
+Mar-06,Sulphates,0
+Mar-06,Total dissolved salts,0
+Mar-06,Total hardness,0
+Mar-06,Total phosphorus,1
+Mar-06,Water temperature,0
+Mar-06,Zinc,0
+Mar-06,beta-Hexaxchlorocyclohexane,0
+Mar-06,gamma-Hexachlorocyclohexane,0
+Mar-06,"p,p-DDT",0
+Apr-06,Alachlor,0
+Apr-06,Aldrin,0
+Apr-06,Ammonium,0
+Apr-06,Anionic active surfactants,0
+Apr-06,Atrazine,0
+Apr-06,Bicarbonates,0
+Apr-06,Biochemical Oxygen,0
+Apr-06,Cadmium,0
+Apr-06,Calcium,0
+Apr-06,Chemical Oxygen Demand (Mn),0
+Apr-06,Chlorides,0
+Apr-06,Chromium,0
+Apr-06,Copper,1
+Apr-06,Dissolved oxygen,0
+Apr-06,Endrin,0
+Apr-06,Iron,0
+Apr-06,Lead,1
+Apr-06,Macrozoobenthos,0
+Apr-06,Magnesium,0
+Apr-06,Manganese,0
+Apr-06,Mercury,0
+Apr-06,Nickel,0
+Apr-06,Nitrates,0
+Apr-06,Nitrites,0
+Apr-06,Orthophosphate-phosphorus,1
+Apr-06,Oxygen saturation,1
+Apr-06,Petroleum hydrocarbons,0
+Apr-06,Silica (SiO2),0
+Apr-06,Simazine,0
+Apr-06,Sulphates,0
+Apr-06,Total dissolved salts,0
+Apr-06,Total hardness,0
+Apr-06,Total phosphorus,1
+Apr-06,Water temperature,0
+Apr-06,Zinc,0
+Apr-06,beta-Hexaxchlorocyclohexane,0
+Apr-06,gamma-Hexachlorocyclohexane,0
+Apr-06,"p,p-DDD",0
+Apr-06,"p,p-DDE",0
+May-06,Ammonium,1
+May-06,Anionic active surfactants,0
+May-06,Bicarbonates,0
+May-06,Biochemical Oxygen,0
+May-06,Cadmium,1
+May-06,Calcium,0
+May-06,Chemical Oxygen Demand (Mn),0
+May-06,Chlorides,0
+May-06,Chromium,0
+May-06,Copper,1
+May-06,Dissolved oxygen,0
+May-06,Iron,1
+May-06,Lead,1
+May-06,Macrozoobenthos,0
+May-06,Magnesium,0
+May-06,Manganese,1
+May-06,Mercury,0
+May-06,Nickel,0
+May-06,Nitrates,0
+May-06,Nitrites,0
+May-06,Orthophosphate-phosphorus,1
+May-06,Oxygen saturation,1
+May-06,Petroleum hydrocarbons,0
+May-06,Silica (SiO2),0
+May-06,Sulphates,0
+May-06,Total dissolved salts,0
+May-06,Total hardness,0
+May-06,Total nitrogen,1
+May-06,Total phosphorus,1
+May-06,Water temperature,0
+May-06,Zinc,0
+Jun-06,Alachlor,0
+Jun-06,Aldrin,0
+Jun-06,Ammonium,1
+Jun-06,Anionic active surfactants,0
+Jun-06,Atrazine,0
+Jun-06,Bicarbonates,0
+Jun-06,Biochemical Oxygen,0
+Jun-06,Cadmium,0
+Jun-06,Calcium,0
+Jun-06,Chemical Oxygen Demand (Cr),1
+Jun-06,Chemical Oxygen Demand (Mn),0
+Jun-06,Chlorides,0
+Jun-06,Chromium,0
+Jun-06,Copper,0
+Jun-06,Dieldrin,0
+Jun-06,Dissolved oxygen,0
+Jun-06,Endosulfan (alpha),0
+Jun-06,Endosulfan (beta),0
+Jun-06,Endrin,0
+Jun-06,Heptachlor,0
+Jun-06,Heptachloroepoxide,0
+Jun-06,Iron,1
+Jun-06,Lead,1
+Jun-06,Macrozoobenthos,0
+Jun-06,Magnesium,0
+Jun-06,Manganese,1
+Jun-06,Mercury,1
+Jun-06,Metolachlor,0
+Jun-06,Nickel,0
+Jun-06,Nitrates,0
+Jun-06,Nitrites,0
+Jun-06,Orthophosphate-phosphorus,0
+Jun-06,Oxygen saturation,1
+Jun-06,Petroleum hydrocarbons,1
+Jun-06,Silica (SiO2),0
+Jun-06,Simazine,0
+Jun-06,Sulphates,0
+Jun-06,Total dissolved salts,0
+Jun-06,Total hardness,0
+Jun-06,Total phosphorus,1
+Jun-06,Water temperature,0
+Jun-06,Zinc,1
+Jun-06,alpha-Hexachlorocyclohexane,0
+Jun-06,beta-Hexaxchlorocyclohexane,0
+Jun-06,gamma-Hexachlorocyclohexane,0
+Jun-06,"p,p-DDD",0
+Jun-06,"p,p-DDE",0
+Jun-06,"p,p-DDT",0
+Jul-06,Alachlor,0
+Jul-06,Aldrin,0
+Jul-06,Ammonium,1
+Jul-06,Anionic active surfactants,0
+Jul-06,Atrazine,0
+Jul-06,Bicarbonates,0
+Jul-06,Biochemical Oxygen,0
+Jul-06,Cadmium,0
+Jul-06,Calcium,0
+Jul-06,Chemical Oxygen Demand (Mn),0
+Jul-06,Chlorides,0
+Jul-06,Chromium,0
+Jul-06,Copper,0
+Jul-06,Dieldrin,0
+Jul-06,Dissolved oxygen,0
+Jul-06,Endosulfan (alpha),0
+Jul-06,Endosulfan (beta),0
+Jul-06,Endrin,0
+Jul-06,Heptachlor,0
+Jul-06,Heptachloroepoxide,0
+Jul-06,Iron,1
+Jul-06,Lead,1
+Jul-06,Macrozoobenthos,0
+Jul-06,Magnesium,0
+Jul-06,Manganese,0
+Jul-06,Mercury,1
+Jul-06,Metolachlor,0
+Jul-06,Nickel,0
+Jul-06,Nitrates,0
+Jul-06,Nitrites,0
+Jul-06,Orthophosphate-phosphorus,1
+Jul-06,Oxygen saturation,1
+Jul-06,Petroleum hydrocarbons,1
+Jul-06,Silica (SiO2),0
+Jul-06,Simazine,0
+Jul-06,Sulphates,0
+Jul-06,Total dissolved salts,0
+Jul-06,Total hardness,0
+Jul-06,Total nitrogen,1
+Jul-06,Total phosphorus,1
+Jul-06,Water temperature,0
+Jul-06,Zinc,0
+Jul-06,alpha-Hexachlorocyclohexane,0
+Jul-06,beta-Hexaxchlorocyclohexane,0
+Jul-06,gamma-Hexachlorocyclohexane,0
+Jul-06,"p,p-DDD",0
+Jul-06,"p,p-DDE",0
+Jul-06,"p,p-DDT",0
+Aug-06,Alachlor,0
+Aug-06,Aldrin,0
+Aug-06,Ammonium,1
+Aug-06,Anionic active surfactants,0
+Aug-06,Atrazine,0
+Aug-06,Bicarbonates,0
+Aug-06,Biochemical Oxygen,0
+Aug-06,Cadmium,0
+Aug-06,Calcium,0
+Aug-06,Chemical Oxygen Demand (Mn),0
+Aug-06,Chlorides,0
+Aug-06,Chromium,0
+Aug-06,Copper,0
+Aug-06,Dieldrin,0
+Aug-06,Dissolved oxygen,0
+Aug-06,Endosulfan (alpha),0
+Aug-06,Endosulfan (beta),0
+Aug-06,Endrin,0
+Aug-06,Heptachlor,0
+Aug-06,Heptachloroepoxide,0
+Aug-06,Iron,1
+Aug-06,Lead,1
+Aug-06,Macrozoobenthos,0
+Aug-06,Magnesium,0
+Aug-06,Manganese,0
+Aug-06,Mercury,1
+Aug-06,Metolachlor,0
+Aug-06,Nickel,0
+Aug-06,Nitrates,0
+Aug-06,Nitrites,0
+Aug-06,Orthophosphate-phosphorus,0
+Aug-06,Oxygen saturation,1
+Aug-06,Petroleum hydrocarbons,1
+Aug-06,Silica (SiO2),0
+Aug-06,Simazine,0
+Aug-06,Sulphates,0
+Aug-06,Total dissolved salts,0
+Aug-06,Total hardness,0
+Aug-06,Total phosphorus,1
+Aug-06,Water temperature,0
+Aug-06,Zinc,0
+Aug-06,alpha-Hexachlorocyclohexane,0
+Aug-06,beta-Hexaxchlorocyclohexane,0
+Aug-06,gamma-Hexachlorocyclohexane,0
+Aug-06,"p,p-DDD",0
+Aug-06,"p,p-DDE",0
+Aug-06,"p,p-DDT",0
+Sep-06,Alachlor,0
+Sep-06,Aldrin,0
+Sep-06,Ammonium,1
+Sep-06,Atrazine,0
+Sep-06,Bicarbonates,0
+Sep-06,Biochemical Oxygen,0
+Sep-06,Cadmium,0
+Sep-06,Calcium,0
+Sep-06,Chemical Oxygen Demand (Cr),1
+Sep-06,Chemical Oxygen Demand (Mn),0
+Sep-06,Chlorides,0
+Sep-06,Chromium,0
+Sep-06,Copper,1
+Sep-06,Dieldrin,0
+Sep-06,Dissolved oxygen,0
+Sep-06,Endosulfan (alpha),0
+Sep-06,Endosulfan (beta),0
+Sep-06,Endrin,0
+Sep-06,Heptachlor,0
+Sep-06,Heptachloroepoxide,0
+Sep-06,Iron,1
+Sep-06,Lead,1
+Sep-06,Magnesium,0
+Sep-06,Manganese,0
+Sep-06,Mercury,0
+Sep-06,Metolachlor,0
+Sep-06,Nickel,0
+Sep-06,Nitrates,0
+Sep-06,Nitrites,0
+Sep-06,Orthophosphate-phosphorus,0
+Sep-06,Oxygen saturation,1
+Sep-06,Petroleum hydrocarbons,1
+Sep-06,Silica (SiO2),0
+Sep-06,Simazine,0
+Sep-06,Sulphates,0
+Sep-06,Total dissolved salts,0
+Sep-06,Total hardness,0
+Sep-06,Total phosphorus,1
+Sep-06,Water temperature,0
+Sep-06,Zinc,0
+Sep-06,alpha-Hexachlorocyclohexane,0
+Sep-06,beta-Hexaxchlorocyclohexane,0
+Sep-06,gamma-Hexachlorocyclohexane,0
+Sep-06,"p,p-DDD",0
+Sep-06,"p,p-DDE",0
+Sep-06,"p,p-DDT",0
+Oct-06,Alachlor,0
+Oct-06,Aldrin,0
+Oct-06,Ammonium,1
+Oct-06,Atrazine,0
+Oct-06,Bicarbonates,0
+Oct-06,Biochemical Oxygen,0
+Oct-06,Cadmium,0
+Oct-06,Calcium,0
+Oct-06,Chemical Oxygen Demand (Cr),1
+Oct-06,Chemical Oxygen Demand (Mn),0
+Oct-06,Chlorides,0
+Oct-06,Chromium,0
+Oct-06,Copper,1
+Oct-06,Dieldrin,0
+Oct-06,Dissolved oxygen,0
+Oct-06,Endosulfan (alpha),0
+Oct-06,Endosulfan (beta),0
+Oct-06,Endrin,1
+Oct-06,Heptachlor,0
+Oct-06,Heptachloroepoxide,0
+Oct-06,Iron,0
+Oct-06,Lead,1
+Oct-06,Macrozoobenthos,0
+Oct-06,Magnesium,0
+Oct-06,Manganese,0
+Oct-06,Mercury,0
+Oct-06,Metolachlor,0
+Oct-06,Nickel,0
+Oct-06,Nitrates,0
+Oct-06,Nitrites,0
+Oct-06,Orthophosphate-phosphorus,1
+Oct-06,Oxygen saturation,1
+Oct-06,Petroleum hydrocarbons,1
+Oct-06,Silica (SiO2),0
+Oct-06,Simazine,0
+Oct-06,Sulphates,0
+Oct-06,Total dissolved salts,0
+Oct-06,Total hardness,0
+Oct-06,Total phosphorus,1
+Oct-06,Water temperature,0
+Oct-06,Zinc,0
+Oct-06,alpha-Hexachlorocyclohexane,0
+Oct-06,beta-Hexaxchlorocyclohexane,0
+Oct-06,gamma-Hexachlorocyclohexane,0
+Oct-06,"p,p-DDD",0
+Oct-06,"p,p-DDE",0
+Oct-06,"p,p-DDT",0
+Nov-06,Alachlor,0
+Nov-06,Aldrin,0
+Nov-06,Ammonium,1
+Nov-06,Atrazine,0
+Nov-06,Bicarbonates,0
+Nov-06,Biochemical Oxygen,0
+Nov-06,Cadmium,0
+Nov-06,Calcium,0
+Nov-06,Chemical Oxygen Demand (Cr),1
+Nov-06,Chemical Oxygen Demand (Mn),0
+Nov-06,Chlorides,0
+Nov-06,Chromium,0
+Nov-06,Copper,0
+Nov-06,Dieldrin,0
+Nov-06,Dissolved oxygen,0
+Nov-06,Endosulfan (alpha),0
+Nov-06,Endosulfan (beta),0
+Nov-06,Endrin,0
+Nov-06,Heptachlor,0
+Nov-06,Heptachloroepoxide,0
+Nov-06,Iron,1
+Nov-06,Lead,1
+Nov-06,Macrozoobenthos,0
+Nov-06,Magnesium,0
+Nov-06,Manganese,1
+Nov-06,Metolachlor,0
+Nov-06,Nickel,0
+Nov-06,Nitrates,0
+Nov-06,Nitrites,0
+Nov-06,Orthophosphate-phosphorus,0
+Nov-06,Oxygen saturation,1
+Nov-06,Petroleum hydrocarbons,0
+Nov-06,Silica (SiO2),0
+Nov-06,Simazine,0
+Nov-06,Sulphates,0
+Nov-06,Total dissolved salts,0
+Nov-06,Total hardness,0
+Nov-06,Total phosphorus,1
+Nov-06,Water temperature,0
+Nov-06,Zinc,1
+Nov-06,alpha-Hexachlorocyclohexane,0
+Nov-06,beta-Hexaxchlorocyclohexane,0
+Nov-06,gamma-Hexachlorocyclohexane,0
+Nov-06,"p,p-DDD",0
+Nov-06,"p,p-DDE",0
+Nov-06,"p,p-DDT",0
+Dec-06,Alachlor,0
+Dec-06,Aldrin,1
+Dec-06,Ammonium,1
+Dec-06,Atrazine,0
+Dec-06,Bicarbonates,0
+Dec-06,Biochemical Oxygen,0
+Dec-06,Cadmium,0
+Dec-06,Calcium,1
+Dec-06,Chemical Oxygen Demand (Cr),1
+Dec-06,Chemical Oxygen Demand (Mn),0
+Dec-06,Chlorides,0
+Dec-06,Chromium,0
+Dec-06,Copper,1
+Dec-06,Dieldrin,0
+Dec-06,Dissolved oxygen,0
+Dec-06,Endosulfan (alpha),0
+Dec-06,Endosulfan (beta),1
+Dec-06,Endrin,0
+Dec-06,Heptachlor,0
+Dec-06,Heptachloroepoxide,0
+Dec-06,Iron,0
+Dec-06,Lead,1
+Dec-06,Macrozoobenthos,0
+Dec-06,Magnesium,0
+Dec-06,Manganese,0
+Dec-06,Mercury,1
+Dec-06,Metolachlor,0
+Dec-06,Nickel,0
+Dec-06,Nitrates,0
+Dec-06,Nitrites,0
+Dec-06,Orthophosphate-phosphorus,0
+Dec-06,Oxygen saturation,1
+Dec-06,Silica (SiO2),0
+Dec-06,Simazine,0
+Dec-06,Sulphates,0
+Dec-06,Total dissolved salts,0
+Dec-06,Total hardness,0
+Dec-06,Total nitrogen,1
+Dec-06,Total phosphorus,1
+Dec-06,Water temperature,0
+Dec-06,Zinc,0
+Dec-06,alpha-Hexachlorocyclohexane,0
+Dec-06,beta-Hexaxchlorocyclohexane,0
+Dec-06,gamma-Hexachlorocyclohexane,0
+Dec-06,"p,p-DDD",0
+Dec-06,"p,p-DDE",0
+Dec-06,"p,p-DDT",0
+Jan-07,Alachlor,0
+Jan-07,Aldrin,0
+Jan-07,Ammonium,1
+Jan-07,Anionic active surfactants,0
+Jan-07,Atrazine,0
+Jan-07,Bicarbonates,1
+Jan-07,Biochemical Oxygen,0
+Jan-07,Cadmium,0
+Jan-07,Calcium,0
+Jan-07,Chemical Oxygen Demand (Cr),1
+Jan-07,Chemical Oxygen Demand (Mn),0
+Jan-07,Chlorides,0
+Jan-07,Chromium,0
+Jan-07,Copper,1
+Jan-07,Dieldrin,0
+Jan-07,Dissolved oxygen,0
+Jan-07,Endosulfan (alpha),0
+Jan-07,Endosulfan (beta),0
+Jan-07,Endrin,0
+Jan-07,Fecal coliforms,0
+Jan-07,Fecal streptococci,0
+Jan-07,Heptachlor,0
+Jan-07,Heptachloroepoxide,0
+Jan-07,Iron,0
+Jan-07,Lead,1
+Jan-07,Macrozoobenthos,0
+Jan-07,Magnesium,0
+Jan-07,Manganese,0
+Jan-07,Mercury,0
+Jan-07,Metolachlor,0
+Jan-07,Nickel,0
+Jan-07,Nitrates,0
+Jan-07,Nitrites,0
+Jan-07,Orthophosphate-phosphorus,1
+Jan-07,Oxygen saturation,1
+Jan-07,Petroleum hydrocarbons,0
+Jan-07,Silica (SiO2),0
+Jan-07,Simazine,0
+Jan-07,Sulphates,0
+Jan-07,Total coliforms,0
+Jan-07,Total dissolved salts,0
+Jan-07,Total hardness,0
+Jan-07,Total nitrogen,1
+Jan-07,Total phosphorus,1
+Jan-07,Water temperature,0
+Jan-07,Zinc,0
+Jan-07,alpha-Hexachlorocyclohexane,0
+Jan-07,beta-Hexaxchlorocyclohexane,0
+Jan-07,gamma-Hexachlorocyclohexane,0
+Jan-07,"p,p-DDD",0
+Jan-07,"p,p-DDE",0
+Jan-07,"p,p-DDT",0
+Feb-07,Alachlor,0
+Feb-07,Aldrin,0
+Feb-07,Ammonium,1
+Feb-07,Anionic active surfactants,0
+Feb-07,Atrazine,0
+Feb-07,Bicarbonates,0
+Feb-07,Biochemical Oxygen,0
+Feb-07,Cadmium,0
+Feb-07,Calcium,0
+Feb-07,Carbonates,0
+Feb-07,Chemical Oxygen Demand (Cr),1
+Feb-07,Chlorides,0
+Feb-07,Chromium,0
+Feb-07,Copper,1
+Feb-07,Dieldrin,0
+Feb-07,Dissolved oxygen,0
+Feb-07,Endosulfan (alpha),0
+Feb-07,Endosulfan (beta),0
+Feb-07,Endrin,0
+Feb-07,Fecal coliforms,0
+Feb-07,Fecal streptococci,0
+Feb-07,Heptachlor,0
+Feb-07,Heptachloroepoxide,0
+Feb-07,Iron,1
+Feb-07,Lead,1
+Feb-07,Macrozoobenthos,0
+Feb-07,Magnesium,0
+Feb-07,Manganese,1
+Feb-07,Mercury,0
+Feb-07,Metolachlor,0
+Feb-07,Nickel,0
+Feb-07,Nitrates,0
+Feb-07,Nitrites,0
+Feb-07,Orthophosphate-phosphorus,0
+Feb-07,Oxygen saturation,1
+Feb-07,Petroleum hydrocarbons,1
+Feb-07,Potassium,0
+Feb-07,Silica (SiO2),0
+Feb-07,Simazine,0
+Feb-07,Sodium,0
+Feb-07,Sulphates,0
+Feb-07,Total coliforms,0
+Feb-07,Total dissolved salts,0
+Feb-07,Total hardness,0
+Feb-07,Total nitrogen,1
+Feb-07,Total phosphorus,1
+Feb-07,Water temperature,0
+Feb-07,Zinc,0
+Feb-07,alpha-Hexachlorocyclohexane,0
+Feb-07,beta-Hexaxchlorocyclohexane,0
+Feb-07,gamma-Hexachlorocyclohexane,0
+Feb-07,"p,p-DDD",0
+Feb-07,"p,p-DDE",0
+Feb-07,"p,p-DDT",0
+Mar-07,Alachlor,0
+Mar-07,Aldrin,0
+Mar-07,Ammonium,1
+Mar-07,Anionic active surfactants,0
+Mar-07,Atrazine,0
+Mar-07,Bicarbonates,0
+Mar-07,Biochemical Oxygen,0
+Mar-07,Cadmium,0
+Mar-07,Calcium,0
+Mar-07,Chemical Oxygen Demand (Cr),1
+Mar-07,Chemical Oxygen Demand (Mn),0
+Mar-07,Chlorides,0
+Mar-07,Chromium,1
+Mar-07,Copper,1
+Mar-07,Dieldrin,0
+Mar-07,Dissolved oxygen,0
+Mar-07,Endosulfan (alpha),0
+Mar-07,Endosulfan (beta),0
+Mar-07,Endrin,0
+Mar-07,Fecal coliforms,0
+Mar-07,Fecal streptococci,0
+Mar-07,Heptachlor,0
+Mar-07,Heptachloroepoxide,0
+Mar-07,Iron,1
+Mar-07,Lead,1
+Mar-07,Macrozoobenthos,0
+Mar-07,Magnesium,0
+Mar-07,Manganese,1
+Mar-07,Mercury,0
+Mar-07,Metolachlor,0
+Mar-07,Nickel,0
+Mar-07,Nitrates,0
+Mar-07,Nitrites,0
+Mar-07,Orthophosphate-phosphorus,1
+Mar-07,Oxygen saturation,1
+Mar-07,Petroleum hydrocarbons,0
+Mar-07,Potassium,0
+Mar-07,Silica (SiO2),0
+Mar-07,Simazine,0
+Mar-07,Sodium,1
+Mar-07,Sulphates,0
+Mar-07,Total coliforms,0
+Mar-07,Total dissolved salts,0
+Mar-07,Total hardness,0
+Mar-07,Total nitrogen,1
+Mar-07,Total phosphorus,1
+Mar-07,Water temperature,0
+Mar-07,Zinc,0
+Mar-07,alpha-Hexachlorocyclohexane,0
+Mar-07,beta-Hexaxchlorocyclohexane,0
+Mar-07,gamma-Hexachlorocyclohexane,0
+Mar-07,"p,p-DDD",0
+Mar-07,"p,p-DDE",0
+Mar-07,"p,p-DDT",0
+Apr-07,Alachlor,0
+Apr-07,Aldrin,0
+Apr-07,Ammonium,0
+Apr-07,Anionic active surfactants,0
+Apr-07,Atrazine,0
+Apr-07,Bicarbonates,0
+Apr-07,Biochemical Oxygen,0
+Apr-07,Cadmium,0
+Apr-07,Calcium,0
+Apr-07,Chemical Oxygen Demand (Cr),1
+Apr-07,Chemical Oxygen Demand (Mn),0
+Apr-07,Chlorides,0
+Apr-07,Chromium,0
+Apr-07,Copper,0
+Apr-07,Dieldrin,0
+Apr-07,Dissolved oxygen,0
+Apr-07,Endosulfan (alpha),0
+Apr-07,Endosulfan (beta),0
+Apr-07,Endrin,0
+Apr-07,Fecal coliforms,0
+Apr-07,Fecal streptococci,0
+Apr-07,Heptachlor,0
+Apr-07,Heptachloroepoxide,0
+Apr-07,Iron,1
+Apr-07,Lead,1
+Apr-07,Macrozoobenthos,0
+Apr-07,Magnesium,0
+Apr-07,Manganese,1
+Apr-07,Mercury,0
+Apr-07,Metolachlor,0
+Apr-07,Nickel,0
+Apr-07,Nitrates,0
+Apr-07,Nitrites,0
+Apr-07,Orthophosphate-phosphorus,0
+Apr-07,Oxygen saturation,1
+Apr-07,Petroleum hydrocarbons,1
+Apr-07,Potassium,0
+Apr-07,Silica (SiO2),0
+Apr-07,Simazine,0
+Apr-07,Sodium,1
+Apr-07,Sulphates,0
+Apr-07,Total coliforms,0
+Apr-07,Total dissolved salts,0
+Apr-07,Total hardness,0
+Apr-07,Total nitrogen,1
+Apr-07,Total phosphorus,1
+Apr-07,Water temperature,0
+Apr-07,Zinc,0
+Apr-07,alpha-Hexachlorocyclohexane,0
+Apr-07,beta-Hexaxchlorocyclohexane,0
+Apr-07,gamma-Hexachlorocyclohexane,0
+Apr-07,"p,p-DDD",0
+Apr-07,"p,p-DDE",0
+Apr-07,"p,p-DDT",0
+May-07,Alachlor,0
+May-07,Aldrin,0
+May-07,Ammonium,1
+May-07,Anionic active surfactants,0
+May-07,Atrazine,0
+May-07,Bicarbonates,0
+May-07,Biochemical Oxygen,0
+May-07,Cadmium,0
+May-07,Calcium,1
+May-07,Chemical Oxygen Demand (Mn),0
+May-07,Chlorides,0
+May-07,Chromium,0
+May-07,Copper,0
+May-07,Dieldrin,0
+May-07,Dissolved oxygen,0
+May-07,Endosulfan (alpha),0
+May-07,Endosulfan (beta),0
+May-07,Endrin,0
+May-07,Fecal coliforms,0
+May-07,Fecal streptococci,0
+May-07,Heptachlor,0
+May-07,Iron,0
+May-07,Lead,1
+May-07,Magnesium,0
+May-07,Manganese,1
+May-07,Mercury,0
+May-07,Metolachlor,0
+May-07,Nickel,0
+May-07,Nitrates,0
+May-07,Nitrites,0
+May-07,Orthophosphate-phosphorus,0
+May-07,Oxygen saturation,1
+May-07,Petroleum hydrocarbons,1
+May-07,Silica (SiO2),0
+May-07,Simazine,0
+May-07,Sulphates,0
+May-07,Total coliforms,0
+May-07,Total dissolved salts,0
+May-07,Total hardness,0
+May-07,Total nitrogen,1
+May-07,Total phosphorus,1
+May-07,Water temperature,0
+May-07,Zinc,1
+May-07,alpha-Hexachlorocyclohexane,0
+May-07,beta-Hexaxchlorocyclohexane,0
+May-07,gamma-Hexachlorocyclohexane,0
+May-07,"p,p-DDD",0
+May-07,"p,p-DDE",0
+May-07,"p,p-DDT",0
+Jun-07,Alachlor,0
+Jun-07,Aldrin,0
+Jun-07,Ammonium,1
+Jun-07,Atrazine,0
+Jun-07,Bicarbonates,0
+Jun-07,Biochemical Oxygen,0
+Jun-07,Cadmium,0
+Jun-07,Calcium,0
+Jun-07,Carbonates,0
+Jun-07,Chemical Oxygen Demand (Cr),1
+Jun-07,Chemical Oxygen Demand (Mn),0
+Jun-07,Chlorides,0
+Jun-07,Chromium,0
+Jun-07,Copper,1
+Jun-07,Dieldrin,0
+Jun-07,Dissolved oxygen,0
+Jun-07,Endosulfan (alpha),0
+Jun-07,Endosulfan (beta),0
+Jun-07,Endrin,0
+Jun-07,Fecal coliforms,0
+Jun-07,Fecal streptococci,0
+Jun-07,Heptachlor,0
+Jun-07,Heptachloroepoxide,0
+Jun-07,Iron,1
+Jun-07,Lead,1
+Jun-07,Manganese,1
+Jun-07,Mercury,0
+Jun-07,Metolachlor,0
+Jun-07,Nickel,0
+Jun-07,Nitrates,0
+Jun-07,Nitrites,0
+Jun-07,Orthophosphate-phosphorus,1
+Jun-07,Oxygen saturation,1
+Jun-07,Petroleum hydrocarbons,1
+Jun-07,Potassium,0
+Jun-07,Simazine,0
+Jun-07,Sodium,0
+Jun-07,Sulphates,0
+Jun-07,Total coliforms,0
+Jun-07,Total dissolved salts,0
+Jun-07,Total hardness,0
+Jun-07,Total nitrogen,1
+Jun-07,Total phosphorus,1
+Jun-07,Water temperature,0
+Jun-07,Zinc,0
+Jun-07,alpha-Hexachlorocyclohexane,0
+Jun-07,beta-Hexaxchlorocyclohexane,0
+Jun-07,gamma-Hexachlorocyclohexane,0
+Jun-07,"p,p-DDD",0
+Jun-07,"p,p-DDE",0
+Jun-07,"p,p-DDT",0
+Jul-07,Alachlor,0
+Jul-07,Aldrin,0
+Jul-07,Ammonium,1
+Jul-07,Atrazine,0
+Jul-07,Bicarbonates,0
+Jul-07,Biochemical Oxygen,0
+Jul-07,Cadmium,1
+Jul-07,Calcium,0
+Jul-07,Chemical Oxygen Demand (Cr),1
+Jul-07,Chemical Oxygen Demand (Mn),0
+Jul-07,Chlorides,0
+Jul-07,Chromium,0
+Jul-07,Copper,1
+Jul-07,Dieldrin,0
+Jul-07,Dissolved oxygen,0
+Jul-07,Endosulfan (alpha),0
+Jul-07,Endosulfan (beta),0
+Jul-07,Endrin,0
+Jul-07,Fecal coliforms,0
+Jul-07,Fecal streptococci,0
+Jul-07,Heptachlor,0
+Jul-07,Heptachloroepoxide,0
+Jul-07,Iron,1
+Jul-07,Lead,1
+Jul-07,Magnesium,0
+Jul-07,Manganese,0
+Jul-07,Mercury,0
+Jul-07,Metolachlor,0
+Jul-07,Nickel,0
+Jul-07,Nitrates,0
+Jul-07,Nitrites,0
+Jul-07,Orthophosphate-phosphorus,1
+Jul-07,Oxygen saturation,1
+Jul-07,Petroleum hydrocarbons,1
+Jul-07,Silica (SiO2),0
+Jul-07,Simazine,0
+Jul-07,Sulphates,0
+Jul-07,Total coliforms,0
+Jul-07,Total dissolved salts,0
+Jul-07,Total hardness,0
+Jul-07,Total nitrogen,1
+Jul-07,Total phosphorus,1
+Jul-07,Water temperature,0
+Jul-07,Zinc,1
+Jul-07,alpha-Hexachlorocyclohexane,0
+Jul-07,beta-Hexaxchlorocyclohexane,0
+Jul-07,gamma-Hexachlorocyclohexane,0
+Jul-07,"p,p-DDD",0
+Jul-07,"p,p-DDE",0
+Jul-07,"p,p-DDT",0
+Aug-07,Alachlor,0
+Aug-07,Aldrin,0
+Aug-07,Ammonium,1
+Aug-07,Atrazine,0
+Aug-07,Bicarbonates,0
+Aug-07,Biochemical Oxygen,0
+Aug-07,Cadmium,0
+Aug-07,Calcium,0
+Aug-07,Chlorides,0
+Aug-07,Chromium,0
+Aug-07,Copper,0
+Aug-07,Dieldrin,0
+Aug-07,Dissolved oxygen,0
+Aug-07,Endosulfan (alpha),0
+Aug-07,Endosulfan (beta),0
+Aug-07,Endrin,0
+Aug-07,Heptachlor,0
+Aug-07,Heptachloroepoxide,0
+Aug-07,Iron,1
+Aug-07,Lead,1
+Aug-07,Magnesium,0
+Aug-07,Manganese,0
+Aug-07,Mercury,0
+Aug-07,Metolachlor,0
+Aug-07,Nickel,0
+Aug-07,Nitrates,0
+Aug-07,Nitrites,0
+Aug-07,Orthophosphate-phosphorus,1
+Aug-07,Oxygen saturation,1
+Aug-07,Petroleum hydrocarbons,1
+Aug-07,Potassium,0
+Aug-07,Silica (SiO2),0
+Aug-07,Simazine,0
+Aug-07,Sodium,0
+Aug-07,Sulphates,0
+Aug-07,Total dissolved salts,0
+Aug-07,Total hardness,0
+Aug-07,Total nitrogen,1
+Aug-07,Total phosphorus,1
+Aug-07,Water temperature,0
+Aug-07,Zinc,0
+Aug-07,alpha-Hexachlorocyclohexane,0
+Aug-07,beta-Hexaxchlorocyclohexane,0
+Aug-07,gamma-Hexachlorocyclohexane,0
+Aug-07,"p,p-DDD",0
+Aug-07,"p,p-DDE",0
+Aug-07,"p,p-DDT",0
+Sep-07,Alachlor,0
+Sep-07,Aldrin,0
+Sep-07,Ammonium,1
+Sep-07,Anionic active surfactants,0
+Sep-07,Atrazine,0
+Sep-07,Bicarbonates,0
+Sep-07,Biochemical Oxygen,0
+Sep-07,Cadmium,0
+Sep-07,Calcium,0
+Sep-07,Chemical Oxygen Demand (Cr),1
+Sep-07,Chemical Oxygen Demand (Mn),0
+Sep-07,Chlorides,0
+Sep-07,Chromium,0
+Sep-07,Copper,1
+Sep-07,Dieldrin,0
+Sep-07,Dissolved oxygen,0
+Sep-07,Endosulfan (alpha),0
+Sep-07,Endosulfan (beta),0
+Sep-07,Endrin,0
+Sep-07,Fecal coliforms,0
+Sep-07,Fecal streptococci,0
+Sep-07,Heptachlor,0
+Sep-07,Heptachloroepoxide,0
+Sep-07,Iron,0
+Sep-07,Lead,1
+Sep-07,Magnesium,0
+Sep-07,Manganese,1
+Sep-07,Mercury,1
+Sep-07,Metolachlor,0
+Sep-07,Nickel,0
+Sep-07,Nitrates,0
+Sep-07,Nitrites,0
+Sep-07,Orthophosphate-phosphorus,1
+Sep-07,Oxygen saturation,1
+Sep-07,Petroleum hydrocarbons,1
+Sep-07,Potassium,0
+Sep-07,Silica (SiO2),0
+Sep-07,Simazine,0
+Sep-07,Sodium,0
+Sep-07,Sulphates,0
+Sep-07,Total coliforms,0
+Sep-07,Total dissolved salts,0
+Sep-07,Total hardness,0
+Sep-07,Total nitrogen,1
+Sep-07,Total phosphorus,1
+Sep-07,Water temperature,0
+Sep-07,Zinc,1
+Sep-07,alpha-Hexachlorocyclohexane,0
+Sep-07,beta-Hexaxchlorocyclohexane,0
+Sep-07,gamma-Hexachlorocyclohexane,0
+Sep-07,"p,p-DDD",0
+Sep-07,"p,p-DDE",0
+Sep-07,"p,p-DDT",0
+Oct-07,Alachlor,0
+Oct-07,Aldrin,0
+Oct-07,Ammonium,1
+Oct-07,Anionic active surfactants,1
+Oct-07,Atrazine,0
+Oct-07,Bicarbonates,0
+Oct-07,Biochemical Oxygen,0
+Oct-07,Cadmium,0
+Oct-07,Calcium,0
+Oct-07,Chemical Oxygen Demand (Cr),1
+Oct-07,Chemical Oxygen Demand (Mn),0
+Oct-07,Chlorides,0
+Oct-07,Chromium,0
+Oct-07,Copper,1
+Oct-07,Dieldrin,0
+Oct-07,Dissolved oxygen,0
+Oct-07,Endosulfan (alpha),0
+Oct-07,Endosulfan (beta),0
+Oct-07,Endrin,0
+Oct-07,Fecal coliforms,0
+Oct-07,Fecal streptococci,0
+Oct-07,Heptachlor,0
+Oct-07,Heptachloroepoxide,0
+Oct-07,Iron,1
+Oct-07,Lead,1
+Oct-07,Magnesium,0
+Oct-07,Manganese,1
+Oct-07,Metolachlor,0
+Oct-07,Nickel,0
+Oct-07,Nitrates,0
+Oct-07,Nitrites,0
+Oct-07,Orthophosphate-phosphorus,0
+Oct-07,Oxygen saturation,1
+Oct-07,Silica (SiO2),0
+Oct-07,Simazine,0
+Oct-07,Sulphates,0
+Oct-07,Total coliforms,0
+Oct-07,Total dissolved salts,0
+Oct-07,Total hardness,0
+Oct-07,Total nitrogen,1
+Oct-07,Total phosphorus,1
+Oct-07,Water temperature,0
+Oct-07,Zinc,1
+Oct-07,alpha-Hexachlorocyclohexane,0
+Oct-07,beta-Hexaxchlorocyclohexane,0
+Oct-07,gamma-Hexachlorocyclohexane,0
+Oct-07,"p,p-DDD",0
+Oct-07,"p,p-DDE",0
+Oct-07,"p,p-DDT",0
+Nov-07,Alachlor,0
+Nov-07,Aldrin,0
+Nov-07,Ammonium,1
+Nov-07,Anionic active surfactants,1
+Nov-07,Atrazine,0
+Nov-07,Bicarbonates,0
+Nov-07,Biochemical Oxygen,0
+Nov-07,Cadmium,0
+Nov-07,Calcium,0
+Nov-07,Chemical Oxygen Demand (Cr),1
+Nov-07,Chemical Oxygen Demand (Mn),0
+Nov-07,Chlorides,0
+Nov-07,Chromium,0
+Nov-07,Copper,0
+Nov-07,Dieldrin,0
+Nov-07,Dissolved oxygen,0
+Nov-07,Endosulfan (alpha),0
+Nov-07,Endosulfan (beta),0
+Nov-07,Endrin,0
+Nov-07,Fecal coliforms,0
+Nov-07,Fecal streptococci,0
+Nov-07,Heptachlor,0
+Nov-07,Heptachloroepoxide,0
+Nov-07,Iron,1
+Nov-07,Lead,1
+Nov-07,Magnesium,0
+Nov-07,Manganese,1
+Nov-07,Mercury,0
+Nov-07,Metolachlor,0
+Nov-07,Nickel,0
+Nov-07,Nitrates,0
+Nov-07,Nitrites,0
+Nov-07,Orthophosphate-phosphorus,1
+Nov-07,Oxygen saturation,1
+Nov-07,Silica (SiO2),0
+Nov-07,Simazine,0
+Nov-07,Sulphates,0
+Nov-07,Total coliforms,0
+Nov-07,Total dissolved salts,0
+Nov-07,Total hardness,0
+Nov-07,Total nitrogen,1
+Nov-07,Total phosphorus,1
+Nov-07,Water temperature,0
+Nov-07,Zinc,0
+Nov-07,alpha-Hexachlorocyclohexane,0
+Nov-07,beta-Hexaxchlorocyclohexane,0
+Nov-07,gamma-Hexachlorocyclohexane,0
+Nov-07,"p,p-DDD",0
+Nov-07,"p,p-DDE",0
+Nov-07,"p,p-DDT",0
+Dec-07,Alachlor,0
+Dec-07,Aldrin,0
+Dec-07,Ammonium,1
+Dec-07,Anionic active surfactants,0
+Dec-07,Atrazine,0
+Dec-07,Bicarbonates,0
+Dec-07,Biochemical Oxygen,0
+Dec-07,Cadmium,0
+Dec-07,Calcium,0
+Dec-07,Carbonates,0
+Dec-07,Chemical Oxygen Demand (Cr),1
+Dec-07,Chemical Oxygen Demand (Mn),0
+Dec-07,Chlorides,0
+Dec-07,Chromium,0
+Dec-07,Copper,1
+Dec-07,Dieldrin,0
+Dec-07,Dissolved oxygen,0
+Dec-07,Endosulfan (alpha),0
+Dec-07,Endosulfan (beta),0
+Dec-07,Endrin,0
+Dec-07,Fecal coliforms,0
+Dec-07,Fecal streptococci,0
+Dec-07,Heptachlor,0
+Dec-07,Heptachloroepoxide,0
+Dec-07,Iron,1
+Dec-07,Lead,1
+Dec-07,Magnesium,0
+Dec-07,Manganese,0
+Dec-07,Mercury,1
+Dec-07,Metolachlor,0
+Dec-07,Nickel,0
+Dec-07,Nitrates,0
+Dec-07,Nitrites,0
+Dec-07,Orthophosphate-phosphorus,1
+Dec-07,Oxygen saturation,1
+Dec-07,Potassium,0
+Dec-07,Silica (SiO2),0
+Dec-07,Simazine,0
+Dec-07,Sodium,0
+Dec-07,Sulphates,0
+Dec-07,Total coliforms,0
+Dec-07,Total dissolved salts,0
+Dec-07,Total hardness,0
+Dec-07,Total nitrogen,1
+Dec-07,Total phosphorus,1
+Dec-07,Water temperature,0
+Dec-07,Zinc,0
+Dec-07,alpha-Hexachlorocyclohexane,0
+Dec-07,beta-Hexaxchlorocyclohexane,0
+Dec-07,gamma-Hexachlorocyclohexane,0
+Dec-07,"p,p-DDD",0
+Dec-07,"p,p-DDE",0
+Dec-07,"p,p-DDT",0
+Feb-08,AOX,0
+Feb-08,Ammonium,1
+Feb-08,Anionic active surfactants,0
+Feb-08,Arsenic,0
+Feb-08,Barium,0
+Feb-08,Bicarbonates,0
+Feb-08,Biochemical Oxygen,0
+Feb-08,Cadmium,0
+Feb-08,Calcium,0
+Feb-08,Chemical Oxygen Demand (Mn),0
+Feb-08,Chlorides,0
+Feb-08,Chromium,0
+Feb-08,Copper,1
+Feb-08,Cyanides,0
+Feb-08,Dissolved oxygen,0
+Feb-08,Iron,1
+Feb-08,Lead,1
+Feb-08,Magnesium,0
+Feb-08,Manganese,0
+Feb-08,Mercury,0
+Feb-08,Nickel,0
+Feb-08,Nitrates,0
+Feb-08,Nitrites,0
+Feb-08,Orthophosphate-phosphorus,0
+Feb-08,Oxygen saturation,1
+Feb-08,Petroleum hydrocarbons,0
+Feb-08,Selenium,0
+Feb-08,Silica (SiO2),0
+Feb-08,Sulfides,1
+Feb-08,Sulphates,0
+Feb-08,Tetrachloromethane,0
+Feb-08,Total dissolved salts,0
+Feb-08,Total extractable matter,0
+Feb-08,Total hardness,0
+Feb-08,Total nitrogen,1
+Feb-08,Total organic carbon,0
+Feb-08,Water temperature,0
+Feb-08,Zinc,0
+Mar-08,AOX,0
+Mar-08,Ammonium,1
+Mar-08,Anionic active surfactants,0
+Mar-08,Bicarbonates,0
+Mar-08,Biochemical Oxygen,0
+Mar-08,Calcium,0
+Mar-08,Chemical Oxygen Demand (Cr),1
+Mar-08,Chemical Oxygen Demand (Mn),0
+Mar-08,Chlorides,0
+Mar-08,Cyanides,0
+Mar-08,Dissolved oxygen,0
+Mar-08,Fecal coliforms,0
+Mar-08,Fecal streptococci,0
+Mar-08,Magnesium,0
+Mar-08,Nitrates,0
+Mar-08,Nitrites,0
+Mar-08,Orthophosphate-phosphorus,1
+Mar-08,Oxygen saturation,1
+Mar-08,Petroleum hydrocarbons,0
+Mar-08,Silica (SiO2),0
+Mar-08,Sulfides,1
+Mar-08,Sulphates,0
+Mar-08,Total coliforms,0
+Mar-08,Total dissolved salts,0
+Mar-08,Total hardness,0
+Mar-08,Total nitrogen,1
+Mar-08,Total phosphorus,1
+May-08,AOX,0
+May-08,Aldrin,0
+May-08,Ammonium,2
+May-08,Anionic active surfactants,0
+May-08,Arsenic,0
+May-08,Atrazine,0
+May-08,Barium,0
+May-08,Bicarbonates,0
+May-08,Biochemical Oxygen,0
+May-08,Cadmium,0
+May-08,Calcium,0
+May-08,Carbonates,0
+May-08,Chemical Oxygen Demand (Cr),2
+May-08,Chemical Oxygen Demand (Mn),0
+May-08,Chlorides,0
+May-08,Chromium,0
+May-08,Copper,0
+May-08,Cyanides,0
+May-08,Dissolved oxygen,0
+May-08,Fecal coliforms,1
+May-08,Fecal streptococci,0
+May-08,Iron,1
+May-08,Lead,1
+May-08,Magnesium,0
+May-08,Manganese,0
+May-08,Mercury,0
+May-08,Nickel,0
+May-08,Nitrates,0
+May-08,Nitrites,0
+May-08,Orthophosphate-phosphorus,1
+May-08,Oxygen saturation,2
+May-08,Petroleum hydrocarbons,0
+May-08,Potassium,0
+May-08,Silica (SiO2),0
+May-08,Sodium,0
+May-08,Sulfides,2
+May-08,Sulphates,0
+May-08,Tetrachloromethane,0
+May-08,Total coliforms,1
+May-08,Total dissolved salts,0
+May-08,Total hardness,0
+May-08,Total nitrogen,2
+May-08,Total organic carbon,0
+May-08,Total phosphorus,2
+May-08,Water temperature,0
+May-08,Zinc,0
+May-08,gamma-Hexachlorocyclohexane,0
+May-08,"p,p-DDT",0
+Jun-08,Ammonium,0
+Jun-08,Anionic active surfactants,0
+Jun-08,Arsenic,0
+Jun-08,Atrazine,0
+Jun-08,Barium,0
+Jun-08,Bicarbonates,0
+Jun-08,Biochemical Oxygen,0
+Jun-08,Cadmium,0
+Jun-08,Calcium,0
+Jun-08,Chemical Oxygen Demand (Cr),1
+Jun-08,Chemical Oxygen Demand (Mn),0
+Jun-08,Chlorides,0
+Jun-08,Chromium,0
+Jun-08,Copper,1
+Jun-08,Cyanides,0
+Jun-08,Dissolved oxygen,0
+Jun-08,Fecal coliforms,0
+Jun-08,Fecal streptococci,0
+Jun-08,Iron,1
+Jun-08,Lead,1
+Jun-08,Magnesium,0
+Jun-08,Manganese,0
+Jun-08,Mercury,1
+Jun-08,Nickel,0
+Jun-08,Nitrates,0
+Jun-08,Nitrites,0
+Jun-08,Orthophosphate-phosphorus,1
+Jun-08,Oxygen saturation,1
+Jun-08,Petroleum hydrocarbons,0
+Jun-08,Potassium,0
+Jun-08,Selenium,0
+Jun-08,Silica (SiO2),0
+Jun-08,Sodium,0
+Jun-08,Sulfides,1
+Jun-08,Sulphates,0
+Jun-08,Tetrachloromethane,0
+Jun-08,Total coliforms,0
+Jun-08,Total dissolved salts,0
+Jun-08,Total hardness,0
+Jun-08,Total nitrogen,1
+Jun-08,Total organic carbon,0
+Jun-08,Total phosphorus,1
+Jun-08,Water temperature,0
+Jun-08,Zinc,0
+Jun-08,gamma-Hexachlorocyclohexane,0
+Jun-08,"p,p-DDT",0
+Jul-08,Ammonium,0
+Jul-08,Anionic active surfactants,0
+Jul-08,Atrazine,0
+Jul-08,Bicarbonates,0
+Jul-08,Biochemical Oxygen,0
+Jul-08,Calcium,0
+Jul-08,Carbonates,0
+Jul-08,Chemical Oxygen Demand (Cr),1
+Jul-08,Chemical Oxygen Demand (Mn),0
+Jul-08,Chlorides,0
+Jul-08,Cyanides,0
+Jul-08,Dissolved oxygen,0
+Jul-08,Fecal coliforms,0
+Jul-08,Fecal streptococci,0
+Jul-08,Magnesium,0
+Jul-08,Nitrates,0
+Jul-08,Nitrites,0
+Jul-08,Orthophosphate-phosphorus,0
+Jul-08,Oxygen saturation,1
+Jul-08,Petroleum hydrocarbons,0
+Jul-08,Silica (SiO2),0
+Jul-08,Sulfides,1
+Jul-08,Sulphates,0
+Jul-08,Tetrachloromethane,0
+Jul-08,Total coliforms,0
+Jul-08,Total dissolved salts,0
+Jul-08,Total hardness,0
+Jul-08,Total nitrogen,1
+Jul-08,Total phosphorus,1
+Jul-08,Water temperature,0
+Jul-08,gamma-Hexachlorocyclohexane,0
+Jul-08,"p,p-DDT",0
+Aug-08,Ammonium,1
+Aug-08,Anionic active surfactants,0
+Aug-08,Atrazine,0
+Aug-08,Bicarbonates,0
+Aug-08,Biochemical Oxygen,0
+Aug-08,Calcium,0
+Aug-08,Chemical Oxygen Demand (Cr),1
+Aug-08,Chemical Oxygen Demand (Mn),0
+Aug-08,Chlorides,0
+Aug-08,Cyanides,0
+Aug-08,Dissolved oxygen,0
+Aug-08,Fecal coliforms,0
+Aug-08,Fecal streptococci,0
+Aug-08,Magnesium,0
+Aug-08,Nitrates,0
+Aug-08,Nitrites,0
+Aug-08,Orthophosphate-phosphorus,1
+Aug-08,Oxygen saturation,1
+Aug-08,Petroleum hydrocarbons,0
+Aug-08,Silica (SiO2),0
+Aug-08,Sulfides,1
+Aug-08,Sulphates,0
+Aug-08,Tetrachloromethane,0
+Aug-08,Total coliforms,0
+Aug-08,Total dissolved salts,0
+Aug-08,Total hardness,0
+Aug-08,Total nitrogen,1
+Aug-08,Total phosphorus,1
+Aug-08,Water temperature,0
+Aug-08,gamma-Hexachlorocyclohexane,0
+Aug-08,"p,p-DDT",0
+Sep-08,Ammonium,0
+Sep-08,Anionic active surfactants,0
+Sep-08,Arsenic,0
+Sep-08,Atrazine,0
+Sep-08,Barium,0
+Sep-08,Bicarbonates,0
+Sep-08,Biochemical Oxygen,0
+Sep-08,Cadmium,1
+Sep-08,Calcium,0
+Sep-08,Chemical Oxygen Demand (Cr),1
+Sep-08,Chemical Oxygen Demand (Mn),0
+Sep-08,Chlorides,0
+Sep-08,Chromium,0
+Sep-08,Copper,0
+Sep-08,Cyanides,0
+Sep-08,Dissolved oxygen,0
+Sep-08,Fecal coliforms,0
+Sep-08,Fecal streptococci,0
+Sep-08,Iron,1
+Sep-08,Lead,1
+Sep-08,Magnesium,0
+Sep-08,Manganese,0
+Sep-08,Mercury,0
+Sep-08,Nickel,0
+Sep-08,Nitrates,0
+Sep-08,Nitrites,0
+Sep-08,Orthophosphate-phosphorus,1
+Sep-08,Oxygen saturation,1
+Sep-08,Petroleum hydrocarbons,0
+Sep-08,Selenium,0
+Sep-08,Silica (SiO2),0
+Sep-08,Sulfides,1
+Sep-08,Sulphates,0
+Sep-08,Tetrachloromethane,0
+Sep-08,Total coliforms,0
+Sep-08,Total dissolved salts,0
+Sep-08,Total hardness,0
+Sep-08,Total nitrogen,1
+Sep-08,Total organic carbon,0
+Sep-08,Total phosphorus,1
+Sep-08,Water temperature,0
+Sep-08,Zinc,0
+Sep-08,gamma-Hexachlorocyclohexane,0
+Sep-08,"p,p-DDT",0
+Oct-08,AOX,0
+Oct-08,Aluminium,0
+Oct-08,Ammonium,1
+Oct-08,Anionic active surfactants,0
+Oct-08,Arsenic,0
+Oct-08,Atrazine,0
+Oct-08,Barium,0
+Oct-08,Bicarbonates,0
+Oct-08,Biochemical Oxygen,0
+Oct-08,Cadmium,1
+Oct-08,Calcium,0
+Oct-08,Carbonates,0
+Oct-08,Chemical Oxygen Demand (Cr),1
+Oct-08,Chemical Oxygen Demand (Mn),0
+Oct-08,Chlorides,0
+Oct-08,Chromium,0
+Oct-08,Copper,0
+Oct-08,Cyanides,0
+Oct-08,Dissolved organic carbon,1
+Oct-08,Dissolved oxygen,0
+Oct-08,Fecal coliforms,0
+Oct-08,Fecal streptococci,0
+Oct-08,Iron,1
+Oct-08,Lead,1
+Oct-08,Magnesium,0
+Oct-08,Manganese,0
+Oct-08,Mercury,0
+Oct-08,Nickel,0
+Oct-08,Nitrates,0
+Oct-08,Nitrites,0
+Oct-08,Orthophosphate-phosphorus,1
+Oct-08,Oxygen saturation,1
+Oct-08,Petroleum hydrocarbons,0
+Oct-08,Silica (SiO2),0
+Oct-08,Sulfides,1
+Oct-08,Tetrachloromethane,0
+Oct-08,Total coliforms,0
+Oct-08,Total dissolved salts,0
+Oct-08,Total hardness,0
+Oct-08,Total nitrogen,1
+Oct-08,Total phosphorus,1
+Oct-08,Water temperature,0
+Oct-08,Zinc,0
+Oct-08,gamma-Hexachlorocyclohexane,0
+Oct-08,"p,p-DDT",0
+Nov-08,AOX,0
+Nov-08,Ammonium,1
+Nov-08,Anionic active surfactants,0
+Nov-08,Arsenic,0
+Nov-08,Atrazine,0
+Nov-08,Barium,0
+Nov-08,Bicarbonates,0
+Nov-08,Biochemical Oxygen,0
+Nov-08,Cadmium,1
+Nov-08,Calcium,0
+Nov-08,Chemical Oxygen Demand (Cr),1
+Nov-08,Chemical Oxygen Demand (Mn),0
+Nov-08,Chlorides,0
+Nov-08,Chromium,0
+Nov-08,Copper,0
+Nov-08,Cyanides,0
+Nov-08,Dissolved oxygen,0
+Nov-08,Fecal coliforms,0
+Nov-08,Fecal streptococci,0
+Nov-08,Iron,1
+Nov-08,Lead,1
+Nov-08,Magnesium,0
+Nov-08,Manganese,0
+Nov-08,Mercury,0
+Nov-08,Nickel,0
+Nov-08,Nitrates,0
+Nov-08,Nitrites,0
+Nov-08,Orthophosphate-phosphorus,0
+Nov-08,Oxygen saturation,1
+Nov-08,Petroleum hydrocarbons,0
+Nov-08,Potassium,0
+Nov-08,Selenium,0
+Nov-08,Silica (SiO2),0
+Nov-08,Sodium,0
+Nov-08,Sulfides,1
+Nov-08,Sulphates,0
+Nov-08,Tetrachloromethane,0
+Nov-08,Total coliforms,0
+Nov-08,Total dissolved salts,0
+Nov-08,Total hardness,0
+Nov-08,Total nitrogen,1
+Nov-08,Total phosphorus,1
+Nov-08,Water temperature,0
+Nov-08,Zinc,0
+Nov-08,gamma-Hexachlorocyclohexane,0
+Nov-08,"p,p-DDT",0
+Dec-08,AOX,0
+Dec-08,Ammonium,2
+Dec-08,Anionic active surfactants,0
+Dec-08,Arsenic,0
+Dec-08,Atrazine,0
+Dec-08,Barium,0
+Dec-08,Bicarbonates,0
+Dec-08,Biochemical Oxygen,0
+Dec-08,Cadmium,2
+Dec-08,Calcium,0
+Dec-08,Chemical Oxygen Demand (Cr),2
+Dec-08,Chemical Oxygen Demand (Mn),0
+Dec-08,Chlorides,0
+Dec-08,Chromium,0
+Dec-08,Copper,0
+Dec-08,Cyanides,0
+Dec-08,Dissolved oxygen,0
+Dec-08,Dissolved silicates,0
+Dec-08,Fecal coliforms,0
+Dec-08,Fecal streptococci,0
+Dec-08,Iron,2
+Dec-08,Lead,2
+Dec-08,Magnesium,0
+Dec-08,Manganese,0
+Dec-08,Mercury,0
+Dec-08,Nickel,0
+Dec-08,Nitrates,0
+Dec-08,Nitrites,0
+Dec-08,Orthophosphate-phosphorus,2
+Dec-08,Oxygen saturation,2
+Dec-08,Petroleum hydrocarbons,0
+Dec-08,Potassium,0
+Dec-08,Selenium,0
+Dec-08,Silica (SiO2),0
+Dec-08,Sodium,0
+Dec-08,Sulfides,2
+Dec-08,Sulphates,0
+Dec-08,Tetrachloromethane,0
+Dec-08,Total coliforms,0
+Dec-08,Total dissolved salts,0
+Dec-08,Total hardness,0
+Dec-08,Total nitrogen,2
+Dec-08,Total phosphorus,2
+Dec-08,Water temperature,0
+Dec-08,Zinc,0
+Dec-08,gamma-Hexachlorocyclohexane,0
+Dec-08,"p,p-DDT",0
+Jan-09,AOX,0
+Jan-09,Ammonium,1
+Jan-09,Anionic active surfactants,0
+Jan-09,Atrazine,0
+Jan-09,Biochemical Oxygen,0
+Jan-09,Calcium,0
+Jan-09,Chemical Oxygen Demand (Cr),1
+Jan-09,Chemical Oxygen Demand (Mn),0
+Jan-09,Chlorides,0
+Jan-09,Cyanides,0
+Jan-09,Dissolved oxygen,0
+Jan-09,Fecal coliforms,0
+Jan-09,Fecal streptococci,0
+Jan-09,Magnesium,0
+Jan-09,Manganese,0
+Jan-09,Nitrates,0
+Jan-09,Nitrites,0
+Jan-09,Orthophosphate-phosphorus,1
+Jan-09,Oxygen saturation,1
+Jan-09,Petroleum hydrocarbons,0
+Jan-09,Potassium,0
+Jan-09,Silica (SiO2),0
+Jan-09,Sodium,0
+Jan-09,Sulfides,0
+Jan-09,Sulphates,0
+Jan-09,Tetrachloromethane,0
+Jan-09,Total coliforms,0
+Jan-09,Total dissolved salts,1
+Jan-09,Total hardness,0
+Jan-09,Total nitrogen,1
+Jan-09,Total phosphorus,1
+Jan-09,Water temperature,0
+Jan-09,gamma-Hexachlorocyclohexane,0
+Jan-09,"p,p-DDT",0
+Feb-09,AOX,0
+Feb-09,Ammonium,1
+Feb-09,Anionic active surfactants,0
+Feb-09,Atrazine,0
+Feb-09,Biochemical Oxygen,0
+Feb-09,Calcium,0
+Feb-09,Chemical Oxygen Demand (Cr),1
+Feb-09,Chemical Oxygen Demand (Mn),0
+Feb-09,Chlorides,0
+Feb-09,Cyanides,0
+Feb-09,Dissolved oxygen,0
+Feb-09,Fecal coliforms,0
+Feb-09,Fecal streptococci,0
+Feb-09,Magnesium,0
+Feb-09,Manganese,0
+Feb-09,Nitrates,0
+Feb-09,Nitrites,0
+Feb-09,Orthophosphate-phosphorus,1
+Feb-09,Oxygen saturation,1
+Feb-09,Petroleum hydrocarbons,0
+Feb-09,Potassium,0
+Feb-09,Silica (SiO2),0
+Feb-09,Sodium,0
+Feb-09,Sulfides,0
+Feb-09,Sulphates,0
+Feb-09,Tetrachloromethane,0
+Feb-09,Total coliforms,0
+Feb-09,Total dissolved salts,0
+Feb-09,Total hardness,0
+Feb-09,Total nitrogen,1
+Feb-09,Total organic carbon,0
+Feb-09,Total phosphorus,1
+Feb-09,Water temperature,0
+Feb-09,gamma-Hexachlorocyclohexane,0
+Feb-09,"p,p-DDT",0
+Mar-09,AOX,0
+Mar-09,Ammonium,1
+Mar-09,Anionic active surfactants,0
+Mar-09,Atrazine,0
+Mar-09,Biochemical Oxygen,0
+Mar-09,Calcium,0
+Mar-09,Chemical Oxygen Demand (Cr),1
+Mar-09,Chemical Oxygen Demand (Mn),1
+Mar-09,Chlorides,0
+Mar-09,Cyanides,0
+Mar-09,Dissolved oxygen,0
+Mar-09,Fecal coliforms,0
+Mar-09,Fecal streptococci,0
+Mar-09,Magnesium,0
+Mar-09,Manganese,0
+Mar-09,Nitrates,0
+Mar-09,Nitrites,0
+Mar-09,Orthophosphate-phosphorus,1
+Mar-09,Oxygen saturation,1
+Mar-09,Petroleum hydrocarbons,0
+Mar-09,Potassium,0
+Mar-09,Silica (SiO2),0
+Mar-09,Sodium,0
+Mar-09,Sulfides,0
+Mar-09,Sulphates,0
+Mar-09,Tetrachloromethane,0
+Mar-09,Total coliforms,0
+Mar-09,Total dissolved salts,0
+Mar-09,Total nitrogen,1
+Mar-09,Total organic carbon,1
+Mar-09,Total phosphorus,1
+Mar-09,Water temperature,0
+Mar-09,gamma-Hexachlorocyclohexane,0
+Mar-09,"p,p-DDT",0
+Apr-09,AOX,0
+Apr-09,Aluminium,1
+Apr-09,Ammonium,1
+Apr-09,Anionic active surfactants,0
+Apr-09,Arsenic,0
+Apr-09,Atrazine,0
+Apr-09,Barium,0
+Apr-09,Biochemical Oxygen,0
+Apr-09,Cadmium,1
+Apr-09,Calcium,0
+Apr-09,Chemical Oxygen Demand (Cr),1
+Apr-09,Chemical Oxygen Demand (Mn),0
+Apr-09,Chlorides,0
+Apr-09,Chromium,1
+Apr-09,Copper,0
+Apr-09,Cyanides,0
+Apr-09,Dissolved oxygen,0
+Apr-09,Fecal coliforms,0
+Apr-09,Fecal streptococci,0
+Apr-09,Iron,1
+Apr-09,Lead,1
+Apr-09,Magnesium,0
+Apr-09,Manganese,0
+Apr-09,Mercury,1
+Apr-09,Nickel,0
+Apr-09,Nitrates,0
+Apr-09,Nitrites,0
+Apr-09,Orthophosphate-phosphorus,1
+Apr-09,Oxygen saturation,1
+Apr-09,Petroleum hydrocarbons,0
+Apr-09,Potassium,0
+Apr-09,Selenium,0
+Apr-09,Silica (SiO2),0
+Apr-09,Sodium,0
+Apr-09,Sulfides,0
+Apr-09,Sulphates,0
+Apr-09,Tetrachloromethane,0
+Apr-09,Total coliforms,0
+Apr-09,Total dissolved salts,0
+Apr-09,Total nitrogen,1
+Apr-09,Total organic carbon,0
+Apr-09,Total phosphorus,1
+Apr-09,Water temperature,0
+Apr-09,Zinc,0
+Apr-09,gamma-Hexachlorocyclohexane,0
+Apr-09,"p,p-DDT",0
+May-09,AOX,0
+May-09,Aluminium,0
+May-09,Ammonium,0
+May-09,Anionic active surfactants,0
+May-09,Arsenic,0
+May-09,Atrazine,0
+May-09,Barium,0
+May-09,Biochemical Oxygen,0
+May-09,Cadmium,1
+May-09,Calcium,0
+May-09,Chemical Oxygen Demand (Cr),1
+May-09,Chemical Oxygen Demand (Mn),0
+May-09,Chlorides,0
+May-09,Chromium,0
+May-09,Copper,0
+May-09,Cyanides,0
+May-09,Dissolved oxygen,0
+May-09,Fecal coliforms,0
+May-09,Fecal streptococci,0
+May-09,Iron,1
+May-09,Lead,1
+May-09,Magnesium,0
+May-09,Manganese,0
+May-09,Mercury,1
+May-09,Nickel,0
+May-09,Nitrates,0
+May-09,Nitrites,0
+May-09,Orthophosphate-phosphorus,1
+May-09,Oxygen saturation,1
+May-09,Petroleum hydrocarbons,0
+May-09,Potassium,0
+May-09,Selenium,0
+May-09,Silica (SiO2),0
+May-09,Sodium,0
+May-09,Sulfides,0
+May-09,Sulphates,0
+May-09,Tetrachloromethane,0
+May-09,Total coliforms,0
+May-09,Total dissolved salts,0
+May-09,Total nitrogen,1
+May-09,Total organic carbon,0
+May-09,Total phosphorus,1
+May-09,Water temperature,0
+May-09,Zinc,0
+May-09,gamma-Hexachlorocyclohexane,0
+May-09,"p,p-DDT",0
+Jun-09,AOX,0
+Jun-09,Aluminium,0
+Jun-09,Ammonium,1
+Jun-09,Anionic active surfactants,0
+Jun-09,Arsenic,0
+Jun-09,Atrazine,0
+Jun-09,Biochemical Oxygen,0
+Jun-09,Cadmium,0
+Jun-09,Calcium,0
+Jun-09,Chemical Oxygen Demand (Cr),1
+Jun-09,Chemical Oxygen Demand (Mn),0
+Jun-09,Chlorides,0
+Jun-09,Chromium,0
+Jun-09,Copper,0
+Jun-09,Cyanides,0
+Jun-09,Dissolved oxygen,0
+Jun-09,Fecal coliforms,0
+Jun-09,Fecal streptococci,0
+Jun-09,Iron,1
+Jun-09,Lead,1
+Jun-09,Magnesium,0
+Jun-09,Manganese,0
+Jun-09,Mercury,1
+Jun-09,Nickel,0
+Jun-09,Nitrates,0
+Jun-09,Nitrites,0
+Jun-09,Orthophosphate-phosphorus,0
+Jun-09,Oxygen saturation,1
+Jun-09,Petroleum hydrocarbons,0
+Jun-09,Potassium,0
+Jun-09,Silica (SiO2),0
+Jun-09,Sodium,0
+Jun-09,Sulfides,0
+Jun-09,Sulphates,0
+Jun-09,Tetrachloromethane,0
+Jun-09,Total coliforms,0
+Jun-09,Total dissolved salts,0
+Jun-09,Total hardness,0
+Jun-09,Total nitrogen,1
+Jun-09,Total organic carbon,0
+Jun-09,Total phosphorus,0
+Jun-09,Water temperature,0
+Jun-09,Zinc,0
+Jun-09,gamma-Hexachlorocyclohexane,0
+Jun-09,"p,p-DDT",0
+Jul-09,AOX,0
+Jul-09,Aluminium,0
+Jul-09,Ammonium,0
+Jul-09,Anionic active surfactants,0
+Jul-09,Arsenic,0
+Jul-09,Atrazine,0
+Jul-09,Biochemical Oxygen,0
+Jul-09,Cadmium,1
+Jul-09,Calcium,0
+Jul-09,Chemical Oxygen Demand (Cr),1
+Jul-09,Chemical Oxygen Demand (Mn),0
+Jul-09,Chlorides,0
+Jul-09,Chromium,1
+Jul-09,Copper,1
+Jul-09,Cyanides,0
+Jul-09,Dissolved oxygen,0
+Jul-09,Fecal coliforms,0
+Jul-09,Fecal streptococci,0
+Jul-09,Iron,1
+Jul-09,Lead,1
+Jul-09,Magnesium,0
+Jul-09,Manganese,0
+Jul-09,Mercury,1
+Jul-09,Nickel,0
+Jul-09,Nitrates,0
+Jul-09,Nitrites,0
+Jul-09,Orthophosphate-phosphorus,0
+Jul-09,Oxygen saturation,1
+Jul-09,Petroleum hydrocarbons,0
+Jul-09,Potassium,0
+Jul-09,Sodium,0
+Jul-09,Sulphates,0
+Jul-09,Total coliforms,0
+Jul-09,Total dissolved salts,0
+Jul-09,Total hardness,0
+Jul-09,Total nitrogen,1
+Jul-09,Total phosphorus,1
+Jul-09,Water temperature,0
+Jul-09,Zinc,0
+Jul-09,gamma-Hexachlorocyclohexane,0
+Jul-09,"p,p-DDT",0
+Aug-09,AOX,0
+Aug-09,Aluminium,0
+Aug-09,Ammonium,1
+Aug-09,Anionic active surfactants,0
+Aug-09,Arsenic,0
+Aug-09,Atrazine,0
+Aug-09,Biochemical Oxygen,0
+Aug-09,Cadmium,0
+Aug-09,Calcium,0
+Aug-09,Chemical Oxygen Demand (Cr),1
+Aug-09,Chemical Oxygen Demand (Mn),0
+Aug-09,Chlorides,0
+Aug-09,Chromium,0
+Aug-09,Copper,0
+Aug-09,Cyanides,0
+Aug-09,Dissolved oxygen,0
+Aug-09,Fecal coliforms,1
+Aug-09,Fecal streptococci,0
+Aug-09,Iron,1
+Aug-09,Lead,1
+Aug-09,Magnesium,0
+Aug-09,Manganese,0
+Aug-09,Mercury,1
+Aug-09,Nickel,0
+Aug-09,Nitrates,0
+Aug-09,Nitrites,0
+Aug-09,Orthophosphate-phosphorus,1
+Aug-09,Oxygen saturation,1
+Aug-09,Petroleum hydrocarbons,0
+Aug-09,Potassium,0
+Aug-09,Silica (SiO2),0
+Aug-09,Sodium,0
+Aug-09,Sulfides,0
+Aug-09,Sulphates,0
+Aug-09,Tetrachloromethane,0
+Aug-09,Total coliforms,1
+Aug-09,Total dissolved salts,0
+Aug-09,Total hardness,0
+Aug-09,Total nitrogen,1
+Aug-09,Total organic carbon,0
+Aug-09,Total phosphorus,1
+Aug-09,Water temperature,0
+Aug-09,Zinc,0
+Aug-09,gamma-Hexachlorocyclohexane,0
+Aug-09,"p,p-DDT",0
+Sep-09,Alachlor,0
+Sep-09,Aldrin,0
+Sep-09,Ammonium,1
+Sep-09,Anionic active surfactants,0
+Sep-09,Anthracene,0
+Sep-09,Atrazine,0
+Sep-09,Benzo(a)anthracene,0
+Sep-09,Benzo(a)pyrene,0
+Sep-09,Benzo(b)fluoranthene,0
+Sep-09,"Benzo(g,h,i)perylene",0
+Sep-09,Benzo(k)fluoranthene,0
+Sep-09,Biochemical Oxygen,0
+Sep-09,Calcium,0
+Sep-09,Chemical Oxygen Demand (Cr),1
+Sep-09,Chemical Oxygen Demand (Mn),0
+Sep-09,Chlorides,0
+Sep-09,Cyanides,0
+Sep-09,Dieldrin,0
+Sep-09,Dissolved oxygen,0
+Sep-09,Endrin,0
+Sep-09,Fecal coliforms,0
+Sep-09,Fecal streptococci,0
+Sep-09,Fluoranthene,0
+Sep-09,Hexachlorobenzene,0
+Sep-09,"Indeno(1,2,3-c,d)pyrene",0
+Sep-09,Isodrin,0
+Sep-09,Magnesium,0
+Sep-09,Naphthalene,0
+Sep-09,Nitrates,0
+Sep-09,Nitrites,0
+Sep-09,Orthophosphate-phosphorus,1
+Sep-09,Oxygen saturation,1
+Sep-09,PCB 101,0
+Sep-09,PCB 118,0
+Sep-09,PCB 138,0
+Sep-09,PCB 153,0
+Sep-09,PCB 180,0
+Sep-09,Pentachlorobenzene,0
+Sep-09,Phenanthrene,0
+Sep-09,Silica (SiO2),0
+Sep-09,Simazine,0
+Sep-09,Sulphates,0
+Sep-09,Tetrachloromethane,0
+Sep-09,Total coliforms,0
+Sep-09,Total dissolved salts,0
+Sep-09,Total hardness,0
+Sep-09,Total nitrogen,1
+Sep-09,Total phosphorus,1
+Sep-09,Trifluralin,0
+Sep-09,Water temperature,0
+Sep-09,gamma-Hexachlorocyclohexane,0
+Sep-09,"p,p-DDT",0
+Oct-09,AOX,0
+Oct-09,Alachlor,0
+Oct-09,Aldrin,0
+Oct-09,Aluminium,0
+Oct-09,Ammonium,1
+Oct-09,Anionic active surfactants,0
+Oct-09,Anthracene,0
+Oct-09,Arsenic,0
+Oct-09,Atrazine,0
+Oct-09,Benzo(a)anthracene,0
+Oct-09,Benzo(a)pyrene,0
+Oct-09,Benzo(b)fluoranthene,0
+Oct-09,"Benzo(g,h,i)perylene",0
+Oct-09,Benzo(k)fluoranthene,0
+Oct-09,Biochemical Oxygen,0
+Oct-09,Cadmium,0
+Oct-09,Calcium,0
+Oct-09,Chemical Oxygen Demand (Cr),1
+Oct-09,Chemical Oxygen Demand (Mn),0
+Oct-09,Chromium,0
+Oct-09,Copper,0
+Oct-09,Cyanides,0
+Oct-09,Dieldrin,0
+Oct-09,Dissolved oxygen,0
+Oct-09,Endrin,0
+Oct-09,Fecal coliforms,0
+Oct-09,Fecal streptococci,0
+Oct-09,Fluoranthene,0
+Oct-09,Hexachlorobenzene,0
+Oct-09,"Indeno(1,2,3-c,d)pyrene",0
+Oct-09,Iron,1
+Oct-09,Isodrin,0
+Oct-09,Lead,1
+Oct-09,Magnesium,0
+Oct-09,Manganese,0
+Oct-09,Mercury,0
+Oct-09,Naphthalene,0
+Oct-09,Nickel,0
+Oct-09,Nitrates,0
+Oct-09,Nitrites,0
+Oct-09,Orthophosphate-phosphorus,1
+Oct-09,Oxygen saturation,1
+Oct-09,PCB 101,0
+Oct-09,PCB 118,0
+Oct-09,PCB 138,0
+Oct-09,PCB 153,0
+Oct-09,PCB 180,0
+Oct-09,Pentachlorobenzene,0
+Oct-09,Petroleum hydrocarbons,0
+Oct-09,Phenanthrene,0
+Oct-09,Potassium,0
+Oct-09,Silica (SiO2),0
+Oct-09,Simazine,0
+Oct-09,Sodium,0
+Oct-09,Sulfides,0
+Oct-09,Sulphates,0
+Oct-09,Tetrachloromethane,0
+Oct-09,Total coliforms,0
+Oct-09,Total dissolved salts,0
+Oct-09,Total hardness,0
+Oct-09,Total nitrogen,1
+Oct-09,Total organic carbon,0
+Oct-09,Total phosphorus,1
+Oct-09,Trifluralin,0
+Oct-09,Water temperature,0
+Oct-09,Zinc,0
+Oct-09,gamma-Hexachlorocyclohexane,0
+Oct-09,"p,p-DDT",0
+Nov-09,AOX,0
+Nov-09,Aluminium,0
+Nov-09,Ammonium,0
+Nov-09,Anionic active surfactants,0
+Nov-09,Arsenic,0
+Nov-09,Biochemical Oxygen,0
+Nov-09,Cadmium,0
+Nov-09,Calcium,0
+Nov-09,Chemical Oxygen Demand (Cr),1
+Nov-09,Chemical Oxygen Demand (Mn),0
+Nov-09,Chlorides,0
+Nov-09,Chromium,0
+Nov-09,Copper,0
+Nov-09,Cyanides,0
+Nov-09,Dissolved oxygen,0
+Nov-09,Fecal coliforms,0
+Nov-09,Fecal streptococci,0
+Nov-09,Iron,0
+Nov-09,Lead,1
+Nov-09,Magnesium,0
+Nov-09,Manganese,0
+Nov-09,Mercury,1
+Nov-09,Nickel,0
+Nov-09,Nitrates,0
+Nov-09,Nitrites,0
+Nov-09,Orthophosphate-phosphorus,1
+Nov-09,Oxygen saturation,1
+Nov-09,Potassium,0
+Nov-09,Silica (SiO2),0
+Nov-09,Sodium,0
+Nov-09,Sulphates,0
+Nov-09,Total coliforms,0
+Nov-09,Total dissolved salts,0
+Nov-09,Total nitrogen,1
+Nov-09,Total organic carbon,0
+Nov-09,Total phosphorus,1
+Nov-09,Water temperature,0
+Nov-09,Zinc,0
+Dec-09,AOX,0
+Dec-09,Aluminium,0
+Dec-09,Ammonium,0
+Dec-09,Anionic active surfactants,0
+Dec-09,Arsenic,0
+Dec-09,Biochemical Oxygen,0
+Dec-09,Cadmium,0
+Dec-09,Calcium,0
+Dec-09,Chemical Oxygen Demand (Cr),1
+Dec-09,Chemical Oxygen Demand (Mn),0
+Dec-09,Chlorides,0
+Dec-09,Chromium,0
+Dec-09,Copper,0
+Dec-09,Cyanides,0
+Dec-09,Dissolved oxygen,0
+Dec-09,Fecal coliforms,0
+Dec-09,Fecal streptococci,0
+Dec-09,Iron,1
+Dec-09,Lead,1
+Dec-09,Magnesium,0
+Dec-09,Manganese,0
+Dec-09,Mercury,1
+Dec-09,Nickel,0
+Dec-09,Nitrates,0
+Dec-09,Nitrites,0
+Dec-09,Orthophosphate-phosphorus,0
+Dec-09,Oxygen saturation,1
+Dec-09,Petroleum hydrocarbons,0
+Dec-09,Potassium,0
+Dec-09,Silica (SiO2),0
+Dec-09,Sodium,0
+Dec-09,Sulfides,0
+Dec-09,Sulphates,0
+Dec-09,Total coliforms,0
+Dec-09,Total dissolved salts,0
+Dec-09,Total nitrogen,1
+Dec-09,Total organic carbon,0
+Dec-09,Total phosphorus,1
+Dec-09,Water temperature,0
+Dec-09,Zinc,0
+Jan-10,Aluminium,0
+Jan-10,Ammonium,0
+Jan-10,Anionic active surfactants,0
+Jan-10,Arsenic,0
+Jan-10,Atrazine,0
+Jan-10,Biochemical Oxygen,0
+Jan-10,Cadmium,0
+Jan-10,Calcium,0
+Jan-10,Chemical Oxygen Demand (Cr),1
+Jan-10,Chemical Oxygen Demand (Mn),0
+Jan-10,Chlorides,0
+Jan-10,Chromium,0
+Jan-10,Copper,0
+Jan-10,Cyanides,0
+Jan-10,Dissolved oxygen,0
+Jan-10,Iron,1
+Jan-10,Lead,1
+Jan-10,Magnesium,0
+Jan-10,Manganese,0
+Jan-10,Mercury,1
+Jan-10,Nickel,0
+Jan-10,Nitrates,0
+Jan-10,Nitrites,0
+Jan-10,Orthophosphate-phosphorus,1
+Jan-10,Oxygen saturation,1
+Jan-10,Petroleum hydrocarbons,1
+Jan-10,Potassium,0
+Jan-10,Silica (SiO2),0
+Jan-10,Sodium,0
+Jan-10,Sulphates,0
+Jan-10,Tetrachloromethane,0
+Jan-10,Total dissolved salts,0
+Jan-10,Total extractable matter,0
+Jan-10,Total nitrogen,1
+Jan-10,Total phosphorus,1
+Jan-10,Water temperature,0
+Jan-10,Zinc,0
+Jan-10,gamma-Hexachlorocyclohexane,0
+Feb-10,Ammonium,0
+Feb-10,Anionic active surfactants,0
+Feb-10,Arsenic,0
+Feb-10,Atrazine,0
+Feb-10,Biochemical Oxygen,0
+Feb-10,Cadmium,0
+Feb-10,Calcium,0
+Feb-10,Chemical Oxygen Demand (Cr),1
+Feb-10,Chemical Oxygen Demand (Mn),0
+Feb-10,Chlorides,0
+Feb-10,Chromium,0
+Feb-10,Copper,0
+Feb-10,Cyanides,0
+Feb-10,Dissolved oxygen,0
+Feb-10,Lead,1
+Feb-10,Magnesium,0
+Feb-10,Mercury,0
+Feb-10,Nickel,0
+Feb-10,Nitrates,0
+Feb-10,Nitrites,0
+Feb-10,Orthophosphate-phosphorus,0
+Feb-10,Oxygen saturation,1
+Feb-10,Silica (SiO2),0
+Feb-10,Sulphates,0
+Feb-10,Tetrachloromethane,0
+Feb-10,Total dissolved salts,0
+Feb-10,Total nitrogen,1
+Feb-10,Total phosphorus,1
+Feb-10,Water temperature,0
+Feb-10,Zinc,0
+Feb-10,gamma-Hexachlorocyclohexane,0
+Mar-10,Ammonium,0
+Mar-10,Anionic active surfactants,0
+Mar-10,Arsenic,0
+Mar-10,Atrazine,0
+Mar-10,Biochemical Oxygen,0
+Mar-10,Cadmium,0
+Mar-10,Calcium,0
+Mar-10,Chemical Oxygen Demand (Cr),1
+Mar-10,Chemical Oxygen Demand (Mn),0
+Mar-10,Chlorides,0
+Mar-10,Chromium,0
+Mar-10,Copper,0
+Mar-10,Cyanides,0
+Mar-10,Dissolved oxygen,0
+Mar-10,Lead,1
+Mar-10,Magnesium,0
+Mar-10,Mercury,1
+Mar-10,Nickel,0
+Mar-10,Nitrates,0
+Mar-10,Nitrites,0
+Mar-10,Orthophosphate-phosphorus,0
+Mar-10,Oxygen saturation,1
+Mar-10,Silica (SiO2),0
+Mar-10,Sulphates,0
+Mar-10,Tetrachloromethane,0
+Mar-10,Total dissolved salts,0
+Mar-10,Total nitrogen,1
+Mar-10,Total phosphorus,1
+Mar-10,Water temperature,0
+Mar-10,Zinc,0
+Mar-10,gamma-Hexachlorocyclohexane,0
+Apr-10,Ammonium,0
+Apr-10,Arsenic,0
+Apr-10,Atrazine,0
+Apr-10,Biochemical Oxygen,0
+Apr-10,Cadmium,0
+Apr-10,Calcium,0
+Apr-10,Chemical Oxygen Demand (Cr),1
+Apr-10,Chemical Oxygen Demand (Mn),0
+Apr-10,Chlorides,0
+Apr-10,Chromium,0
+Apr-10,Copper,0
+Apr-10,Dissolved oxygen,0
+Apr-10,Lead,1
+Apr-10,Magnesium,0
+Apr-10,Mercury,1
+Apr-10,Nickel,0
+Apr-10,Nitrates,0
+Apr-10,Nitrites,0
+Apr-10,Orthophosphate-phosphorus,1
+Apr-10,Oxygen saturation,1
+Apr-10,Silica (SiO2),0
+Apr-10,Sulphates,0
+Apr-10,Tetrachloromethane,0
+Apr-10,Total dissolved salts,0
+Apr-10,Total nitrogen,1
+Apr-10,Total phosphorus,1
+Apr-10,Water temperature,0
+Apr-10,Zinc,0
+Apr-10,gamma-Hexachlorocyclohexane,0
+Apr-10,"p,p-DDT",0
+May-10,Ammonium,0
+May-10,Arsenic,0
+May-10,Atrazine,0
+May-10,Biochemical Oxygen,0
+May-10,Cadmium,0
+May-10,Calcium,0
+May-10,Chemical Oxygen Demand (Cr),1
+May-10,Chemical Oxygen Demand (Mn),0
+May-10,Chlorides,0
+May-10,Chromium,0
+May-10,Copper,0
+May-10,Dissolved oxygen,0
+May-10,Lead,1
+May-10,Magnesium,0
+May-10,Mercury,1
+May-10,Nickel,0
+May-10,Nitrates,0
+May-10,Nitrites,0
+May-10,Orthophosphate-phosphorus,0
+May-10,Oxygen saturation,1
+May-10,Silica (SiO2),0
+May-10,Sulphates,0
+May-10,Tetrachloromethane,0
+May-10,Total dissolved salts,0
+May-10,Total nitrogen,1
+May-10,Total phosphorus,0
+May-10,Water temperature,0
+May-10,Zinc,0
+May-10,gamma-Hexachlorocyclohexane,0
+Jun-10,Ammonium,1
+Jun-10,Arsenic,0
+Jun-10,Atrazine,0
+Jun-10,Biochemical Oxygen,0
+Jun-10,Cadmium,0
+Jun-10,Calcium,0
+Jun-10,Chemical Oxygen Demand (Cr),1
+Jun-10,Chemical Oxygen Demand (Mn),0
+Jun-10,Chlorides,0
+Jun-10,Chromium,0
+Jun-10,Copper,0
+Jun-10,Dissolved oxygen,0
+Jun-10,Iron,1
+Jun-10,Lead,1
+Jun-10,Magnesium,0
+Jun-10,Manganese,0
+Jun-10,Mercury,1
+Jun-10,Nickel,0
+Jun-10,Nitrates,0
+Jun-10,Nitrites,0
+Jun-10,Orthophosphate-phosphorus,0
+Jun-10,Oxygen saturation,1
+Jun-10,Potassium,0
+Jun-10,Silica (SiO2),0
+Jun-10,Sodium,0
+Jun-10,Sulphates,0
+Jun-10,Tetrachloromethane,0
+Jun-10,Total dissolved salts,0
+Jun-10,Total nitrogen,1
+Jun-10,Total phosphorus,1
+Jun-10,Water temperature,0
+Jun-10,Zinc,0
+Jun-10,gamma-Hexachlorocyclohexane,0
+Jun-10,"p,p-DDT",0
+Jul-10,Ammonium,1
+Jul-10,Arsenic,0
+Jul-10,Atrazine,0
+Jul-10,Biochemical Oxygen,0
+Jul-10,Cadmium,0
+Jul-10,Calcium,0
+Jul-10,Chemical Oxygen Demand (Cr),1
+Jul-10,Chemical Oxygen Demand (Mn),0
+Jul-10,Chlorides,0
+Jul-10,Chromium,0
+Jul-10,Copper,0
+Jul-10,Dissolved oxygen,0
+Jul-10,Iron,1
+Jul-10,Lead,1
+Jul-10,Magnesium,0
+Jul-10,Manganese,0
+Jul-10,Mercury,1
+Jul-10,Nickel,0
+Jul-10,Nitrates,0
+Jul-10,Nitrites,0
+Jul-10,Orthophosphate-phosphorus,0
+Jul-10,Oxygen saturation,1
+Jul-10,Petroleum hydrocarbons,1
+Jul-10,Silica (SiO2),0
+Jul-10,Sulphates,0
+Jul-10,Tetrachloromethane,0
+Jul-10,Total dissolved salts,0
+Jul-10,Total nitrogen,1
+Jul-10,Total phosphorus,1
+Jul-10,Water temperature,0
+Jul-10,Zinc,0
+Jul-10,gamma-Hexachlorocyclohexane,0
+Aug-10,Ammonium,1
+Aug-10,Arsenic,0
+Aug-10,Atrazine,0
+Aug-10,Biochemical Oxygen,0
+Aug-10,Cadmium,0
+Aug-10,Calcium,0
+Aug-10,Chemical Oxygen Demand (Cr),1
+Aug-10,Chemical Oxygen Demand (Mn),0
+Aug-10,Chlorides,0
+Aug-10,Chromium,0
+Aug-10,Copper,0
+Aug-10,Dissolved oxygen,0
+Aug-10,Iron,1
+Aug-10,Lead,1
+Aug-10,Magnesium,0
+Aug-10,Manganese,0
+Aug-10,Mercury,1
+Aug-10,Nickel,0
+Aug-10,Nitrates,0
+Aug-10,Nitrites,0
+Aug-10,Orthophosphate-phosphorus,0
+Aug-10,Oxygen saturation,1
+Aug-10,Silica (SiO2),0
+Aug-10,Sulphates,0
+Aug-10,Tetrachloromethane,0
+Aug-10,Total dissolved salts,0
+Aug-10,Total nitrogen,1
+Aug-10,Total phosphorus,1
+Aug-10,Water temperature,0
+Aug-10,Zinc,0
+Aug-10,gamma-Hexachlorocyclohexane,0
+Sep-10,Ammonium,0
+Sep-10,Arsenic,0
+Sep-10,Atrazine,0
+Sep-10,Biochemical Oxygen,0
+Sep-10,Cadmium,0
+Sep-10,Calcium,0
+Sep-10,Chemical Oxygen Demand (Cr),1
+Sep-10,Chemical Oxygen Demand (Mn),0
+Sep-10,Chlorides,0
+Sep-10,Chromium,1
+Sep-10,Copper,1
+Sep-10,Dissolved oxygen,0
+Sep-10,Iron,1
+Sep-10,Lead,1
+Sep-10,Magnesium,0
+Sep-10,Manganese,0
+Sep-10,Mercury,1
+Sep-10,Nickel,0
+Sep-10,Nitrates,0
+Sep-10,Nitrites,0
+Sep-10,Orthophosphate-phosphorus,0
+Sep-10,Oxygen saturation,1
+Sep-10,Petroleum hydrocarbons,1
+Sep-10,Silica (SiO2),0
+Sep-10,Sulphates,0
+Sep-10,Tetrachloromethane,0
+Sep-10,Total dissolved salts,0
+Sep-10,Total nitrogen,1
+Sep-10,Total phosphorus,1
+Sep-10,Water temperature,0
+Sep-10,Zinc,0
+Sep-10,gamma-Hexachlorocyclohexane,0
+Oct-10,Ammonium,0
+Oct-10,Arsenic,0
+Oct-10,Atrazine,0
+Oct-10,Biochemical Oxygen,0
+Oct-10,Cadmium,0
+Oct-10,Calcium,0
+Oct-10,Chemical Oxygen Demand (Cr),1
+Oct-10,Chemical Oxygen Demand (Mn),0
+Oct-10,Chlorides,0
+Oct-10,Chromium,1
+Oct-10,Copper,1
+Oct-10,Dissolved oxygen,0
+Oct-10,Iron,1
+Oct-10,Lead,1
+Oct-10,Magnesium,0
+Oct-10,Manganese,0
+Oct-10,Mercury,1
+Oct-10,Nickel,0
+Oct-10,Nitrates,0
+Oct-10,Nitrites,0
+Oct-10,Orthophosphate-phosphorus,0
+Oct-10,Oxygen saturation,1
+Oct-10,Petroleum hydrocarbons,1
+Oct-10,Silica (SiO2),0
+Oct-10,Sulphates,0
+Oct-10,Tetrachloromethane,0
+Oct-10,Total dissolved salts,0
+Oct-10,Total nitrogen,1
+Oct-10,Total phosphorus,1
+Oct-10,Water temperature,0
+Oct-10,Zinc,0
+Oct-10,gamma-Hexachlorocyclohexane,0
+Nov-10,Ammonium,1
+Nov-10,Arsenic,0
+Nov-10,Atrazine,0
+Nov-10,Biochemical Oxygen,0
+Nov-10,Cadmium,0
+Nov-10,Calcium,0
+Nov-10,Chemical Oxygen Demand (Cr),1
+Nov-10,Chemical Oxygen Demand (Mn),0
+Nov-10,Chlorides,0
+Nov-10,Chromium,0
+Nov-10,Copper,0
+Nov-10,Dissolved oxygen,0
+Nov-10,Iron,1
+Nov-10,Lead,1
+Nov-10,Magnesium,0
+Nov-10,Manganese,0
+Nov-10,Mercury,1
+Nov-10,Nickel,0
+Nov-10,Nitrates,0
+Nov-10,Nitrites,0
+Nov-10,Orthophosphate-phosphorus,1
+Nov-10,Oxygen saturation,1
+Nov-10,Petroleum hydrocarbons,1
+Nov-10,Silica (SiO2),0
+Nov-10,Sulphates,0
+Nov-10,Tetrachloromethane,0
+Nov-10,Total dissolved salts,0
+Nov-10,Total nitrogen,1
+Nov-10,Total phosphorus,1
+Nov-10,Water temperature,0
+Nov-10,Zinc,0
+Nov-10,gamma-Hexachlorocyclohexane,0
+Dec-10,Ammonium,1
+Dec-10,Arsenic,0
+Dec-10,Atrazine,0
+Dec-10,Biochemical Oxygen,0
+Dec-10,Cadmium,0
+Dec-10,Calcium,0
+Dec-10,Chemical Oxygen Demand (Cr),1
+Dec-10,Chemical Oxygen Demand (Mn),0
+Dec-10,Chlorides,0
+Dec-10,Chromium,1
+Dec-10,Copper,0
+Dec-10,Dissolved oxygen,0
+Dec-10,Iron,1
+Dec-10,Lead,1
+Dec-10,Magnesium,0
+Dec-10,Manganese,0
+Dec-10,Mercury,1
+Dec-10,Nickel,0
+Dec-10,Nitrates,0
+Dec-10,Nitrites,0
+Dec-10,Orthophosphate-phosphorus,1
+Dec-10,Oxygen saturation,1
+Dec-10,Silica (SiO2),0
+Dec-10,Sulphates,0
+Dec-10,Tetrachloromethane,0
+Dec-10,Total dissolved salts,0
+Dec-10,Total nitrogen,1
+Dec-10,Total phosphorus,1
+Dec-10,Water temperature,0
+Dec-10,Zinc,0
+Dec-10,gamma-Hexachlorocyclohexane,0
+Jan-11,Ammonium,1
+Jan-11,Anionic active surfactants,0
+Jan-11,Arsenic,0
+Jan-11,Bicarbonates,0
+Jan-11,Biochemical Oxygen,0
+Jan-11,Cadmium,0
+Jan-11,Calcium,0
+Jan-11,Chemical Oxygen Demand (Cr),1
+Jan-11,Chemical Oxygen Demand (Mn),0
+Jan-11,Chlorides,0
+Jan-11,Chromium,0
+Jan-11,Copper,0
+Jan-11,Dissolved oxygen,0
+Jan-11,Iron,1
+Jan-11,Lead,1
+Jan-11,Magnesium,0
+Jan-11,Manganese,0
+Jan-11,Mercury,1
+Jan-11,Nickel,0
+Jan-11,Nitrates,0
+Jan-11,Nitrites,0
+Jan-11,Orthophosphate-phosphorus,1
+Jan-11,Oxygen saturation,1
+Jan-11,Petroleum hydrocarbons,0
+Jan-11,Potassium,0
+Jan-11,Sodium,0
+Jan-11,Sulphates,0
+Jan-11,Total dissolved salts,0
+Jan-11,Total nitrogen,1
+Jan-11,Total phosphorus,1
+Jan-11,Water temperature,0
+Jan-11,Zinc,0
+Feb-11,Ammonium,1
+Feb-11,Arsenic,0
+Feb-11,Bicarbonates,0
+Feb-11,Biochemical Oxygen,0
+Feb-11,Cadmium,0
+Feb-11,Chemical Oxygen Demand (Cr),1
+Feb-11,Chemical Oxygen Demand (Mn),0
+Feb-11,Chlorides,0
+Feb-11,Chromium,0
+Feb-11,Copper,0
+Feb-11,Dissolved oxygen,0
+Feb-11,Iron,1
+Feb-11,Lead,1
+Feb-11,Magnesium,0
+Feb-11,Manganese,0
+Feb-11,Mercury,1
+Feb-11,Nickel,0
+Feb-11,Nitrates,0
+Feb-11,Nitrites,0
+Feb-11,Orthophosphate-phosphorus,1
+Feb-11,Oxygen saturation,1
+Feb-11,Petroleum hydrocarbons,0
+Feb-11,Total dissolved salts,0
+Feb-11,Total nitrogen,1
+Feb-11,Total phosphorus,1
+Feb-11,Water temperature,0
+Feb-11,Zinc,0
+Mar-11,Ammonium,1
+Mar-11,Anionic active surfactants,0
+Mar-11,Arsenic,0
+Mar-11,Bicarbonates,0
+Mar-11,Biochemical Oxygen,0
+Mar-11,Cadmium,0
+Mar-11,Chemical Oxygen Demand (Cr),1
+Mar-11,Chemical Oxygen Demand (Mn),0
+Mar-11,Chlorides,0
+Mar-11,Chromium,0
+Mar-11,Copper,0
+Mar-11,Dissolved oxygen,0
+Mar-11,Lead,1
+Mar-11,Magnesium,0
+Mar-11,Mercury,1
+Mar-11,Nickel,0
+Mar-11,Nitrates,0
+Mar-11,Nitrites,0
+Mar-11,Orthophosphate-phosphorus,0
+Mar-11,Oxygen saturation,1
+Mar-11,Total dissolved salts,0
+Mar-11,Total nitrogen,1
+Mar-11,Total phosphorus,1
+Mar-11,Water temperature,0
+Mar-11,Zinc,0
+Apr-11,Ammonium,0
+Apr-11,Arsenic,0
+Apr-11,Bicarbonates,0
+Apr-11,Biochemical Oxygen,0
+Apr-11,Cadmium,0
+Apr-11,Chemical Oxygen Demand (Cr),1
+Apr-11,Chemical Oxygen Demand (Mn),0
+Apr-11,Chlorides,0
+Apr-11,Chromium,0
+Apr-11,Copper,1
+Apr-11,Dissolved oxygen,0
+Apr-11,Lead,1
+Apr-11,Magnesium,0
+Apr-11,Mercury,1
+Apr-11,Nickel,0
+Apr-11,Nitrates,0
+Apr-11,Nitrites,0
+Apr-11,Orthophosphate-phosphorus,0
+Apr-11,Oxygen saturation,1
+Apr-11,Total dissolved salts,0
+Apr-11,Total nitrogen,1
+Apr-11,Total phosphorus,1
+Apr-11,Water temperature,0
+Apr-11,Zinc,0
+May-11,Ammonium,1
+May-11,Arsenic,0
+May-11,Bicarbonates,0
+May-11,Biochemical Oxygen,0
+May-11,Cadmium,0
+May-11,Chemical Oxygen Demand (Cr),1
+May-11,Chemical Oxygen Demand (Mn),0
+May-11,Chlorides,0
+May-11,Chromium,0
+May-11,Copper,1
+May-11,Dissolved oxygen,0
+May-11,Iron,1
+May-11,Lead,1
+May-11,Magnesium,0
+May-11,Manganese,0
+May-11,Mercury,1
+May-11,Nickel,0
+May-11,Nitrates,0
+May-11,Nitrites,0
+May-11,Orthophosphate-phosphorus,0
+May-11,Oxygen saturation,1
+May-11,Total dissolved salts,0
+May-11,Total nitrogen,1
+May-11,Total phosphorus,1
+May-11,Water temperature,0
+May-11,Zinc,0
+Jun-11,Ammonium,1
+Jun-11,Arsenic,0
+Jun-11,Bicarbonates,0
+Jun-11,Biochemical Oxygen,0
+Jun-11,Cadmium,0
+Jun-11,Calcium,0
+Jun-11,Chemical Oxygen Demand (Cr),1
+Jun-11,Chemical Oxygen Demand (Mn),0
+Jun-11,Chlorides,0
+Jun-11,Chromium,0
+Jun-11,Copper,0
+Jun-11,Dissolved oxygen,0
+Jun-11,Iron,1
+Jun-11,Lead,1
+Jun-11,Magnesium,0
+Jun-11,Manganese,0
+Jun-11,Mercury,0
+Jun-11,Nickel,0
+Jun-11,Nitrates,0
+Jun-11,Nitrites,0
+Jun-11,Orthophosphate-phosphorus,0
+Jun-11,Oxygen saturation,1
+Jun-11,Potassium,0
+Jun-11,Sodium,0
+Jun-11,Total dissolved salts,0
+Jun-11,Total nitrogen,1
+Jun-11,Total phosphorus,1
+Jun-11,Water temperature,0
+Jun-11,Zinc,0
+Aug-11,Ammonium,0
+Aug-11,Arsenic,0
+Aug-11,Bicarbonates,0
+Aug-11,Biochemical Oxygen,0
+Aug-11,Cadmium,0
+Aug-11,Calcium,0
+Aug-11,Chemical Oxygen Demand (Cr),2
+Aug-11,Chemical Oxygen Demand (Mn),0
+Aug-11,Chlorides,0
+Aug-11,Chromium,0
+Aug-11,Copper,0
+Aug-11,Dissolved oxygen,0
+Aug-11,Iron,1
+Aug-11,Lead,2
+Aug-11,Magnesium,0
+Aug-11,Manganese,0
+Aug-11,Mercury,2
+Aug-11,Nickel,0
+Aug-11,Nitrates,0
+Aug-11,Nitrites,0
+Aug-11,Orthophosphate-phosphorus,1
+Aug-11,Oxygen saturation,1
+Aug-11,Potassium,0
+Aug-11,Sodium,0
+Aug-11,Sulphates,0
+Aug-11,Total dissolved salts,0
+Aug-11,Total nitrogen,2
+Aug-11,Total phosphorus,2
+Aug-11,Water temperature,0
+Aug-11,Zinc,0
+Sep-11,Ammonium,1
+Sep-11,Arsenic,0
+Sep-11,Bicarbonates,0
+Sep-11,Biochemical Oxygen,0
+Sep-11,Cadmium,0
+Sep-11,Calcium,0
+Sep-11,Chemical Oxygen Demand (Cr),1
+Sep-11,Chemical Oxygen Demand (Mn),0
+Sep-11,Chlorides,0
+Sep-11,Chromium,0
+Sep-11,Copper,0
+Sep-11,Dissolved oxygen,0
+Sep-11,Lead,1
+Sep-11,Magnesium,0
+Sep-11,Mercury,1
+Sep-11,Nickel,0
+Sep-11,Nitrates,0
+Sep-11,Nitrites,0
+Sep-11,Orthophosphate-phosphorus,0
+Sep-11,Oxygen saturation,1
+Sep-11,Potassium,0
+Sep-11,Sodium,0
+Sep-11,Total dissolved salts,0
+Sep-11,Total nitrogen,1
+Sep-11,Total phosphorus,1
+Sep-11,Water temperature,0
+Sep-11,Zinc,0
+Nov-11,Ammonium,0
+Nov-11,Arsenic,0
+Nov-11,Bicarbonates,1
+Nov-11,Biochemical Oxygen,0
+Nov-11,Cadmium,0
+Nov-11,Calcium,0
+Nov-11,Chemical Oxygen Demand (Cr),2
+Nov-11,Chemical Oxygen Demand (Mn),0
+Nov-11,Chlorides,0
+Nov-11,Chromium,0
+Nov-11,Copper,1
+Nov-11,Dissolved oxygen,0
+Nov-11,Iron,1
+Nov-11,Lead,2
+Nov-11,Magnesium,0
+Nov-11,Manganese,0
+Nov-11,Mercury,2
+Nov-11,Nickel,0
+Nov-11,Nitrates,0
+Nov-11,Nitrites,0
+Nov-11,Orthophosphate-phosphorus,2
+Nov-11,Oxygen saturation,1
+Nov-11,Total dissolved salts,0
+Nov-11,Total nitrogen,2
+Nov-11,Total phosphorus,2
+Nov-11,Water temperature,0
+Nov-11,Zinc,0
+Dec-11,Ammonium,0
+Dec-11,Arsenic,0
+Dec-11,Bicarbonates,0
+Dec-11,Biochemical Oxygen,0
+Dec-11,Cadmium,0
+Dec-11,Calcium,0
+Dec-11,Chemical Oxygen Demand (Cr),1
+Dec-11,Chemical Oxygen Demand (Mn),0
+Dec-11,Chlorides,0
+Dec-11,Chromium,0
+Dec-11,Copper,0
+Dec-11,Dissolved oxygen,0
+Dec-11,Lead,1
+Dec-11,Magnesium,0
+Dec-11,Mercury,0
+Dec-11,Nickel,0
+Dec-11,Nitrates,0
+Dec-11,Nitrites,0
+Dec-11,Orthophosphate-phosphorus,1
+Dec-11,Oxygen saturation,1
+Dec-11,Total dissolved salts,0
+Dec-11,Total nitrogen,1
+Dec-11,Total phosphorus,1
+Dec-11,Water temperature,0
+Dec-11,Zinc,0
+Feb-12,Ammonium,3
+Feb-12,Anionic active surfactants,0
+Feb-12,Arsenic,0
+Feb-12,Atrazine,0
+Feb-12,Biochemical Oxygen,0
+Feb-12,Cadmium,0
+Feb-12,Calcium,1
+Feb-12,Chemical Oxygen Demand (Cr),3
+Feb-12,Chemical Oxygen Demand (Mn),0
+Feb-12,Chlorides,0
+Feb-12,Chromium,0
+Feb-12,Copper,0
+Feb-12,Cyanides,0
+Feb-12,Dissolved oxygen,0
+Feb-12,Iron,1
+Feb-12,Lead,2
+Feb-12,Magnesium,0
+Feb-12,Manganese,0
+Feb-12,Mercury,2
+Feb-12,Nickel,0
+Feb-12,Nitrates,0
+Feb-12,Nitrites,0
+Feb-12,Orthophosphate-phosphorus,2
+Feb-12,Oxygen saturation,3
+Feb-12,Petroleum hydrocarbons,1
+Feb-12,Potassium,0
+Feb-12,Sodium,0
+Feb-12,Sulfides,0
+Feb-12,Sulphates,0
+Feb-12,Total dissolved salts,0
+Feb-12,Total nitrogen,4
+Feb-12,Total phosphorus,3
+Feb-12,Water temperature,0
+Feb-12,Zinc,0
+Feb-12,gamma-Hexachlorocyclohexane,0
+Feb-12,"p,p-DDT",0
+Mar-12,Ammonium,0
+Mar-12,Biochemical Oxygen,0
+Mar-12,Calcium,0
+Mar-12,Chemical Oxygen Demand (Cr),1
+Mar-12,Chemical Oxygen Demand (Mn),0
+Mar-12,Chlorides,0
+Mar-12,Dissolved oxygen,0
+Mar-12,Magnesium,0
+Mar-12,Nitrates,0
+Mar-12,Nitrites,0
+Mar-12,Orthophosphate-phosphorus,0
+Mar-12,Oxygen saturation,1
+Mar-12,Total dissolved salts,0
+Mar-12,Total nitrogen,2
+Mar-12,Total phosphorus,2
+Mar-12,Water temperature,0
+Apr-12,Ammonium,0
+Apr-12,Biochemical Oxygen,0
+Apr-12,Calcium,0
+Apr-12,Chemical Oxygen Demand (Cr),1
+Apr-12,Chemical Oxygen Demand (Mn),0
+Apr-12,Chlorides,0
+Apr-12,Dissolved oxygen,0
+Apr-12,Magnesium,0
+Apr-12,Nitrates,0
+Apr-12,Nitrites,0
+Apr-12,Orthophosphate-phosphorus,0
+Apr-12,Oxygen saturation,1
+Apr-12,Potassium,0
+Apr-12,Sodium,0
+Apr-12,Total dissolved salts,0
+Apr-12,Total nitrogen,2
+Apr-12,Total phosphorus,1
+Apr-12,Water temperature,0
+May-12,Ammonium,0
+May-12,Biochemical Oxygen,0
+May-12,Calcium,0
+May-12,Chemical Oxygen Demand (Cr),1
+May-12,Chemical Oxygen Demand (Mn),0
+May-12,Chlorides,0
+May-12,Dissolved oxygen,0
+May-12,Magnesium,0
+May-12,Manganese,0
+May-12,Nitrates,0
+May-12,Nitrites,0
+May-12,Orthophosphate-phosphorus,1
+May-12,Oxygen saturation,2
+May-12,Potassium,0
+May-12,Sodium,0
+May-12,Total dissolved salts,0
+May-12,Total nitrogen,2
+May-12,Total phosphorus,2
+May-12,Water temperature,0
+Jul-12,Ammonium,1
+Jul-12,Biochemical Oxygen,0
+Jul-12,Calcium,0
+Jul-12,Chemical Oxygen Demand (Cr),2
+Jul-12,Chemical Oxygen Demand (Mn),0
+Jul-12,Chlorides,0
+Jul-12,Dissolved oxygen,0
+Jul-12,Magnesium,0
+Jul-12,Nitrates,0
+Jul-12,Nitrites,0
+Jul-12,Orthophosphate-phosphorus,3
+Jul-12,Sulphates,0
+Jul-12,Total dissolved salts,0
+Jul-12,Total nitrogen,4
+Jul-12,Total phosphorus,4
+Jul-12,Water temperature,0
+Aug-12,Ammonium,0
+Aug-12,Barium,0
+Aug-12,Berilium,0
+Aug-12,Biochemical Oxygen,0
+Aug-12,Boron,0
+Aug-12,Calcium,0
+Aug-12,Chemical Oxygen Demand (Cr),1
+Aug-12,Chemical Oxygen Demand (Mn),1
+Aug-12,Chlorides,0
+Aug-12,Dissolved oxygen,0
+Aug-12,Magnesium,0
+Aug-12,Manganese,0
+Aug-12,Nitrates,0
+Aug-12,Nitrites,0
+Aug-12,Orthophosphate-phosphorus,0
+Aug-12,Potassium,0
+Aug-12,Sodium,0
+Aug-12,Sulfides,0
+Aug-12,Total dissolved salts,0
+Aug-12,Total nitrogen,1
+Aug-12,Total phosphorus,1
+Aug-12,Water temperature,0
+Oct-12,Ammonium,0
+Oct-12,Barium,0
+Oct-12,Berilium,0
+Oct-12,Biochemical Oxygen,0
+Oct-12,Boron,0
+Oct-12,Calcium,0
+Oct-12,Chemical Oxygen Demand (Cr),2
+Oct-12,Chemical Oxygen Demand (Mn),0
+Oct-12,Chlorides,0
+Oct-12,Dissolved oxygen,0
+Oct-12,Magnesium,0
+Oct-12,Manganese,0
+Oct-12,Nitrates,0
+Oct-12,Nitrites,0
+Oct-12,Orthophosphate-phosphorus,1
+Oct-12,Potassium,0
+Oct-12,Sodium,0
+Oct-12,Total dissolved salts,0
+Oct-12,Total nitrogen,4
+Oct-12,Total phosphorus,4
+Oct-12,Water temperature,0
+Nov-12,Ammonium,0
+Nov-12,Biochemical Oxygen,0
+Nov-12,Calcium,0
+Nov-12,Chemical Oxygen Demand (Cr),1
+Nov-12,Chemical Oxygen Demand (Mn),0
+Nov-12,Chlorides,0
+Nov-12,Dissolved oxygen,0
+Nov-12,Magnesium,0
+Nov-12,Nitrates,0
+Nov-12,Nitrites,0
+Nov-12,Orthophosphate-phosphorus,2
+Nov-12,Potassium,0
+Nov-12,Sodium,0
+Nov-12,Total dissolved salts,0
+Nov-12,Total nitrogen,3
+Nov-12,Total phosphorus,3
+Nov-12,Water temperature,0
+Dec-12,Ammonium,1
+Dec-12,Biochemical Oxygen,0
+Dec-12,Calcium,0
+Dec-12,Chemical Oxygen Demand (Cr),1
+Dec-12,Chemical Oxygen Demand (Mn),0
+Dec-12,Chlorides,0
+Dec-12,Dissolved oxygen,0
+Dec-12,Magnesium,0
+Dec-12,Nitrates,0
+Dec-12,Nitrites,0
+Dec-12,Orthophosphate-phosphorus,2
+Dec-12,Potassium,0
+Dec-12,Sodium,0
+Dec-12,Total dissolved salts,0
+Dec-12,Total nitrogen,2
+Dec-12,Total phosphorus,2
+Dec-12,Water temperature,0
+Jan-13,Ammonium,0
+Jan-13,Anionic active surfactants,0
+Jan-13,Biochemical Oxygen,0
+Jan-13,Calcium,0
+Jan-13,Chemical Oxygen Demand (Cr),1
+Jan-13,Chemical Oxygen Demand (Mn),0
+Jan-13,Chlorides,0
+Jan-13,Dissolved oxygen,0
+Jan-13,Dissolved silicates,0
+Jan-13,Magnesium,0
+Jan-13,Manganese,0
+Jan-13,Nitrates,0
+Jan-13,Nitrites,0
+Jan-13,Orthophosphate-phosphorus,1
+Jan-13,Potassium,0
+Jan-13,Sodium,0
+Jan-13,Sulphates,0
+Jan-13,Total dissolved salts,0
+Jan-13,Total nitrogen,1
+Jan-13,Total phosphorus,1
+Jan-13,Water temperature,0
+Feb-13,Ammonium,0
+Feb-13,Atrazine,0
+Feb-13,Biochemical Oxygen,0
+Feb-13,Calcium,0
+Feb-13,Chemical Oxygen Demand (Cr),1
+Feb-13,Chemical Oxygen Demand (Mn),0
+Feb-13,Chlorides,0
+Feb-13,Dissolved oxygen,0
+Feb-13,Dissolved silicates,0
+Feb-13,Magnesium,0
+Feb-13,Nitrates,0
+Feb-13,Nitrites,0
+Feb-13,Orthophosphate-phosphorus,3
+Feb-13,Potassium,0
+Feb-13,Sodium,0
+Feb-13,Total dissolved salts,0
+Feb-13,Total nitrogen,3
+Feb-13,Total phosphorus,3
+Feb-13,Water temperature,0
+Feb-13,gamma-Hexachlorocyclohexane,0
+Feb-13,"p,p-DDT",0
+Mar-13,Ammonium,0
+Mar-13,Atrazine,0
+Mar-13,Biochemical Oxygen,0
+Mar-13,Calcium,0
+Mar-13,Chemical Oxygen Demand (Cr),1
+Mar-13,Chemical Oxygen Demand (Mn),0
+Mar-13,Dissolved oxygen,0
+Mar-13,Dissolved silicates,0
+Mar-13,Magnesium,0
+Mar-13,Manganese,0
+Mar-13,Nitrates,0
+Mar-13,Nitrites,0
+Mar-13,Orthophosphate-phosphorus,0
+Mar-13,Potassium,0
+Mar-13,Sodium,0
+Mar-13,Total dissolved salts,0
+Mar-13,Total nitrogen,2
+Mar-13,Total phosphorus,0
+Mar-13,Water temperature,0
+Mar-13,gamma-Hexachlorocyclohexane,0
+Mar-13,"p,p-DDT",0
+Apr-13,Ammonium,1
+Apr-13,Biochemical Oxygen,0
+Apr-13,Calcium,0
+Apr-13,Chemical Oxygen Demand (Cr),1
+Apr-13,Chemical Oxygen Demand (Mn),0
+Apr-13,Chlorides,0
+Apr-13,Dissolved oxygen,0
+Apr-13,Dissolved silicates,0
+Apr-13,Magnesium,0
+Apr-13,Nitrates,0
+Apr-13,Nitrites,0
+Apr-13,Orthophosphate-phosphorus,0
+Apr-13,Total dissolved salts,0
+Apr-13,Total nitrogen,2
+Apr-13,Total phosphorus,2
+Apr-13,Water temperature,0
+May-13,Ammonium,0
+May-13,Anionic active surfactants,0
+May-13,Biochemical Oxygen,0
+May-13,Calcium,0
+May-13,Chemical Oxygen Demand (Cr),1
+May-13,Chemical Oxygen Demand (Mn),0
+May-13,Dissolved oxygen,0
+May-13,Dissolved silicates,0
+May-13,Magnesium,0
+May-13,Nitrates,0
+May-13,Nitrites,0
+May-13,Orthophosphate-phosphorus,1
+May-13,Total dissolved salts,0
+May-13,Total nitrogen,1
+May-13,Total phosphorus,1
+May-13,Water temperature,0
+Jun-13,Ammonium,1
+Jun-13,Anionic active surfactants,0
+Jun-13,Biochemical Oxygen,0
+Jun-13,Calcium,0
+Jun-13,Chemical Oxygen Demand (Cr),1
+Jun-13,Chemical Oxygen Demand (Mn),0
+Jun-13,Chlorides,0
+Jun-13,Dissolved oxygen,0
+Jun-13,Dissolved silicates,0
+Jun-13,Magnesium,0
+Jun-13,Nitrates,0
+Jun-13,Nitrites,0
+Jun-13,Orthophosphate-phosphorus,3
+Jun-13,Sulphates,0
+Jun-13,Total dissolved salts,0
+Jun-13,Total nitrogen,3
+Jun-13,Total phosphorus,3
+Jun-13,Water temperature,0
+Jul-13,Ammonium,1
+Jul-13,Anionic active surfactants,0
+Jul-13,Biochemical Oxygen,0
+Jul-13,Calcium,0
+Jul-13,Chemical Oxygen Demand (Cr),2
+Jul-13,Chemical Oxygen Demand (Mn),0
+Jul-13,Chlorides,0
+Jul-13,Dissolved oxygen,0
+Jul-13,Dissolved silicates,0
+Jul-13,Magnesium,0
+Jul-13,Nitrates,0
+Jul-13,Nitrites,0
+Jul-13,Orthophosphate-phosphorus,2
+Jul-13,Sulphates,0
+Jul-13,Total dissolved salts,0
+Jul-13,Total nitrogen,2
+Jul-13,Total phosphorus,2
+Jul-13,Water temperature,0
+Aug-13,Ammonium,0
+Aug-13,Anionic active surfactants,0
+Aug-13,Atrazine,0
+Aug-13,Biochemical Oxygen,0
+Aug-13,Calcium,0
+Aug-13,Chemical Oxygen Demand (Cr),1
+Aug-13,Chemical Oxygen Demand (Mn),0
+Aug-13,Chlorides,0
+Aug-13,Dissolved oxygen,0
+Aug-13,Dissolved silicates,0
+Aug-13,Magnesium,0
+Aug-13,Nitrates,0
+Aug-13,Nitrites,0
+Aug-13,Orthophosphate-phosphorus,1
+Aug-13,Potassium,0
+Aug-13,Sodium,0
+Aug-13,Sulphates,0
+Aug-13,Total dissolved salts,0
+Aug-13,Total nitrogen,2
+Aug-13,Total phosphorus,2
+Aug-13,Water temperature,0
+Aug-13,gamma-Hexachlorocyclohexane,0
+Aug-13,"p,p-DDT",0
+Sep-13,Ammonium,0
+Sep-13,Anionic active surfactants,0
+Sep-13,Atrazine,0
+Sep-13,Biochemical Oxygen,0
+Sep-13,Calcium,0
+Sep-13,Chemical Oxygen Demand (Cr),1
+Sep-13,Chemical Oxygen Demand (Mn),0
+Sep-13,Chlorides,0
+Sep-13,Dissolved oxygen,0
+Sep-13,Dissolved silicates,0
+Sep-13,Magnesium,0
+Sep-13,Nitrates,0
+Sep-13,Nitrites,0
+Sep-13,Orthophosphate-phosphorus,0
+Sep-13,Sulphates,0
+Sep-13,Total dissolved salts,0
+Sep-13,Total nitrogen,2
+Sep-13,Total phosphorus,2
+Sep-13,Water temperature,0
+Sep-13,gamma-Hexachlorocyclohexane,0
+Sep-13,"p,p-DDT",0
+Oct-13,Ammonium,0
+Oct-13,Anionic active surfactants,0
+Oct-13,Biochemical Oxygen,0
+Oct-13,Calcium,0
+Oct-13,Chemical Oxygen Demand (Cr),1
+Oct-13,Chemical Oxygen Demand (Mn),0
+Oct-13,Chlorides,0
+Oct-13,Dissolved oxygen,0
+Oct-13,Dissolved silicates,0
+Oct-13,Magnesium,0
+Oct-13,Nitrates,0
+Oct-13,Nitrites,0
+Oct-13,Orthophosphate-phosphorus,1
+Oct-13,Potassium,0
+Oct-13,Sodium,0
+Oct-13,Sulphates,0
+Oct-13,Total dissolved salts,0
+Oct-13,Total nitrogen,1
+Oct-13,Total phosphorus,1
+Oct-13,Water temperature,0
+Nov-13,Ammonium,0
+Nov-13,Anionic active surfactants,0
+Nov-13,Atrazine,0
+Nov-13,Biochemical Oxygen,0
+Nov-13,Calcium,0
+Nov-13,Chemical Oxygen Demand (Cr),1
+Nov-13,Chemical Oxygen Demand (Mn),0
+Nov-13,Chlorides,0
+Nov-13,Dissolved oxygen,0
+Nov-13,Dissolved silicates,0
+Nov-13,Magnesium,0
+Nov-13,Nitrates,0
+Nov-13,Nitrites,0
+Nov-13,Orthophosphate-phosphorus,4
+Nov-13,Sulphates,0
+Nov-13,Total dissolved salts,0
+Nov-13,Total nitrogen,4
+Nov-13,Total phosphorus,4
+Nov-13,Water temperature,0
+Nov-13,gamma-Hexachlorocyclohexane,0
+Nov-13,"p,p-DDT",0
+Dec-13,Ammonium,2
+Dec-13,Anionic active surfactants,0
+Dec-13,Atrazine,0
+Dec-13,Biochemical Oxygen,0
+Dec-13,Calcium,0
+Dec-13,Chemical Oxygen Demand (Cr),1
+Dec-13,Chemical Oxygen Demand (Mn),0
+Dec-13,Chlorides,0
+Dec-13,Dissolved oxygen,0
+Dec-13,Dissolved silicates,0
+Dec-13,Magnesium,0
+Dec-13,Nitrates,0
+Dec-13,Nitrites,0
+Dec-13,Orthophosphate-phosphorus,1
+Dec-13,Sulphates,0
+Dec-13,Total dissolved salts,0
+Dec-13,Total nitrogen,3
+Dec-13,Total phosphorus,3
+Dec-13,Water temperature,0
+Dec-13,gamma-Hexachlorocyclohexane,0
+Dec-13,"p,p-DDT",0
+Jan-14,Ammonium,0
+Jan-14,Anionic active surfactants,0
+Jan-14,Atrazine,0
+Jan-14,Biochemical Oxygen,0
+Jan-14,Calcium,0
+Jan-14,Chemical Oxygen Demand (Cr),1
+Jan-14,Chemical Oxygen Demand (Mn),0
+Jan-14,Chlorides,0
+Jan-14,Dissolved oxygen,0
+Jan-14,Magnesium,0
+Jan-14,Nitrates,0
+Jan-14,Nitrites,0
+Jan-14,Orthophosphate-phosphorus,1
+Jan-14,Sulphates,0
+Jan-14,Total dissolved salts,0
+Jan-14,Total hardness,0
+Jan-14,Total nitrogen,1
+Jan-14,Total phosphorus,1
+Jan-14,Water temperature,0
+Jan-14,gamma-Hexachlorocyclohexane,0
+Jan-14,"p,p-DDT",0
+Feb-14,AGOC-3A,0
+Feb-14,Chlorodinine,0
+Feb-14,Methylosmoline,0
+Mar-14,Ammonium,3
+Mar-14,Anionic active surfactants,0
+Mar-14,Atrazine,0
+Mar-14,Biochemical Oxygen,0
+Mar-14,Calcium,0
+Mar-14,Chemical Oxygen Demand (Cr),2
+Mar-14,Chemical Oxygen Demand (Mn),0
+Mar-14,Chlorides,0
+Mar-14,Dissolved oxygen,0
+Mar-14,Dissolved silicates,0
+Mar-14,Magnesium,0
+Mar-14,Nitrates,0
+Mar-14,Nitrites,0
+Mar-14,Orthophosphate-phosphorus,3
+Mar-14,Sulphates,0
+Mar-14,Total dissolved salts,0
+Mar-14,Total hardness,0
+Mar-14,Total nitrogen,3
+Mar-14,Total phosphorus,3
+Mar-14,Water temperature,0
+Mar-14,gamma-Hexachlorocyclohexane,0
+Mar-14,"p,p-DDT",0
+Apr-14,Ammonium,0
+Apr-14,Anionic active surfactants,0
+Apr-14,Atrazine,0
+Apr-14,Biochemical Oxygen,0
+Apr-14,Calcium,0
+Apr-14,Chemical Oxygen Demand (Cr),1
+Apr-14,Chlorides,0
+Apr-14,Dissolved oxygen,0
+Apr-14,Dissolved silicates,0
+Apr-14,Magnesium,0
+Apr-14,Nitrates,0
+Apr-14,Nitrites,0
+Apr-14,Orthophosphate-phosphorus,1
+Apr-14,Potassium,0
+Apr-14,Sodium,0
+Apr-14,Sulphates,0
+Apr-14,Total dissolved salts,0
+Apr-14,Total hardness,0
+Apr-14,Total nitrogen,2
+Apr-14,Total phosphorus,2
+Apr-14,Water temperature,0
+Apr-14,gamma-Hexachlorocyclohexane,0
+Apr-14,"p,p-DDT",0
+May-14,AGOC-3A,0
+May-14,Ammonium,3
+May-14,Anionic active surfactants,0
+May-14,Atrazine,0
+May-14,Biochemical Oxygen,0
+May-14,Calcium,0
+May-14,Chemical Oxygen Demand (Cr),1
+May-14,Chemical Oxygen Demand (Mn),0
+May-14,Chlorides,0
+May-14,Chlorodinine,0
+May-14,Dissolved oxygen,0
+May-14,Dissolved silicates,0
+May-14,Magnesium,0
+May-14,Methylosmoline,0
+May-14,Nitrates,0
+May-14,Nitrites,0
+May-14,Orthophosphate-phosphorus,3
+May-14,Potassium,0
+May-14,Sodium,0
+May-14,Sulphates,0
+May-14,Total dissolved salts,0
+May-14,Total hardness,0
+May-14,Total nitrogen,3
+May-14,Total phosphorus,3
+May-14,Water temperature,0
+May-14,gamma-Hexachlorocyclohexane,0
+May-14,"p,p-DDT",0
+Jun-14,AGOC-3A,0
+Jun-14,Ammonium,2
+Jun-14,Atrazine,0
+Jun-14,Biochemical Oxygen,0
+Jun-14,Calcium,0
+Jun-14,Chemical Oxygen Demand (Cr),1
+Jun-14,Chemical Oxygen Demand (Mn),0
+Jun-14,Chlorides,0
+Jun-14,Chlorodinine,0
+Jun-14,Dissolved oxygen,0
+Jun-14,Dissolved silicates,0
+Jun-14,Magnesium,0
+Jun-14,Methylosmoline,0
+Jun-14,Nitrates,0
+Jun-14,Nitrites,0
+Jun-14,Orthophosphate-phosphorus,2
+Jun-14,Potassium,0
+Jun-14,Sodium,0
+Jun-14,Sulphates,0
+Jun-14,Total dissolved salts,0
+Jun-14,Total hardness,0
+Jun-14,Total nitrogen,2
+Jun-14,Total phosphorus,2
+Jun-14,Water temperature,0
+Jun-14,gamma-Hexachlorocyclohexane,0
+Jun-14,"p,p-DDT",0
+Jul-14,AGOC-3A,0
+Jul-14,Ammonium,0
+Jul-14,Arsenic,0
+Jul-14,Biochemical Oxygen,0
+Jul-14,Cadmium,0
+Jul-14,Calcium,0
+Jul-14,Chemical Oxygen Demand (Cr),1
+Jul-14,Chemical Oxygen Demand (Mn),0
+Jul-14,Chlorides,0
+Jul-14,Chlorodinine,0
+Jul-14,Chromium,0
+Jul-14,Copper,0
+Jul-14,Dissolved oxygen,0
+Jul-14,Dissolved silicates,0
+Jul-14,Lead,1
+Jul-14,Magnesium,0
+Jul-14,Mercury,0
+Jul-14,Methylosmoline,0
+Jul-14,Nickel,0
+Jul-14,Nitrates,0
+Jul-14,Nitrites,0
+Jul-14,Orthophosphate-phosphorus,1
+Jul-14,Total dissolved salts,0
+Jul-14,Total hardness,0
+Jul-14,Total nitrogen,1
+Jul-14,Total phosphorus,1
+Jul-14,Water temperature,0
+Jul-14,Zinc,0
+Aug-14,AGOC-3A,0
+Aug-14,Ammonium,1
+Aug-14,Atrazine,0
+Aug-14,Biochemical Oxygen,0
+Aug-14,Calcium,0
+Aug-14,Chemical Oxygen Demand (Cr),1
+Aug-14,Chemical Oxygen Demand (Mn),0
+Aug-14,Chlorides,0
+Aug-14,Chlorodinine,0
+Aug-14,Dissolved oxygen,0
+Aug-14,Dissolved silicates,0
+Aug-14,Magnesium,0
+Aug-14,Methylosmoline,0
+Aug-14,Nitrates,0
+Aug-14,Nitrites,0
+Aug-14,Orthophosphate-phosphorus,2
+Aug-14,Total dissolved salts,0
+Aug-14,Total hardness,0
+Aug-14,Total nitrogen,3
+Aug-14,Total phosphorus,3
+Aug-14,Water temperature,0
+Aug-14,gamma-Hexachlorocyclohexane,0
+Aug-14,"p,p-DDT",0
+Sep-14,AGOC-3A,0
+Sep-14,Ammonium,1
+Sep-14,Arsenic,0
+Sep-14,Atrazine,0
+Sep-14,Biochemical Oxygen,0
+Sep-14,Cadmium,0
+Sep-14,Calcium,0
+Sep-14,Chemical Oxygen Demand (Cr),1
+Sep-14,Chemical Oxygen Demand (Mn),0
+Sep-14,Chlorides,0
+Sep-14,Chlorodinine,0
+Sep-14,Chromium,0
+Sep-14,Copper,0
+Sep-14,Dissolved oxygen,0
+Sep-14,Dissolved silicates,0
+Sep-14,Iron,1
+Sep-14,Lead,1
+Sep-14,Magnesium,0
+Sep-14,Methylosmoline,0
+Sep-14,Nickel,0
+Sep-14,Nitrates,0
+Sep-14,Nitrites,0
+Sep-14,Orthophosphate-phosphorus,3
+Sep-14,Potassium,0
+Sep-14,Sodium,0
+Sep-14,Total dissolved salts,0
+Sep-14,Total hardness,0
+Sep-14,Total nitrogen,3
+Sep-14,Total phosphorus,3
+Sep-14,Water temperature,0
+Sep-14,Zinc,0
+Sep-14,gamma-Hexachlorocyclohexane,0
+Sep-14,"p,p-DDT",0
+Oct-14,AGOC-3A,0
+Oct-14,Ammonium,0
+Oct-14,Arsenic,0
+Oct-14,Atrazine,0
+Oct-14,Biochemical Oxygen,0
+Oct-14,Cadmium,0
+Oct-14,Calcium,0
+Oct-14,Chemical Oxygen Demand (Cr),1
+Oct-14,Chemical Oxygen Demand (Mn),0
+Oct-14,Chlorides,0
+Oct-14,Chlorodinine,0
+Oct-14,Chromium,0
+Oct-14,Copper,0
+Oct-14,Dissolved oxygen,0
+Oct-14,Iron,0
+Oct-14,Lead,1
+Oct-14,Magnesium,0
+Oct-14,Methylosmoline,0
+Oct-14,Nickel,0
+Oct-14,Nitrates,0
+Oct-14,Nitrites,0
+Oct-14,Orthophosphate-phosphorus,2
+Oct-14,Potassium,0
+Oct-14,Silica (SiO2),0
+Oct-14,Sodium,0
+Oct-14,Total dissolved salts,0
+Oct-14,Total hardness,0
+Oct-14,Total phosphorus,2
+Oct-14,Water temperature,0
+Oct-14,Zinc,0
+Oct-14,gamma-Hexachlorocyclohexane,0
+Oct-14,"p,p-DDT",0
+Nov-14,AGOC-3A,0
+Nov-14,Ammonium,0
+Nov-14,Arsenic,0
+Nov-14,Atrazine,0
+Nov-14,Biochemical Oxygen,0
+Nov-14,Cadmium,0
+Nov-14,Calcium,0
+Nov-14,Chemical Oxygen Demand (Cr),1
+Nov-14,Chemical Oxygen Demand (Mn),0
+Nov-14,Chlorides,0
+Nov-14,Chlorodinine,0
+Nov-14,Chromium,0
+Nov-14,Copper,0
+Nov-14,Dissolved oxygen,0
+Nov-14,Dissolved silicates,0
+Nov-14,Lead,1
+Nov-14,Magnesium,0
+Nov-14,Methylosmoline,0
+Nov-14,Nickel,0
+Nov-14,Nitrates,0
+Nov-14,Nitrites,0
+Nov-14,Orthophosphate-phosphorus,3
+Nov-14,Total dissolved salts,0
+Nov-14,Total hardness,0
+Nov-14,Total nitrogen,3
+Nov-14,Total phosphorus,3
+Nov-14,Water temperature,0
+Nov-14,Zinc,0
+Nov-14,gamma-Hexachlorocyclohexane,0
+Nov-14,"p,p-DDT",0
+Dec-14,AGOC-3A,0
+Dec-14,Ammonium,0
+Dec-14,Arsenic,0
+Dec-14,Atrazine,0
+Dec-14,Biochemical Oxygen,0
+Dec-14,Cadmium,0
+Dec-14,Calcium,1
+Dec-14,Chemical Oxygen Demand (Cr),1
+Dec-14,Chemical Oxygen Demand (Mn),0
+Dec-14,Chlorides,0
+Dec-14,Chlorodinine,0
+Dec-14,Chromium,0
+Dec-14,Copper,0
+Dec-14,Dissolved oxygen,0
+Dec-14,Dissolved silicates,0
+Dec-14,Lead,1
+Dec-14,Magnesium,0
+Dec-14,Mercury,0
+Dec-14,Methylosmoline,0
+Dec-14,Nickel,0
+Dec-14,Nitrates,0
+Dec-14,Nitrites,0
+Dec-14,Orthophosphate-phosphorus,3
+Dec-14,Total dissolved salts,0
+Dec-14,Total hardness,0
+Dec-14,Total nitrogen,3
+Dec-14,Total phosphorus,3
+Dec-14,Water temperature,0
+Dec-14,Zinc,0
+Dec-14,gamma-Hexachlorocyclohexane,0
+Dec-14,"p,p-DDT",0
+Jan-15,AGOC-3A,0
+Jan-15,Ammonium,0
+Jan-15,Anionic active surfactants,0
+Jan-15,Atrazine,0
+Jan-15,Biochemical Oxygen,0
+Jan-15,Calcium,0
+Jan-15,Chemical Oxygen Demand (Cr),1
+Jan-15,Chemical Oxygen Demand (Mn),0
+Jan-15,Chlorides,0
+Jan-15,Chlorodinine,0
+Jan-15,Dissolved oxygen,0
+Jan-15,Magnesium,0
+Jan-15,Manganese,0
+Jan-15,Mercury,1
+Jan-15,Methylosmoline,0
+Jan-15,Nitrates,0
+Jan-15,Nitrites,0
+Jan-15,Orthophosphate-phosphorus,2
+Jan-15,Sulphates,0
+Jan-15,Total dissolved phosphorus,2
+Jan-15,Total dissolved salts,0
+Jan-15,Total hardness,0
+Jan-15,Total nitrogen,2
+Jan-15,Total phosphorus,2
+Jan-15,Water temperature,0
+Jan-15,gamma-Hexachlorocyclohexane,0
+Jan-15,"p,p-DDT",0
+Feb-15,AGOC-3A,0
+Feb-15,Ammonium,1
+Feb-15,Anionic active surfactants,0
+Feb-15,Biochemical Oxygen,0
+Feb-15,Calcium,0
+Feb-15,Chemical Oxygen Demand (Mn),0
+Feb-15,Chlorides,0
+Feb-15,Chlorodinine,0
+Feb-15,Dissolved oxygen,0
+Feb-15,Iron,0
+Feb-15,Magnesium,0
+Feb-15,Manganese,0
+Feb-15,Methylosmoline,0
+Feb-15,Nitrates,0
+Feb-15,Nitrites,0
+Feb-15,Orthophosphate-phosphorus,2
+Feb-15,Petroleum hydrocarbons,1
+Feb-15,Sulphates,0
+Feb-15,Total dissolved phosphorus,2
+Feb-15,Total dissolved salts,0
+Feb-15,Total hardness,0
+Feb-15,Total nitrogen,2
+Feb-15,Total phosphorus,2
+Feb-15,Water temperature,0
+Mar-15,AGOC-3A,0
+Mar-15,Ammonium,0
+Mar-15,Anionic active surfactants,0
+Mar-15,Atrazine,0
+Mar-15,Biochemical Oxygen,0
+Mar-15,Calcium,1
+Mar-15,Chemical Oxygen Demand (Cr),1
+Mar-15,Chemical Oxygen Demand (Mn),0
+Mar-15,Chlorodinine,0
+Mar-15,Dissolved oxygen,0
+Mar-15,Iron,1
+Mar-15,Magnesium,0
+Mar-15,Manganese,0
+Mar-15,Methylosmoline,0
+Mar-15,Nitrates,0
+Mar-15,Nitrites,0
+Mar-15,Orthophosphate-phosphorus,2
+Mar-15,Total dissolved phosphorus,2
+Mar-15,Total dissolved salts,0
+Mar-15,Total hardness,1
+Mar-15,Total nitrogen,2
+Mar-15,Total phosphorus,2
+Mar-15,Water temperature,0
+Mar-15,gamma-Hexachlorocyclohexane,0
+Mar-15,"p,p-DDT",0
+Apr-15,AGOC-3A,0
+Apr-15,Ammonium,0
+Apr-15,Atrazine,0
+Apr-15,Biochemical Oxygen,0
+Apr-15,Calcium,0
+Apr-15,Chemical Oxygen Demand (Cr),1
+Apr-15,Chemical Oxygen Demand (Mn),0
+Apr-15,Chlorodinine,0
+Apr-15,Dissolved oxygen,0
+Apr-15,Iron,0
+Apr-15,Magnesium,0
+Apr-15,Methylosmoline,0
+Apr-15,Nitrates,0
+Apr-15,Nitrites,0
+Apr-15,Orthophosphate-phosphorus,1
+Apr-15,Total dissolved phosphorus,2
+Apr-15,Total dissolved salts,0
+Apr-15,Total hardness,0
+Apr-15,Total nitrogen,2
+Apr-15,Total phosphorus,2
+Apr-15,Water temperature,0
+Apr-15,gamma-Hexachlorocyclohexane,0
+Apr-15,"p,p-DDT",0
+May-15,AGOC-3A,0
+May-15,Ammonium,0
+May-15,Atrazine,0
+May-15,Biochemical Oxygen,0
+May-15,Calcium,0
+May-15,Chemical Oxygen Demand (Cr),1
+May-15,Chlorides,0
+May-15,Chlorodinine,0
+May-15,Dissolved oxygen,0
+May-15,Iron,0
+May-15,Magnesium,0
+May-15,Manganese,0
+May-15,Methylosmoline,0
+May-15,Nitrates,0
+May-15,Nitrites,0
+May-15,Orthophosphate-phosphorus,2
+May-15,Potassium,0
+May-15,Sodium,0
+May-15,Total dissolved phosphorus,2
+May-15,Total dissolved salts,0
+May-15,Total hardness,0
+May-15,Total nitrogen,2
+May-15,Total phosphorus,2
+May-15,Water temperature,0
+May-15,gamma-Hexachlorocyclohexane,0
+May-15,"p,p-DDT",0
+Jun-15,AGOC-3A,0
+Jun-15,Ammonium,0
+Jun-15,Atrazine,0
+Jun-15,Biochemical Oxygen,0
+Jun-15,Calcium,0
+Jun-15,Chemical Oxygen Demand (Cr),1
+Jun-15,Chlorides,0
+Jun-15,Chlorodinine,0
+Jun-15,Dissolved oxygen,0
+Jun-15,Iron,0
+Jun-15,Magnesium,0
+Jun-15,Manganese,0
+Jun-15,Methylosmoline,0
+Jun-15,Nitrates,0
+Jun-15,Nitrites,0
+Jun-15,Orthophosphate-phosphorus,2
+Jun-15,Total dissolved phosphorus,2
+Jun-15,Total dissolved salts,0
+Jun-15,Total hardness,0
+Jun-15,Total nitrogen,2
+Jun-15,Total phosphorus,2
+Jun-15,Water temperature,0
+Jun-15,gamma-Hexachlorocyclohexane,0
+Jun-15,"p,p-DDT",0
+Jul-15,Ammonium,1
+Jul-15,Atrazine,0
+Jul-15,Biochemical Oxygen,0
+Jul-15,Calcium,0
+Jul-15,Chemical Oxygen Demand (Cr),1
+Jul-15,Chemical Oxygen Demand (Mn),0
+Jul-15,Chlorides,0
+Jul-15,Dissolved oxygen,0
+Jul-15,Magnesium,0
+Jul-15,Nitrates,0
+Jul-15,Nitrites,0
+Jul-15,Orthophosphate-phosphorus,2
+Jul-15,Total dissolved phosphorus,2
+Jul-15,Total dissolved salts,0
+Jul-15,Total hardness,0
+Jul-15,Total nitrogen,2
+Jul-15,Total phosphorus,2
+Jul-15,Water temperature,0
+Jul-15,gamma-Hexachlorocyclohexane,0
+Jul-15,"p,p-DDT",0
+Aug-15,AGOC-3A,0
+Aug-15,Ammonium,0
+Aug-15,Biochemical Oxygen,0
+Aug-15,Calcium,0
+Aug-15,Chemical Oxygen Demand (Cr),1
+Aug-15,Chemical Oxygen Demand (Mn),0
+Aug-15,Chlorides,0
+Aug-15,Chlorodinine,0
+Aug-15,Dissolved oxygen,0
+Aug-15,Magnesium,0
+Aug-15,Methylosmoline,0
+Aug-15,Nitrates,0
+Aug-15,Nitrites,0
+Aug-15,Orthophosphate-phosphorus,2
+Aug-15,Total dissolved phosphorus,3
+Aug-15,Total dissolved salts,0
+Aug-15,Total hardness,0
+Aug-15,Total nitrogen,3
+Aug-15,Total phosphorus,3
+Aug-15,Water temperature,0
+Sep-15,AGOC-3A,0
+Sep-15,Ammonium,0
+Sep-15,Anionic active surfactants,0
+Sep-15,Atrazine,0
+Sep-15,Biochemical Oxygen,0
+Sep-15,Calcium,0
+Sep-15,Chemical Oxygen Demand (Cr),2
+Sep-15,Chemical Oxygen Demand (Mn),0
+Sep-15,Chlorides,0
+Sep-15,Chlorodinine,0
+Sep-15,Dissolved oxygen,0
+Sep-15,Iron,1
+Sep-15,Magnesium,0
+Sep-15,Manganese,0
+Sep-15,Methylosmoline,0
+Sep-15,Nitrates,0
+Sep-15,Nitrites,0
+Sep-15,Orthophosphate-phosphorus,2
+Sep-15,Petroleum hydrocarbons,1
+Sep-15,Sulphates,0
+Sep-15,Total dissolved phosphorus,2
+Sep-15,Total dissolved salts,0
+Sep-15,Total hardness,0
+Sep-15,Total nitrogen,2
+Sep-15,Total phosphorus,2
+Sep-15,Water temperature,0
+Sep-15,gamma-Hexachlorocyclohexane,0
+Sep-15,"p,p-DDT",0
+Oct-15,AGOC-3A,0
+Oct-15,Ammonium,1
+Oct-15,Atrazine,0
+Oct-15,Biochemical Oxygen,0
+Oct-15,Calcium,0
+Oct-15,Chemical Oxygen Demand (Cr),1
+Oct-15,Chemical Oxygen Demand (Mn),0
+Oct-15,Chlorides,0
+Oct-15,Chlorodinine,0
+Oct-15,Dissolved oxygen,0
+Oct-15,Iron,0
+Oct-15,Magnesium,0
+Oct-15,Methylosmoline,0
+Oct-15,Nitrates,0
+Oct-15,Nitrites,0
+Oct-15,Orthophosphate-phosphorus,2
+Oct-15,Total dissolved phosphorus,2
+Oct-15,Total dissolved salts,0
+Oct-15,Total nitrogen,2
+Oct-15,Total phosphorus,2
+Oct-15,Water temperature,0
+Oct-15,gamma-Hexachlorocyclohexane,0
+Nov-15,Ammonium,0
+Nov-15,Atrazine,0
+Nov-15,Biochemical Oxygen,0
+Nov-15,Calcium,0
+Nov-15,Chemical Oxygen Demand (Cr),1
+Nov-15,Chemical Oxygen Demand (Mn),0
+Nov-15,Chlorides,0
+Nov-15,Dissolved oxygen,0
+Nov-15,Magnesium,0
+Nov-15,Nitrates,0
+Nov-15,Nitrites,0
+Nov-15,Orthophosphate-phosphorus,1
+Nov-15,Potassium,0
+Nov-15,Sodium,0
+Nov-15,Total dissolved phosphorus,2
+Nov-15,Total dissolved salts,0
+Nov-15,Total hardness,0
+Nov-15,Total nitrogen,3
+Nov-15,Total phosphorus,3
+Nov-15,Water temperature,0
+Nov-15,gamma-Hexachlorocyclohexane,0
+Dec-15,Ammonium,0
+Dec-15,Atrazine,0
+Dec-15,Biochemical Oxygen,0
+Dec-15,Calcium,0
+Dec-15,Chemical Oxygen Demand (Cr),1
+Dec-15,Chemical Oxygen Demand (Mn),0
+Dec-15,Chlorides,0
+Dec-15,Dissolved oxygen,0
+Dec-15,Magnesium,0
+Dec-15,Nitrates,0
+Dec-15,Nitrites,0
+Dec-15,Orthophosphate-phosphorus,1
+Dec-15,Total dissolved phosphorus,2
+Dec-15,Total dissolved salts,0
+Dec-15,Total hardness,0
+Dec-15,Total nitrogen,2
+Dec-15,Total phosphorus,2
+Dec-15,Water temperature,0
+Dec-15,gamma-Hexachlorocyclohexane,0
+Dec-15,"p,p-DDT",0
+Jan-16,AGOC-3A,0
+Jan-16,Ammonium,0
+Jan-16,Anionic active surfactants,0
+Jan-16,Atrazine,0
+Jan-16,Biochemical Oxygen,0
+Jan-16,Calcium,0
+Jan-16,Chemical Oxygen Demand (Cr),1
+Jan-16,Chlorides,0
+Jan-16,Chlorodinine,0
+Jan-16,Dissolved oxygen,0
+Jan-16,Magnesium,0
+Jan-16,Methylosmoline,0
+Jan-16,Nitrates,0
+Jan-16,Nitrites,0
+Jan-16,Orthophosphate-phosphorus,0
+Jan-16,Sulphates,0
+Jan-16,Total dissolved salts,1
+Jan-16,Total hardness,1
+Jan-16,Total nitrogen,1
+Jan-16,Total phosphorus,1
+Jan-16,Water temperature,0
+Jan-16,gamma-Hexachlorocyclohexane,0
+Jan-16,"p,p-DDT",0
+Feb-16,AGOC-3A,0
+Feb-16,Ammonium,1
+Feb-16,Anionic active surfactants,0
+Feb-16,Atrazine,0
+Feb-16,Biochemical Oxygen,0
+Feb-16,Cadmium,0
+Feb-16,Calcium,0
+Feb-16,Chemical Oxygen Demand (Cr),2
+Feb-16,Chlorides,0
+Feb-16,Chlorodinine,0
+Feb-16,Dissolved oxygen,0
+Feb-16,Lead,2
+Feb-16,Magnesium,0
+Feb-16,Mercury,0
+Feb-16,Methylosmoline,0
+Feb-16,Nickel,0
+Feb-16,Nitrates,0
+Feb-16,Nitrites,0
+Feb-16,Orthophosphate-phosphorus,3
+Feb-16,Sulphates,0
+Feb-16,Total dissolved phosphorus,3
+Feb-16,Total dissolved salts,0
+Feb-16,Total hardness,0
+Feb-16,Total nitrogen,3
+Feb-16,Total phosphorus,2
+Feb-16,Water temperature,0
+Feb-16,gamma-Hexachlorocyclohexane,0
+Feb-16,"p,p-DDT",0
+Mar-16,AGOC-3A,0
+Mar-16,Ammonium,0
+Mar-16,Atrazine,0
+Mar-16,Biochemical Oxygen,0
+Mar-16,Cadmium,1
+Mar-16,Calcium,0
+Mar-16,Chemical Oxygen Demand (Cr),1
+Mar-16,Chlorides,0
+Mar-16,Chlorodinine,0
+Mar-16,Dissolved oxygen,0
+Mar-16,Lead,1
+Mar-16,Magnesium,0
+Mar-16,Methylosmoline,0
+Mar-16,Nickel,0
+Mar-16,Nitrates,0
+Mar-16,Nitrites,0
+Mar-16,Orthophosphate-phosphorus,0
+Mar-16,Total dissolved phosphorus,1
+Mar-16,Total dissolved salts,1
+Mar-16,Total hardness,0
+Mar-16,Total nitrogen,2
+Mar-16,Total phosphorus,2
+Mar-16,Water temperature,0
+Mar-16,gamma-Hexachlorocyclohexane,0
+Mar-16,"p,p-DDT",0
+Apr-16,AGOC-3A,0
+Apr-16,Ammonium,0
+Apr-16,Anionic active surfactants,0
+Apr-16,Arsenic,0
+Apr-16,Atrazine,0
+Apr-16,Biochemical Oxygen,0
+Apr-16,Cadmium,0
+Apr-16,Calcium,0
+Apr-16,Chemical Oxygen Demand (Cr),1
+Apr-16,Chlorides,0
+Apr-16,Chlorodinine,0
+Apr-16,Dissolved oxygen,0
+Apr-16,Lead,1
+Apr-16,Magnesium,0
+Apr-16,Mercury,1
+Apr-16,Methylosmoline,0
+Apr-16,Nickel,0
+Apr-16,Nitrates,0
+Apr-16,Nitrites,0
+Apr-16,Orthophosphate-phosphorus,2
+Apr-16,Petroleum hydrocarbons,1
+Apr-16,Sulphates,0
+Apr-16,Total dissolved phosphorus,2
+Apr-16,Total dissolved salts,1
+Apr-16,Total hardness,1
+Apr-16,Total nitrogen,2
+Apr-16,Total phosphorus,2
+Apr-16,Water temperature,0
+Apr-16,gamma-Hexachlorocyclohexane,0
+Apr-16,"p,p-DDT",0
+May-16,AGOC-3A,0
+May-16,Ammonium,0
+May-16,Atrazine,0
+May-16,Biochemical Oxygen,0
+May-16,Cadmium,0
+May-16,Calcium,0
+May-16,Chemical Oxygen Demand (Cr),1
+May-16,Chlorides,0
+May-16,Chlorodinine,0
+May-16,Dissolved oxygen,0
+May-16,Lead,1
+May-16,Magnesium,0
+May-16,Mercury,0
+May-16,Methylosmoline,0
+May-16,Nickel,0
+May-16,Nitrates,0
+May-16,Nitrites,0
+May-16,Orthophosphate-phosphorus,2
+May-16,Total dissolved phosphorus,2
+May-16,Total dissolved salts,0
+May-16,Total hardness,0
+May-16,Total nitrogen,2
+May-16,Total phosphorus,2
+May-16,Water temperature,0
+May-16,gamma-Hexachlorocyclohexane,0
+May-16,"p,p-DDT",0
+Jun-16,AGOC-3A,0
+Jun-16,Ammonium,0
+Jun-16,Atrazine,0
+Jun-16,Biochemical Oxygen,0
+Jun-16,Cadmium,0
+Jun-16,Calcium,0
+Jun-16,Chemical Oxygen Demand (Cr),1
+Jun-16,Chlorides,0
+Jun-16,Chlorodinine,0
+Jun-16,Dissolved oxygen,0
+Jun-16,Lead,1
+Jun-16,Magnesium,0
+Jun-16,Methylosmoline,0
+Jun-16,Nickel,0
+Jun-16,Nitrates,0
+Jun-16,Nitrites,0
+Jun-16,Orthophosphate-phosphorus,2
+Jun-16,Total dissolved phosphorus,2
+Jun-16,Total dissolved salts,0
+Jun-16,Total hardness,0
+Jun-16,Total nitrogen,2
+Jun-16,Total phosphorus,2
+Jun-16,Water temperature,0
+Jun-16,gamma-Hexachlorocyclohexane,0
+Jun-16,"p,p-DDT",0
+Jul-16,AGOC-3A,0
+Jul-16,Ammonium,0
+Jul-16,Anionic active surfactants,0
+Jul-16,Atrazine,0
+Jul-16,Biochemical Oxygen,0
+Jul-16,Cadmium,0
+Jul-16,Calcium,0
+Jul-16,Chemical Oxygen Demand (Cr),1
+Jul-16,Chlorides,0
+Jul-16,Chlorodinine,0
+Jul-16,Dissolved oxygen,0
+Jul-16,Lead,1
+Jul-16,Magnesium,0
+Jul-16,Mercury,0
+Jul-16,Methylosmoline,0
+Jul-16,Nickel,0
+Jul-16,Nitrates,0
+Jul-16,Nitrites,0
+Jul-16,Orthophosphate-phosphorus,2
+Jul-16,Petroleum hydrocarbons,1
+Jul-16,Total dissolved phosphorus,3
+Jul-16,Total dissolved salts,0
+Jul-16,Total hardness,0
+Jul-16,Total nitrogen,3
+Jul-16,Total phosphorus,3
+Jul-16,Water temperature,0
+Jul-16,gamma-Hexachlorocyclohexane,0
+Jul-16,"p,p-DDT",0
+Aug-16,AGOC-3A,0
+Aug-16,Ammonium,0
+Aug-16,Atrazine,0
+Aug-16,Biochemical Oxygen,0
+Aug-16,Cadmium,0
+Aug-16,Calcium,0
+Aug-16,Chemical Oxygen Demand (Cr),1
+Aug-16,Chlorides,0
+Aug-16,Chlorodinine,0
+Aug-16,Dissolved oxygen,0
+Aug-16,Lead,1
+Aug-16,Magnesium,0
+Aug-16,Mercury,0
+Aug-16,Methylosmoline,0
+Aug-16,Nickel,0
+Aug-16,Nitrates,0
+Aug-16,Nitrites,0
+Aug-16,Orthophosphate-phosphorus,2
+Aug-16,Total dissolved phosphorus,2
+Aug-16,Total dissolved salts,0
+Aug-16,Total hardness,0
+Aug-16,Total nitrogen,2
+Aug-16,Total phosphorus,2
+Aug-16,Water temperature,0
+Aug-16,gamma-Hexachlorocyclohexane,0
+Aug-16,"p,p-DDT",0
+Sep-16,AGOC-3A,0
+Sep-16,Ammonium,0
+Sep-16,Atrazine,0
+Sep-16,Biochemical Oxygen,0
+Sep-16,Cadmium,0
+Sep-16,Calcium,0
+Sep-16,Chemical Oxygen Demand (Cr),1
+Sep-16,Chlorides,0
+Sep-16,Chlorodinine,0
+Sep-16,Dissolved oxygen,0
+Sep-16,Lead,1
+Sep-16,Magnesium,0
+Sep-16,Mercury,0
+Sep-16,Methylosmoline,0
+Sep-16,Nickel,0
+Sep-16,Nitrates,0
+Sep-16,Nitrites,0
+Sep-16,Orthophosphate-phosphorus,3
+Sep-16,Sulphates,0
+Sep-16,Total dissolved phosphorus,3
+Sep-16,Total dissolved salts,0
+Sep-16,Total hardness,0
+Sep-16,Total nitrogen,3
+Sep-16,Total phosphorus,3
+Sep-16,Water temperature,0
+Sep-16,gamma-Hexachlorocyclohexane,0
+Sep-16,"p,p-DDT",0
+Oct-16,AGOC-3A,0
+Oct-16,Ammonium,0
+Oct-16,Anionic active surfactants,0
+Oct-16,Atrazine,0
+Oct-16,Biochemical Oxygen,0
+Oct-16,Cadmium,0
+Oct-16,Calcium,0
+Oct-16,Chemical Oxygen Demand (Cr),1
+Oct-16,Chlorides,0
+Oct-16,Chlorodinine,0
+Oct-16,Dissolved oxygen,0
+Oct-16,Lead,1
+Oct-16,Magnesium,0
+Oct-16,Mercury,0
+Oct-16,Methylosmoline,0
+Oct-16,Nickel,0
+Oct-16,Nitrates,0
+Oct-16,Nitrites,0
+Oct-16,Orthophosphate-phosphorus,1
+Oct-16,Petroleum hydrocarbons,0
+Oct-16,Sulphates,0
+Oct-16,Total dissolved phosphorus,2
+Oct-16,Total dissolved salts,0
+Oct-16,Total hardness,0
+Oct-16,Total nitrogen,2
+Oct-16,Total phosphorus,2
+Oct-16,Water temperature,0
+Oct-16,gamma-Hexachlorocyclohexane,0
+Oct-16,"p,p-DDT",0
+Nov-16,AGOC-3A,0
+Nov-16,Ammonium,0
+Nov-16,Atrazine,0
+Nov-16,Biochemical Oxygen,0
+Nov-16,Cadmium,0
+Nov-16,Calcium,0
+Nov-16,Chemical Oxygen Demand (Cr),1
+Nov-16,Chlorides,0
+Nov-16,Chlorodinine,0
+Nov-16,Dissolved oxygen,0
+Nov-16,Lead,1
+Nov-16,Magnesium,0
+Nov-16,Mercury,0
+Nov-16,Methylosmoline,0
+Nov-16,Nickel,0
+Nov-16,Nitrates,0
+Nov-16,Nitrites,0
+Nov-16,Orthophosphate-phosphorus,1
+Nov-16,Total dissolved phosphorus,2
+Nov-16,Total dissolved salts,0
+Nov-16,Total hardness,0
+Nov-16,Total nitrogen,2
+Nov-16,Total phosphorus,2
+Nov-16,Water temperature,0
+Nov-16,gamma-Hexachlorocyclohexane,0
+Nov-16,"p,p-DDT",0
+Dec-16,AGOC-3A,0
+Dec-16,Ammonium,1
+Dec-16,Atrazine,0
+Dec-16,Biochemical Oxygen,0
+Dec-16,Cadmium,1
+Dec-16,Calcium,0
+Dec-16,Chemical Oxygen Demand (Cr),1
+Dec-16,Chlorides,0
+Dec-16,Chlorodinine,0
+Dec-16,Dissolved oxygen,0
+Dec-16,Lead,1
+Dec-16,Magnesium,0
+Dec-16,Mercury,0
+Dec-16,Methylosmoline,0
+Dec-16,Nickel,0
+Dec-16,Nitrates,0
+Dec-16,Nitrites,0
+Dec-16,Orthophosphate-phosphorus,1
+Dec-16,Total dissolved phosphorus,2
+Dec-16,Total dissolved salts,0
+Dec-16,Total hardness,0
+Dec-16,Total nitrogen,2
+Dec-16,Total phosphorus,2
+Dec-16,Water temperature,0
+Dec-16,gamma-Hexachlorocyclohexane,0
+Dec-16,"p,p-DDT",0
