@@ -1,8 +1,0 @@
-[Ammonium_data.csv](https://github.com/SUSIEE01/d3/files/7859097/Ammonium_data.csv)
-[Chemical Oxygen Demand (Cr)_data.csv](https://github.com/SUSIEE01/d3/files/7859098/Chemical.Oxygen.Demand.Cr._data.csv)
-[Iron_data.csv](https://github.com/SUSIEE01/d3/files/7859099/Iron_data.csv)
-[Lead_data.csv](https://github.com/SUSIEE01/d3/files/7859100/Lead_data.csv)
-[Orthophosphate-phosphorus_data.csv](https://github.com/SUSIEE01/d3/files/7859101/Orthophosphate-phosphorus_data.csv)
-[Oxygen saturation_data.csv](https://github.com/SUSIEE01/d3/files/7859102/Oxygen.saturation_data.csv)
-[Total nitrogen_data.csv](https://github.com/SUSIEE01/d3/files/7859103/Total.nitrogen_data.csv)
-[Total phosphorus_data.csv](https://github.com/SUSIEE01/d3/files/7859104/Total.phosphorus_data.csv)
