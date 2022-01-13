@@ -1,0 +1,140 @@
+body {
+  font: 10px sans-serif;
+  /* background: white; */
+  background: rgb(219, 241, 245);
+}
+
+svg {
+  /* border:1px solid gray; */
+  border-radius:10px;
+  height:400px;
+  width:550px;
+  margin-right:30px;
+  /* background: rgb(239, 244, 245); */
+}
+
+a:hover
+a:active 
+a:visited{
+  background-color: greenyellow;
+  text-decoration: none;
+}
+a:link
+
+html {
+  font-family: 'Trebuchet MS', sans-serif;
+}
+
+.horizon-series .label {
+    position: absolute !important;
+    bottom: 0;
+    left: 4px !important;
+    font-family: sans-serif;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+    color: black  !important ;
+    font-size: 10px !important;
+    font-weight:1 !important;
+}
+
+#heatmap_main svg {
+  background: #f0fafc;
+  width : 900px !important;
+  height: 1200px !important;
+}
+
+#horizon_chart {
+  background: #f0fafc;
+  border-radius:10px;
+  margin-bottom: 30px;
+  height : 400px;
+  width : 550px;
+}
+
+#stream {
+  background: #f0fafc;
+}
+#barchart {
+  background: #f0fafc;
+}
+#linechart {
+  background: #f0fafc;
+}
+
+#innovativeGeoMapSvg {
+  /* border:1px solid gray ! important; */
+  border-radius:10px ! important;
+  width : 890px ! important;
+  height: 890px !important;
+  margin-left: -85px;
+  background: url('../Waterways Final.png') no-repeat;
+}
+
+#legend {
+  border-radius:0px;
+  background: none;
+  border: none;
+  margin-top: 20px;
+  margin-left: 150px;
+  width : 500px;
+  height: 40px;
+}
+
+#chemicalDropdowList {
+  margin : 15px;
+}
+#yearSlider {
+  margin-left : 30px;
+  margin-top: 15px;
+}
+
+h2, h3 {
+  text-align:center;
+}
+
+.x-axis line, .x-axis path { stroke: #fff; }
+
+.labels {
+	stroke:None;
+}
+
+#ex1Slider .slider-selection {
+	background: green;
+}
+
+#ex1Slider .slider-track-high {
+	background: #BABABA;
+}
+
+#ex1 {
+	width: 30px;
+}
+
+.myTooltip {
+  position: absolute;
+  z-index: 10;
+  visibility: hidden;
+  text-align: center;
+  font-weight: bold;
+  border: 1px solid black;
+  border-radius: 8px;
+  background-color: white;
+  padding: 10px;
+  cursor: pointer;
+}
+
+div.tooltip-boxplot {	
+  position: absolute;			
+  text-align: center;			
+  width: 80px;					
+  height: 90px;					
+  padding: 2px;				
+  font: 12px sans-serif;		
+  background: white;	
+  border: 0px;		
+  border-radius: 8px;			
+  pointer-events: none;			
+}
+
+label {
+  margin-left : 10px;
+}
